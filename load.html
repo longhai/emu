@@ -2,7 +2,11 @@
 <html>
 <head>
 <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<style>*{margin:0;padding:0}body,html,#g{width:100%;height:100%;background:#000;overflow:hidden}</style>
+<style>
+  *{margin:0;padding:0}
+  body,html,#g{width:100%;height:100%;background:#000;overflow:hidden;color:#fff;font-family:sans-serif}
+  #err{display:flex;justify-content:center;align-items:center;height:100%}
+</style>
 </head>
 <body>
 <div id="g"></div>
@@ -22,9 +26,10 @@ if(r && c){
   const s = document.createElement('script');
   s.src = 'https://cdn.emulatorjs.org/stable/data/loader.js';
   document.body.appendChild(s);
+} else {
+  document.getElementById('g').innerHTML = '<div id="err"><p>Thiếu tham số <b>core</b> hoặc <b>rom</b> trên URL!</p></div>';
 }
 </script>
 </body>
 </html>
 <!--https://longhai.github.io/emu/load.html?core=fbneo&rom=https://longhai.github.io/games/roms/Arcade/1943kai.zip-->
-
