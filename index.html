@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<style>*{margin:0;padding:0}body,html,#g{width:100%;height:100%;background:#000;overflow:hidden}</style>
+</head>
+<body>
+<div id="g"></div>
+<script>
+const p=new URLSearchParams(location.search), r=p.get('rom'), c=p.get('core');
+const ARC='https://link.com/bios.7z', PS1='https://link.com/ps1_bios.bin';
+const B={fbneo:ARC, mame2010:ARC, psx:PS1};
+
+if(r && c){
+  EJS_player = '#g';
+  EJS_core = c;
+  EJS_gameUrl = r;
+  EJS_startOnLoaded = true;
+  if(B[c]) EJS_biosUrl = B[c];
+
+  const s = document.createElement('script');
+  // Load thẳng loader từ CDN mà không cần dùng EJS_pathtodata
+  s.src = 'https://cdn.emulatorjs.org/stable/data/loader.js';
+  document.body.appendChild(s);
+}
+</script>
+</body>
+</html>
