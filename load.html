@@ -5,13 +5,14 @@
 <div id=g></div>
 <script>
 S = new URLSearchParams(location.search);
-C = S.get('core'); R = S.get('rom'); P = S.get('p'); // Dùng P cho Parent URL
+C = S.get('core'); R = S.get('rom');
 
 if (R && C) {
   EJS_player = '#g';
   EJS_core = C;
   EJS_gameUrl = R;
-  EJS_gameParentUrl = P;
+  EJS_gameParentUrl = S.get('p');     // Link ROM mẹ cho game thùng (.zip)
+  EJS_gamePatchUrl = S.get('patch');  // Link file Mod/Việt hóa (.ips/.bps)
   EJS_startOnLoaded = true;
   EJS_biosUrl = {fbneo:'arcade.7z', mame2003:'arcade.7z', psx:'psx.7z'}[C];
   EJS_pathtodata = 'https://cdn.emulatorjs.org/stable/data/';
