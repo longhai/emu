@@ -1,20 +1,25 @@
-<!doctype html>
-<html><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1">
 <style>
-*{margin:0}html,body,#g{width:100%;height:100%;background:#000;color:#fff;overflow:hidden}#err{height:100%;display:flex;flex-direction:column;justify-content:center;align-items:center;gap:10px;text-align:center}
+*{margin:0}html,body,#g{width:100%;height:100%;background:#000;color:#fff;overflow:hidden}
+#g{display:grid;place-content:center;text-align:center;gap:10px}
 </style>
 <div id=g></div>
 <script>
-p=new URLSearchParams(location.search);r=p.get('rom');c=p.get('core');
-if(r&&c){
-EJS_player='#g';
-EJS_core=c;
-EJS_gameUrl=r;
-EJS_pathtodata='https://cdn.emulatorjs.org/stable/data/';
-EJS_startOnLoaded=true;
-EJS_biosUrl={fbneo:'arcade.7z',mame2003:'arcade.7z',psx:'psx.7z'}[c];
-s=document.createElement('script');
-s.src=EJS_pathtodata+'loader.js';
-document.body.append(s);
-}else g.innerHTML='<div id=err><p>Thiếu tham số <b>core</b> hoặc <b>rom</b>!</p><p>load.html?core=fbneo&rom=https://...game.zip</p></div>';
+S = new URLSearchParams(location.search);
+C = S.get('core'); R = S.get('rom'); P = S.get('p'); // Dùng P cho Parent URL
+
+if (R && C) {
+  EJS_player = '#g';
+  EJS_core = C;
+  EJS_gameUrl = R;
+  EJS_gameParentUrl = P;
+  EJS_startOnLoaded = true;
+  EJS_biosUrl = {fbneo:'arcade.7z', mame2003:'arcade.7z', psx:'psx.7z'}[C];
+  EJS_pathtodata = 'https://cdn.emulatorjs.org/stable/data/';
+  
+  s = document.createElement('script');
+  s.src = EJS_pathtodata + 'loader.js';
+  document.head.append(s);
+} else {
+  g.innerHTML = '<p>Thiếu tham số <b>core</b> hoặc <b>rom</b>!</p><p>load.html?core=fbneo&rom=https://...game.zip</p>';
+}
 </script>
