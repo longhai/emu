@@ -1,0 +1,1552 @@
+<?xml version="1.0" encoding="utf-8"?>
+<datafile>
+  <header>
+    <name>FinalBurn Neo v1.0.0.03 (ClrMame Pro XML, PC-Engine only)</name>
+    <description>Cleaned DAT</description>
+  </header>
+  <game name="1943kai">
+    <description>1943 Kai (Japan)</description>
+    <year>1991</year>
+    <manufacturer>Naxat Soft</manufacturer>
+  </game>
+  <game name="21emon">
+    <description>21 Emon - Mezase Hotel ou!! (Japan)</description>
+    <year>1994</year>
+    <manufacturer>NEC Home Electronics</manufacturer>
+  </game>
+  <game name="advislnd">
+    <description>Adventure Island (Japan)</description>
+    <year>1991</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="aeroblst">
+    <description>Aero Blasters (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="aburner2">
+    <description>After Burner II (Japan)</description>
+    <year>1990</year>
+    <manufacturer>NEC Avenue</manufacturer>
+  </game>
+  <game name="acrush">
+    <description>Alien Crush (Japan)</description>
+    <year>1988</year>
+    <manufacturer>Naxat Soft</manufacturer>
+  </game>
+  <game name="ankoku">
+    <description>Ankoku Densetsu ~ The Legendary Axe 2 (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Victor Interactive Software</manufacturer>
+  </game>
+  <game name="aoiblink">
+    <description>Aoi Blink (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="appgateb">
+    <description>Appare! Gateball (Japan)</description>
+    <year>1988</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="armedf">
+    <description>Armed Formation F (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Big Don</manufacturer>
+  </game>
+  <game name="arttool">
+    <description>Artist Tool (Japan)</description>
+    <year>1989</year>
+    <manufacturer>NEC Home Electronics</manufacturer>
+  </game>
+  <game name="atlantean">
+    <description>Atlantean (HB)</description>
+    <year>2014</year>
+    <manufacturer>Aetherbyte</manufacturer>
+  </game>
+  <game name="atomrobo">
+    <description>Atomic Robo-kid Special (Japan)</description>
+    <year>1989</year>
+    <manufacturer>UPL</manufacturer>
+  </game>
+  <game name="avpoker">
+    <description>AV Poker (Japan)</description>
+    <year>1992</year>
+    <manufacturer>Games Express</manufacturer>
+  </game>
+  <game name="ballistx">
+    <description>Ballistix (Japan)</description>
+    <year>1991</year>
+    <manufacturer>Coconuts Japan</manufacturer>
+  </game>
+  <game name="barbarianami">
+    <description>Barbarian - The Ultimate Warrior - Amiga (HB)</description>
+    <year>2017</year>
+    <manufacturer>F.L</manufacturer>
+  </game>
+  <game name="baribari">
+    <description>Bari Bari Densetsu (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Taito Corp.</manufacturer>
+  </game>
+  <game name="barunba">
+    <description>Barunba (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Namcot</manufacturer>
+  </game>
+  <game name="batman">
+    <description>Batman (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Sunsoft</manufacturer>
+  </game>
+  <game name="batloder">
+    <description>Battle Lode Runner (Japan)</description>
+    <year>1993</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="beball">
+    <description>Be Ball (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="benkei">
+    <description>Benkei Gaiden (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Sunsoft</manufacturer>
+  </game>
+  <game name="bikkuri">
+    <description>Bikkuriman World (Japan)</description>
+    <year>1987</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="blodia">
+    <description>Blodia (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="bodycon2">
+    <description>Body Conquest II (Japan)</description>
+    <year>1993</year>
+    <manufacturer>Games Express</manufacturer>
+  </game>
+  <game name="bombmn93">
+    <description>Bomberman '93 (Japan)</description>
+    <year>1992</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="bombmn94">
+    <description>Bomberman '94 (Japan)</description>
+    <year>1993</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="bombman">
+    <description>Bomberman (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="bombmnub">
+    <description>Bomberman - Users Battle (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="lostsunh">
+    <description>Bouken Danshaku Don - The Lost Sunheart (Japan)</description>
+    <year>1992</year>
+    <manufacturer>I'Max</manufacturer>
+  </game>
+  <game name="breakin">
+    <description>Break In (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Naxat Soft</manufacturer>
+  </game>
+  <game name="bubblegm">
+    <description>Bubblegum Crash! - Knight Sabers 2034 (Japan)</description>
+    <year>1991</year>
+    <manufacturer>Naxat Soft</manufacturer>
+  </game>
+  <game name="bughunt">
+    <description>Bug Hunt (HB)</description>
+    <year>2013</year>
+    <manufacturer>cabbage</manufacturer>
+  </game>
+  <game name="bullfght">
+    <description>Bull Fight - Ring no Haja (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Cream Co.</manufacturer>
+  </game>
+  <game name="burnangl">
+    <description>Burning Angels (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Naxat Soft</manufacturer>
+  </game>
+  <game name="cyberx">
+    <description>Busou Keiji - Cyber Cross (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Face Corp.</manufacturer>
+  </game>
+  <game name="cadash">
+    <description>Cadash (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Taito Corp.</manufacturer>
+  </game>
+  <game name="scdsys">
+    <description>CD System Card</description>
+    <year>1991</year>
+    <manufacturer>NEC</manufacturer>
+  </game>
+  <game name="champwrs">
+    <description>Champion Wrestler (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Taito Corp.</manufacturer>
+  </game>
+  <game name="chibim">
+    <description>Chibi Maruko Chan - Quiz de Piihyara (Japan)</description>
+    <year>1991</year>
+    <manufacturer>Namcot</manufacturer>
+  </game>
+  <game name="chikuden">
+    <description>Chikudenya Toubei - Kubikiri Yakata Yori (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Naxat Soft</manufacturer>
+  </game>
+  <game name="bravoman">
+    <description>Chouzetsu Rinjin - Bravoman (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Namcot</manufacturer>
+  </game>
+  <game name="circusld">
+    <description>Circus Lido (Japan)</description>
+    <year>1991</year>
+    <manufacturer>Unipost</manufacturer>
+  </game>
+  <game name="cityhunt">
+    <description>City Hunter (World)</description>
+    <year>1989-2026</year>
+    <manufacturer>Sunsoft</manufacturer>
+  </game>
+  <game name="columns">
+    <description>Columns (Japan)</description>
+    <year>1991</year>
+    <manufacturer>Nihon Telenet</manufacturer>
+  </game>
+  <game name="coryoon">
+    <description>Coryoon - Child of Dragon (Japan)</description>
+    <year>1991</year>
+    <manufacturer>Naxat Soft</manufacturer>
+  </game>
+  <game name="xwiber">
+    <description>Cross Wiber - Cyber Combat Police (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Face Corp.</manufacturer>
+  </game>
+  <game name="ccshockman">
+    <description>Cyber Citizen Shockman (World)</description>
+    <year>1989-2024</year>
+    <manufacturer>Extreme</manufacturer>
+  </game>
+  <game name="cybrcore">
+    <description>Cyber Core (Japan)</description>
+    <year>1990</year>
+    <manufacturer>IGS</manufacturer>
+  </game>
+  <game name="cyberdod">
+    <description>Cyber Dodge (Japan)</description>
+    <year>1992</year>
+    <manufacturer>Tonkin House</manufacturer>
+  </game>
+  <game name="cyknight">
+    <description>Cyber Knight (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Tonkin House</manufacturer>
+  </game>
+  <game name="daisenpu">
+    <description>Dai Senpu (Japan)</description>
+    <year>1990</year>
+    <manufacturer>NEC Avenue</manufacturer>
+  </game>
+  <game name="donaturl">
+    <description>Daichi Kun Crisis - Do Natural (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Salio</manufacturer>
+  </game>
+  <game name="dariusa">
+    <description>Darius Alpha (Japan)</description>
+    <year>1990</year>
+    <manufacturer>NEC Avenue</manufacturer>
+  </game>
+  <game name="dariusp">
+    <description>Darius Plus (Japan)</description>
+    <year>1990</year>
+    <manufacturer>NEC Avenue</manufacturer>
+  </game>
+  <game name="deadmoon">
+    <description>Dead Moon - Tsuki Sekai no Akumu (Japan)</description>
+    <year>1991</year>
+    <manufacturer>Natsume</manufacturer>
+  </game>
+  <game name="deepblue">
+    <description>Deep Blue - Kaitei Shinwa (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Pack-In-Video</manufacturer>
+  </game>
+  <game name="twinbee">
+    <description>Detana!! TwinBee (Japan)</description>
+    <year>1992</year>
+    <manufacturer>Konami</manufacturer>
+  </game>
+  <game name="devlcrsh">
+    <description>Devil Crash - Naxat Pinball (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Naxat Soft</manufacturer>
+  </game>
+  <game name="diehard">
+    <description>Die Hard (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Pack-In-Video</manufacturer>
+  </game>
+  <game name="digichmp">
+    <description>Digital Champ (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Naxat Soft</manufacturer>
+  </game>
+  <game name="dinoforce">
+    <description>Dinoforce (Japan)</description>
+    <year>2022</year>
+    <manufacturer>Tokuhisa Tajima</manufacturer>
+  </game>
+  <game name="dondoko">
+    <description>Don Doko Don! (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Taito Corp.</manufacturer>
+  </game>
+  <game name="dorams">
+    <description>Doraemon - Meikyuu Dai Sakusen (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="dorandn">
+    <description>Doraemon - Nobita no Dorabian Night (Japan)</description>
+    <year>1991</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="ddungw">
+    <description>Double Dungeons - W (Japan)</description>
+    <year>1989</year>
+    <manufacturer>NCS</manufacturer>
+  </game>
+  <game name="download">
+    <description>Download (Japan)</description>
+    <year>1990</year>
+    <manufacturer>NEC Avenue</manufacturer>
+  </game>
+  <game name="dragnegg">
+    <description>Dragon Egg! (Japan)</description>
+    <year>1991</year>
+    <manufacturer>NCS, Masaya</manufacturer>
+  </game>
+  <game name="dsaber">
+    <description>Dragon Saber - After Story of Dragon Spirit (Japan)</description>
+    <year>1991</year>
+    <manufacturer>Namcot</manufacturer>
+  </game>
+  <game name="dspirit">
+    <description>Dragon Spirit (Japan)</description>
+    <year>1988</year>
+    <manufacturer>Namcot</manufacturer>
+  </game>
+  <game name="droprock">
+    <description>Drop Rock Hora Hora (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Data East</manufacturer>
+  </game>
+  <game name="dungexpl">
+    <description>Dungeon Explorer (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="energy">
+    <description>Energy (Japan)</description>
+    <year>1989</year>
+    <manufacturer>NCS</manufacturer>
+  </game>
+  <game name="f1dream">
+    <description>F-1 Dream (Japan)</description>
+    <year>1989</year>
+    <manufacturer>NEC</manufacturer>
+  </game>
+  <game name="f1pilot">
+    <description>F-1 Pilot - You're King of Kings (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Pack-In-Video</manufacturer>
+  </game>
+  <game name="f1circ91">
+    <description>F1 Circus '91 - World Championship (Japan)</description>
+    <year>1991</year>
+    <manufacturer>Nihon Bussan</manufacturer>
+  </game>
+  <game name="f1circ92">
+    <description>F1 Circus '92 - The Speed of Sound (Japan)</description>
+    <year>1992</year>
+    <manufacturer>Nihon Bussan</manufacturer>
+  </game>
+  <game name="f1circus">
+    <description>F1 Circus (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Nihon Bussan</manufacturer>
+  </game>
+  <game name="f1tb">
+    <description>F1 Triple Battle (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Human</manufacturer>
+  </game>
+  <game name="fantzone">
+    <description>Fantasy Zone (Japan)</description>
+    <year>1988</year>
+    <manufacturer>NEC</manufacturer>
+  </game>
+  <game name="fightrun">
+    <description>Fighting Run (Japan)</description>
+    <year>1991</year>
+    <manufacturer>Nihon Bussan</manufacturer>
+  </game>
+  <game name="finlblst">
+    <description>Final Blaster (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Namcot</manufacturer>
+  </game>
+  <game name="finallap">
+    <description>Final Lap Twin (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Namcot</manufacturer>
+  </game>
+  <game name="finalmt">
+    <description>Final Match Tennis (Japan)</description>
+    <year>1991</year>
+    <manufacturer>Human</manufacturer>
+  </game>
+  <game name="finalmtladies">
+    <description>Final Match Tennis - Ladies (Super CD-Rom Hack)</description>
+    <year>2002-2016</year>
+    <manufacturer>Human</manufacturer>
+  </game>
+  <game name="finalsol">
+    <description>Final Soldier (Japan)</description>
+    <year>1991</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="fireprow">
+    <description>Fire Pro Wrestling - Combination Tag (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Human</manufacturer>
+  </game>
+  <game name="fireprw2">
+    <description>Fire Pro Wrestling 2 - 2nd Bout (Japan)</description>
+    <year>1991</year>
+    <manufacturer>Human</manufacturer>
+  </game>
+  <game name="fireprw3">
+    <description>Fire Pro Wrestling 3 - Legend Bout (Japan)</description>
+    <year>1992</year>
+    <manufacturer>Human</manufacturer>
+  </game>
+  <game name="fsoccr90">
+    <description>Formation Soccer - Human Cup '90 (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Human</manufacturer>
+  </game>
+  <game name="fsoccer">
+    <description>Formation Soccer - On J. League (Japan)</description>
+    <year>1994</year>
+    <manufacturer>Human</manufacturer>
+  </game>
+  <game name="alice">
+    <description>Fushigi no Yume no Alice (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Face Corp.</manufacturer>
+  </game>
+  <game name="gaiflame">
+    <description>Gai Flame (Japan)</description>
+    <year>1990</year>
+    <manufacturer>NCS</manufacturer>
+  </game>
+  <game name="gaiamons">
+    <description>Gaia no Monshou (Japan)</description>
+    <year>1988</year>
+    <manufacturer>NCS</manufacturer>
+  </game>
+  <game name="galaga88">
+    <description>Galaga '88 (Japan)</description>
+    <year>1988</year>
+    <manufacturer>Namcot</manufacturer>
+  </game>
+  <game name="ganbgolf">
+    <description>Ganbare! Golf Boys (Japan)</description>
+    <year>1989</year>
+    <manufacturer>NCS</manufacturer>
+  </game>
+  <game name="gekisboy">
+    <description>Gekisha Boy (Japan)</description>
+    <year>1992</year>
+    <manufacturer>Irem Corp.</manufacturer>
+  </game>
+  <game name="genjitsu">
+    <description>Genji Tsuushin Agedama (Japan)</description>
+    <year>1991</year>
+    <manufacturer>NEC Home Electronics</manufacturer>
+  </game>
+  <game name="genpei">
+    <description>Genpei Toumaden (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Namcot</manufacturer>
+  </game>
+  <game name="genpemak">
+    <description>Genpei Toumaden ni no Maki (Japan)</description>
+    <year>1992</year>
+    <manufacturer>Namcot</manufacturer>
+  </game>
+  <game name="chukatai">
+    <description>Gokuraku! Chuka Taisen (Japan)</description>
+    <year>1992</year>
+    <manufacturer>Taito Corp.</manufacturer>
+  </game>
+  <game name="gomola">
+    <description>Gomola Speed (Japan)</description>
+    <year>1990</year>
+    <manufacturer>UPL</manufacturer>
+  </game>
+  <game name="gradius">
+    <description>Gradius (Japan)</description>
+    <year>1991</year>
+    <manufacturer>Konami</manufacturer>
+  </game>
+  <game name="gunhed">
+    <description>GunHed (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="gunhedht">
+    <description>GunHed - Hudson GunHed Taikai (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="hanataka">
+    <description>Hana Taaka Daka! (Japan)</description>
+    <year>1991</year>
+    <manufacturer>Taito Corp.</manufacturer>
+  </game>
+  <game name="haniisky">
+    <description>Hanii in the Sky (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Face Corp.</manufacturer>
+  </game>
+  <game name="haniirod">
+    <description>Hanii on the Road (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Face Corp.</manufacturer>
+  </game>
+  <game name="hatris">
+    <description>Hatris (Japan)</description>
+    <year>1991</year>
+    <manufacturer>Tengen</manufacturer>
+  </game>
+  <game name="hvyunit">
+    <description>Heavy Unit (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Taito Corp.</manufacturer>
+  </game>
+  <game name="xserd">
+    <description>Hisou Kihei - Xserd (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Masaya</manufacturer>
+  </game>
+  <game name="hitice">
+    <description>Hit the Ice - VHL The Official Video Hockey League (Japan)</description>
+    <year>1991</year>
+    <manufacturer>Taito Corp.</manufacturer>
+  </game>
+  <game name="ddanpei">
+    <description>Honoo no Toukyuuji - Dodge Danpei (Japan)</description>
+    <year>1992</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="huzero">
+    <description>HuZERO - Caravan Edition (HB)</description>
+    <year>2014</year>
+    <manufacturer>Chris Covell</manufacturer>
+  </game>
+  <game name="idolhana">
+    <description>Idol Hanafuda Fan Club (Japan)</description>
+    <year>1991</year>
+    <manufacturer>Game Express</manufacturer>
+  </game>
+  <game name="imagefgt">
+    <description>Image Fight (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Irem Corp.</manufacturer>
+  </game>
+  <game name="jleag11">
+    <description>J. League Greatest Eleven (Japan)</description>
+    <year>1993</year>
+    <manufacturer>Nihon Bussan</manufacturer>
+  </game>
+  <game name="nicklaus">
+    <description>Jack Nicklaus' Greatest 18 Holes of Major Championship Golf (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Victor Interactive Software</manufacturer>
+  </game>
+  <game name="jchan">
+    <description>Jackie Chan (Japan)</description>
+    <year>1991</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="jigomegu">
+    <description>Jigoku Meguri (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Taito Corp.</manufacturer>
+  </game>
+  <game name="jinmu">
+    <description>Jinmu Denshou (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Big Club</manufacturer>
+  </game>
+  <game name="jurl">
+    <description>Jurl (HB, v0.9b)</description>
+    <year>2024</year>
+    <manufacturer>Tonsomo Entertainment</manufacturer>
+  </game>
+  <game name="juuouki">
+    <description>Juuouki (Japan)</description>
+    <year>1989</year>
+    <manufacturer>NEC Avenue</manufacturer>
+  </game>
+  <game name="katochan">
+    <description>Kato Chan &amp; Ken Chan (Japan)</description>
+    <year>1987</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="kattobi">
+    <description>Kattobi! Takuhai Kun (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Tonkin House</manufacturer>
+  </game>
+  <game name="kickball">
+    <description>Kickball (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Masaya</manufacturer>
+  </game>
+  <game name="kikikai">
+    <description>Kiki KaiKai (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Taito Corp.</manufacturer>
+  </game>
+  <game name="kingcasn">
+    <description>King of Casino (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Victor Interactive Software</manufacturer>
+  </game>
+  <game name="klax">
+    <description>Klax (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Tengen</manufacturer>
+  </game>
+  <game name="knightrs">
+    <description>Knight Rider Special (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Pack-In-Video</manufacturer>
+  </game>
+  <game name="proyak89">
+    <description>Kore Ga Pro Yakyuu '89 (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Intec</manufacturer>
+  </game>
+  <game name="proyak90">
+    <description>Kore Ga Pro Yakyuu '90 (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Intec</manufacturer>
+  </game>
+  <game name="kungfu">
+    <description>Kung Fu, The (Japan)</description>
+    <year>1987</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="kyukyomj">
+    <description>Kyuukyoku Mahjong - Idol Graphics (Japan)</description>
+    <year>1992</year>
+    <manufacturer>Game Express</manufacturer>
+  </game>
+  <game name="kyukyom2">
+    <description>Kyuukyoku Mahjong II (Japan)</description>
+    <year>1993</year>
+    <manufacturer>Game Express</manufacturer>
+  </game>
+  <game name="ktiger">
+    <description>Kyuukyoku Tiger (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Taito Corp.</manufacturer>
+  </game>
+  <game name="ladyswrd">
+    <description>Lady Sword (Japan)</description>
+    <year>1992</year>
+    <manufacturer>Game Express</manufacturer>
+  </game>
+  <game name="loht">
+    <description>Legend of Hero Tonma (Japan)</description>
+    <year>1991</year>
+    <manufacturer>Irem Corp.</manufacturer>
+  </game>
+  <game name="ldrun">
+    <description>Lode Runner - Lost Labyrinth (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Pack-In-Video</manufacturer>
+  </game>
+  <game name="magchase">
+    <description>Magical Chase (Japan)</description>
+    <year>1991</year>
+    <manufacturer>Palsoft</manufacturer>
+  </game>
+  <game name="mjgakmld">
+    <description>Mahjong Gakuen Mild - Touma Soushirou Toujou (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Face Corp.</manufacturer>
+  </game>
+  <game name="mjgakuen">
+    <description>Mahjong Gakuen - Touma Soushirou Toujou (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Face Corp.</manufacturer>
+  </game>
+  <game name="mjgokusp">
+    <description>Mahjong Gokuu Special (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Sunsoft</manufacturer>
+  </game>
+  <game name="mjkaiser">
+    <description>Mahjong Haou Den - Kaiser's Quest (Japan)</description>
+    <year>1992</year>
+    <manufacturer>UPL</manufacturer>
+  </game>
+  <game name="mjwars">
+    <description>Mahjong Shikyaku Retsuden - Mahjong Wars (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Nihon Bussan</manufacturer>
+  </game>
+  <game name="mainurse">
+    <description>Mai Nurse (HB)</description>
+    <year>2024</year>
+    <manufacturer>lunoka</manufacturer>
+  </game>
+  <game name="mikkoku">
+    <description>Maison Ikkoku (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Micro Cabin</manufacturer>
+  </game>
+  <game name="makaihak">
+    <description>Makai Hakken Den Shada (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Data East</manufacturer>
+  </game>
+  <game name="makaipri">
+    <description>Makai Prince Dorabocchan (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Naxat Soft</manufacturer>
+  </game>
+  <game name="makyoden">
+    <description>Makyou Densetsu (Japan)</description>
+    <year>1988</year>
+    <manufacturer>Victor Interactive Software</manufacturer>
+  </game>
+  <game name="maniacpw">
+    <description>Maniac Pro Wres - Asu e no Tatakai (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="marchen">
+    <description>Marchen Maze (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Namcot</manufacturer>
+  </game>
+  <game name="mashwataru">
+    <description>Mashin Eiyuuden Wataru (Japan)</description>
+    <year>1988</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="mesopot">
+    <description>Mesopotamia (Japan)</description>
+    <year>1991</year>
+    <manufacturer>Atlus Co.</manufacturer>
+  </game>
+  <game name="metlstok">
+    <description>Metal Stoker (Japan)</description>
+    <year>1991</year>
+    <manufacturer>Face Corp.</manufacturer>
+  </game>
+  <game name="mizubaku">
+    <description>Mizubaku Dai Bouken ~ Liquid Kids (Japan)</description>
+    <year>1992</year>
+    <manufacturer>Taito Corp.</manufacturer>
+  </game>
+  <game name="momogdn">
+    <description>Momotarou Densetsu Gaiden Dai 1 Shuu (Japan)</description>
+    <year>1992</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="momo2">
+    <description>Momotarou Densetsu II (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="momotrbo">
+    <description>Momotarou Densetsu Turbo (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="momoktsg">
+    <description>Momotarou Katsugeki (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="mnstprow">
+    <description>Monster Pro Wrestling (Japan)</description>
+    <year>1991</year>
+    <manufacturer>ASK</manufacturer>
+  </game>
+  <game name="moritash">
+    <description>Morita Shougi PC (Japan)</description>
+    <year>1991</year>
+    <manufacturer>NEC Avenue</manufacturer>
+  </game>
+  <game name="motoroad">
+    <description>Moto Roader (Japan)</description>
+    <year>1989</year>
+    <manufacturer>NCS</manufacturer>
+  </game>
+  <game name="motorod2">
+    <description>Moto Roader II (Japan)</description>
+    <year>1991</year>
+    <manufacturer>Masaya</manufacturer>
+  </game>
+  <game name="mrheli">
+    <description>Mr. Heli no Daibouken (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Irem Corp.</manufacturer>
+  </game>
+  <game name="nantet">
+    <description>Nantettatte Engine (HB)</description>
+    <year>2017</year>
+    <manufacturer>Atherbyte</manufacturer>
+  </game>
+  <game name="blodwolf">
+    <description>Narazumono Sentou Butai - Bloody Wolf (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Data East</manufacturer>
+  </game>
+  <game name="naxopen">
+    <description>Naxat Open (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Naxat Soft</manufacturer>
+  </game>
+  <game name="naxstad">
+    <description>Naxat Stadium (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Naxat Soft</manufacturer>
+  </game>
+  <game name="nazomasq">
+    <description>Nazo no Masquerade (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Masaya</manufacturer>
+  </game>
+  <game name="necromcr">
+    <description>Necromancer (Japan)</description>
+    <year>1988</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="necros">
+    <description>Necros no Yousai (Japan)</description>
+    <year>1990</year>
+    <manufacturer>ASK</manufacturer>
+  </game>
+  <game name="nectaris">
+    <description>Nectaris (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="nekdodge">
+    <description>Nekketsu Koukou Dodgeball Bu - PC Bangai Hen (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Naxat Soft</manufacturer>
+  </game>
+  <game name="neksoccr">
+    <description>Nekketsu Koukou Dodgeball Bu - Soccer PC Hen (Japan)</description>
+    <year>1992</year>
+    <manufacturer>Naxat Soft</manufacturer>
+  </game>
+  <game name="neutopia">
+    <description>Neutopia (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="neutopi2">
+    <description>Neutopia II (Japan)</description>
+    <year>1991</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="tnzs">
+    <description>New Zealand Story, The (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Taito Corp.</manufacturer>
+  </game>
+  <game name="nhktaidr">
+    <description>NHK Taiga Drama - Taiheiki (Japan)</description>
+    <year>1992</year>
+    <manufacturer>NHK Enterprise</manufacturer>
+  </game>
+  <game name="nikopun">
+    <description>Niko Niko, Pun (Japan)</description>
+    <year>1991</year>
+    <manufacturer>NHK Enterprise</manufacturer>
+  </game>
+  <game name="nryukend">
+    <description>Ninja Ryukenden (Japan)</description>
+    <year>1992</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="ninjawar">
+    <description>Ninja Warriors, The (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Taito Corp.</manufacturer>
+  </game>
+  <game name="oboccha">
+    <description>Obocchama-kun (Japan)</description>
+    <year>1991</year>
+    <manufacturer>Namcot</manufacturer>
+  </game>
+  <game name="offthewall">
+    <description>Off the Wall (Prototype)</description>
+    <year>1992</year>
+    <manufacturer>Tengen</manufacturer>
+  </game>
+  <game name="opwolf">
+    <description>Operation Wolf (Japan)</description>
+    <year>1990</year>
+    <manufacturer>NEC Avenue</manufacturer>
+  </game>
+  <game name="ordyne">
+    <description>Ordyne (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Namcot</manufacturer>
+  </game>
+  <game name="outlive">
+    <description>Out Live (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Sunsoft</manufacturer>
+  </game>
+  <game name="outrun">
+    <description>Out Run (Japan)</description>
+    <year>1990</year>
+    <manufacturer>NEC Avenue</manufacturer>
+  </game>
+  <game name="override">
+    <description>Override (Japan)</description>
+    <year>1991</year>
+    <manufacturer>Data East</manufacturer>
+  </game>
+  <game name="p47">
+    <description>P-47 - The Freedom Fighter (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Aicom Corp.</manufacturer>
+  </game>
+  <game name="pacland">
+    <description>Pac-Land (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Namcot</manufacturer>
+  </game>
+  <game name="pachikun">
+    <description>Pachio Kun - Juuban Shoubu (Japan)</description>
+    <year>1992</year>
+    <manufacturer>Coconuts Japan</manufacturer>
+  </game>
+  <game name="paranoia">
+    <description>Paranoia (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Naxat Soft</manufacturer>
+  </game>
+  <game name="parasol">
+    <description>Parasol Stars - The Story of Bubble Bobble III (Japan)</description>
+    <year>1991</year>
+    <manufacturer>Taito Corp.</manufacturer>
+  </game>
+  <game name="parodius">
+    <description>Parodius da! - Shinwa Kara Owarai He (Japan)</description>
+    <year>1992</year>
+    <manufacturer>Konami</manufacturer>
+  </game>
+  <game name="pcdenj">
+    <description>PC Denjin - Punkic Cyborgs (Japan)</description>
+    <year>1992</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="pcgenj2">
+    <description>PC Genjin 2 - Pithecanthropus Computerurus (Japan)</description>
+    <year>1991</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="pcgenj3">
+    <description>PC Genjin 3 - Pithecanthropus Computerurus (Japan)</description>
+    <year>1993</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="pcgenj3t">
+    <description>PC Genjin 3 - Pithecanthropus Computerurus (Taikenban) (Japan)</description>
+    <year>1993</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="pcgenj">
+    <description>PC Genjin - Pithecanthropus Computerurus (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="pcpachi">
+    <description>PC Pachi-slot (Japan)</description>
+    <year>1992</year>
+    <manufacturer>Game Express</manufacturer>
+  </game>
+  <game name="populous">
+    <description>Populous (Japan)</description>
+    <year>1991</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="pdrift">
+    <description>Power Drift (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Asmik</manufacturer>
+  </game>
+  <game name="power11">
+    <description>Power Eleven (Japan)</description>
+    <year>1991</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="powergat">
+    <description>Power Gate (Japan)</description>
+    <year>1991</year>
+    <manufacturer>Pack-In-Video</manufacturer>
+  </game>
+  <game name="pgolf">
+    <description>Power Golf (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="pleag93">
+    <description>Power League '93 (Japan)</description>
+    <year>1993</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="pleague">
+    <description>Power League (Japan)</description>
+    <year>1988</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="pleagas">
+    <description>Power League - All Star Version (Japan)</description>
+    <year>1988</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="pleag2">
+    <description>Power League II (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="pleag3">
+    <description>Power League III (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="pleag4">
+    <description>Power League IV (Japan)</description>
+    <year>1991</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="pleag5">
+    <description>Power League V (Japan)</description>
+    <year>1992</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="psports">
+    <description>Power Sports (Japan)</description>
+    <year>1992</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="ptennis">
+    <description>Power Tennis (Japan)</description>
+    <year>1993</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="ptennwc">
+    <description>Pro Tennis World Court (Japan)</description>
+    <year>1988</year>
+    <manufacturer>Namcot</manufacturer>
+  </game>
+  <game name="proyak91">
+    <description>Pro Yakyuu World Stadium '91 (Japan)</description>
+    <year>1991</year>
+    <manufacturer>Namcot</manufacturer>
+  </game>
+  <game name="proyak">
+    <description>Pro Yakyuu World Stadium (Japan)</description>
+    <year>1988</year>
+    <manufacturer>Namcot</manufacturer>
+  </game>
+  <game name="psychas">
+    <description>Psycho Chaser (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Naxat Soft</manufacturer>
+  </game>
+  <game name="puzzlboy">
+    <description>Puzzle Boy (Japan)</description>
+    <year>1991</year>
+    <manufacturer>Nihon Telenet</manufacturer>
+  </game>
+  <game name="puzznic">
+    <description>Puzznic (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Taito Corp.</manufacturer>
+  </game>
+  <game name="quizts">
+    <description>Quiz Toukou Shashin (Japan)</description>
+    <year>1994</year>
+    <manufacturer>Games Express</manufacturer>
+  </game>
+  <game name="rtypep1">
+    <description>R-Type - Part-1 (Japan)</description>
+    <year>1988</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="rtypep2">
+    <description>R-Type - Part-2 (Japan)</description>
+    <year>1988</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="rabiolep">
+    <description>Rabio Lepus Special (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Video System</manufacturer>
+  </game>
+  <game name="racindam">
+    <description>Racing Damashii (Japan)</description>
+    <year>1991</year>
+    <manufacturer>Irem Corp.</manufacturer>
+  </game>
+  <game name="raiden">
+    <description>Raiden (Japan)</description>
+    <year>1991</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="rastan2">
+    <description>Rastan Saga II (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Taito Corp.</manufacturer>
+  </game>
+  <game name="reflectron">
+    <description>Reflectron (HB)</description>
+    <year>2013</year>
+    <manufacturer>Aetherbyte</manufacturer>
+  </game>
+  <game name="rockon">
+    <description>Rock-on (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Big Club</manufacturer>
+  </game>
+  <game name="ryukyu">
+    <description>Ryuukyuu (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Face Corp.</manufacturer>
+  </game>
+  <game name="sadaki7">
+    <description>Sadakichi 7 Series - Hideyoshi no Ougon (Japan)</description>
+    <year>1988</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="saigonin">
+    <description>Saigo no Nindou - Ninja Spirit (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Irem Corp.</manufacturer>
+  </game>
+  <game name="salamand">
+    <description>Salamander (Japan)</description>
+    <year>1991</year>
+    <manufacturer>Konami</manufacturer>
+  </game>
+  <game name="santatlantean">
+    <description>Santatlantean (HB)</description>
+    <year>2014</year>
+    <manufacturer>Aetherbyte</manufacturer>
+  </game>
+  <game name="sekigaha">
+    <description>Sekigahara (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Tonkin House</manufacturer>
+  </game>
+  <game name="sengokmj">
+    <description>Sengoku Mahjong (Japan)</description>
+    <year>1988</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="shanghai">
+    <description>Shanghai (Japan)</description>
+    <year>1987</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="shinobi">
+    <description>Shinobi (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Asmik</manufacturer>
+  </game>
+  <game name="shiryo">
+    <description>Shiryou Sensen (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Victor Interactive Software</manufacturer>
+  </game>
+  <game name="shogisi">
+    <description>Shougi Shodan Icchokusen (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Home Data</manufacturer>
+  </game>
+  <game name="shogism">
+    <description>Shougi Shoshinsha Muyou (Japan)</description>
+    <year>1991</year>
+    <manufacturer>Home Data</manufacturer>
+  </game>
+  <game name="sidearms">
+    <description>Side Arms - Hyper Dyne (Japan)</description>
+    <year>1989</year>
+    <manufacturer>NEC Avenue</manufacturer>
+  </game>
+  <game name="silentd">
+    <description>Silent Debuggers (Japan)</description>
+    <year>1991</year>
+    <manufacturer>Data East</manufacturer>
+  </game>
+  <game name="sindibad">
+    <description>Sindibad Chitei no Dai Makyuu (Japan)</description>
+    <year>1990</year>
+    <manufacturer>IGS</manufacturer>
+  </game>
+  <game name="skweek">
+    <description>Skweek (Japan)</description>
+    <year>1991</year>
+    <manufacturer>Victor Interactive Software</manufacturer>
+  </game>
+  <game name="sokoban">
+    <description>Sokoban World (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Media Rings Corporation</manufacturer>
+  </game>
+  <game name="soldblad">
+    <description>Soldier Blade (Japan)</description>
+    <year>1992</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="soldblas">
+    <description>Soldier Blade Special - Caravan Stage (Japan)</description>
+    <year>1992</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="sonson2">
+    <description>Son Son II (Japan)</description>
+    <year>1989</year>
+    <manufacturer>NEC</manufacturer>
+  </game>
+  <game name="sharrier">
+    <description>Space Harrier (Japan)</description>
+    <year>1988</year>
+    <manufacturer>NEC</manufacturer>
+  </game>
+  <game name="spaceinv">
+    <description>Space Invaders - Fukkatsu no Hi (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Taito Corp.</manufacturer>
+  </game>
+  <game name="sci">
+    <description>Special Criminal Investigation (Japan)</description>
+    <year>1991</year>
+    <manufacturer>Taito</manufacturer>
+  </game>
+  <game name="spinpair">
+    <description>Spin Pair (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Media Rings Corporation</manufacturer>
+  </game>
+  <game name="spirwave">
+    <description>Spiral Wave (Japan)</description>
+    <year>1991</year>
+    <manufacturer>Media Rings Corporation</manufacturer>
+  </game>
+  <game name="splatth">
+    <description>Splatterhouse (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Namcot</manufacturer>
+  </game>
+  <game name="splitres">
+    <description>Split Res (HB)</description>
+    <year>2008</year>
+    <manufacturer>Chris Covell</manufacturer>
+  </game>
+  <game name="stratego">
+    <description>Stratego (Japan)</description>
+    <year>1992</year>
+    <manufacturer>Victor Interactive Software</manufacturer>
+  </game>
+  <game name="sf2ce">
+    <description>Street Fighter II' - Champion Edition (Japan)</description>
+    <year>1993</year>
+    <manufacturer>NEC</manufacturer>
+  </game>
+  <game name="stripf2">
+    <description>Strip Fighter II (Japan)</description>
+    <year>19??</year>
+    <manufacturer>Game Express</manufacturer>
+  </game>
+  <game name="smcrush">
+    <description>Super Metal Crusher (Japan)</description>
+    <year>1991</year>
+    <manufacturer>Pack-In-Video</manufacturer>
+  </game>
+  <game name="smomo">
+    <description>Super Momotarou Dentetsu (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="smomo2">
+    <description>Super Momotarou Dentetsu II (Japan)</description>
+    <year>1991</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="sssoldr">
+    <description>Super Star Soldier (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="svolley">
+    <description>Super Volleyball (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Video System</manufacturer>
+  </game>
+  <game name="susano">
+    <description>Susanoo Densetsu (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="chasehq">
+    <description>Taito Chase H.Q. (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Taito Corp.</manufacturer>
+  </game>
+  <game name="takameib">
+    <description>Takahashi Meijin no Shin Boukenjima (Japan)</description>
+    <year>1992</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="shingen">
+    <description>Takeda Shingen (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Aicom Corp.</manufacturer>
+  </game>
+  <game name="tatsunok">
+    <description>Tatsu no Ko Fighter (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Tonkin House</manufacturer>
+  </game>
+  <game name="tatsujin">
+    <description>Tatsujin (Japan)</description>
+    <year>1992</year>
+    <manufacturer>Taito Corp.</manufacturer>
+  </game>
+  <game name="sdragon">
+    <description>Tenseiryuu - Saint Dragon (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Aicom Corp.</manufacturer>
+  </game>
+  <game name="terracr2">
+    <description>Terra Cresta II - Mandoraa no Gyakushuu (Japan)</description>
+    <year>1992</year>
+    <manufacturer>Nihon Bussan</manufacturer>
+  </game>
+  <game name="tblade">
+    <description>Thunder Blade (Japan)</description>
+    <year>1990</year>
+    <manufacturer>NEC Avenue</manufacturer>
+  </game>
+  <game name="timcrus2">
+    <description>Time Cruise II (Japan)</description>
+    <year>1991</year>
+    <manufacturer>Face Corp.</manufacturer>
+  </game>
+  <game name="titan">
+    <description>Titan (Japan)</description>
+    <year>1991</year>
+    <manufacturer>Naxat Soft</manufacturer>
+  </game>
+  <game name="toiletk">
+    <description>Toilet Kids (Japan)</description>
+    <year>1992</year>
+    <manufacturer>Media Rings Corporation</manufacturer>
+  </game>
+  <game name="tongueman">
+    <description>Tongueman's Logic (HB)</description>
+    <year>2007</year>
+    <manufacturer>Chris Covell</manufacturer>
+  </game>
+  <game name="toramich">
+    <description>Tora e no Michi (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Victor Interactive Software</manufacturer>
+  </game>
+  <game name="etercity">
+    <description>Toshi Tensou Keikaku - Eternal City (Japan)</description>
+    <year>1991</year>
+    <manufacturer>Naxat Soft</manufacturer>
+  </game>
+  <game name="druaga">
+    <description>Tower of Druaga, The (Japan)</description>
+    <year>1992</year>
+    <manufacturer>Namcot</manufacturer>
+  </game>
+  <game name="toyshopb">
+    <description>Toy Shop Boys (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Victor Interactive Software</manufacturer>
+  </game>
+  <game name="tricky">
+    <description>Tricky (Japan)</description>
+    <year>1991</year>
+    <manufacturer>IGS</manufacturer>
+  </game>
+  <game name="tsuppari">
+    <description>Tsuppari Oozumou - Heisei Ban (Japan)</description>
+    <year>1993</year>
+    <manufacturer>Naxat Soft</manufacturer>
+  </game>
+  <game name="baibai">
+    <description>Tsuru Teruhito no Jissen Kabushiki Bai Bai Game (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Intec</manufacturer>
+  </game>
+  <game name="tvbasket">
+    <description>TV Sports Basketball (Japan)</description>
+    <year>1993</year>
+    <manufacturer>Victor Interactive Software</manufacturer>
+  </game>
+  <game name="tvfootbl">
+    <description>TV Sports Football (Japan)</description>
+    <year>1991</year>
+    <manufacturer>Victor Interactive Software</manufacturer>
+  </game>
+  <game name="tvhockey">
+    <description>TV Sports Hockey (Japan)</description>
+    <year>1993</year>
+    <manufacturer>Victor Interactive Software</manufacturer>
+  </game>
+  <game name="usaprobs">
+    <description>USA Pro Basketball (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Aicom Corp.</manufacturer>
+  </game>
+  <game name="uwol">
+    <description>Uwol Quest for Money (HB, v1.1)</description>
+    <year>2018</year>
+    <manufacturer>Alekmaul</manufacturer>
+  </game>
+  <game name="valkyrie">
+    <description>Valkyrie no Densetsu (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Namcot</manufacturer>
+  </game>
+  <game name="veigues">
+    <description>Veigues - Tactical Gladiator (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Victor Interactive Software</manufacturer>
+  </game>
+  <game name="victoryr">
+    <description>Victory Run (Japan)</description>
+    <year>1987</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="vigilant">
+    <description>Vigilante (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Irem Corp.</manufacturer>
+  </game>
+  <game name="violents">
+    <description>Violent Soldier (Japan)</description>
+    <year>1990</year>
+    <manufacturer>IGS</manufacturer>
+  </game>
+  <game name="volfied">
+    <description>Volfied (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Taito Corp.</manufacturer>
+  </game>
+  <game name="wring">
+    <description>W-ring - The Double Rings (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Naxat Soft</manufacturer>
+  </game>
+  <game name="waiwaimj">
+    <description>Wai Wai Mahjong - Yukaina Janyuu Tachi (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Video System</manufacturer>
+  </game>
+  <game name="wallaby">
+    <description>Wallaby!! - Usagi no Kuni no Kangaroo Race (Japan)</description>
+    <year>1990</year>
+    <manufacturer>NCS</manufacturer>
+  </game>
+  <game name="winshot">
+    <description>Winning Shot (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Data East</manufacturer>
+  </game>
+  <game name="wonderm">
+    <description>Wonder Momo (Japan)</description>
+    <year>1989</year>
+    <manufacturer>Namcot</manufacturer>
+  </game>
+  <game name="wbeach">
+    <description>World Beach Volley (Japan)</description>
+    <year>1990</year>
+    <manufacturer>IGS</manufacturer>
+  </game>
+  <game name="wcircuit">
+    <description>World Circuit (Japan)</description>
+    <year>1991</year>
+    <manufacturer>Namcot</manufacturer>
+  </game>
+  <game name="wjockey">
+    <description>World Jockey (Japan)</description>
+    <year>1991</year>
+    <manufacturer>Namcot</manufacturer>
+  </game>
+  <game name="xevious">
+    <description>Xevious - Fardraut Densetsu (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Namcot</manufacturer>
+  </game>
+  <game name="youkaid">
+    <description>Youkai Douchuuki (Japan)</description>
+    <year>1988</year>
+    <manufacturer>Namcot</manufacturer>
+  </game>
+  <game name="yuyu">
+    <description>Yuu Yuu Jinsei - Victory Life (Japan)</description>
+    <year>1988</year>
+    <manufacturer>Hudson Soft</manufacturer>
+  </game>
+  <game name="zero4c">
+    <description>Zero4 Champ (Japan, v1.5)</description>
+    <year>1991</year>
+    <manufacturer>Media Rings Corporation</manufacturer>
+  </game>
+  <game name="zipang">
+    <description>Zipang (Japan)</description>
+    <year>1990</year>
+    <manufacturer>Pack-In-Video</manufacturer>
+  </game>
+</datafile>
