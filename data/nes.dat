@@ -66,7 +66,7 @@
   </game>
   <game name="akuusenrai">
     <description>Akuu Senki Raijin (Japan)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1988</year>
     <manufacturer>Squaresoft</manufacturer>
@@ -272,7 +272,7 @@
     <genre>MAZE</genre>
     <players>1</players>
     <year>2006</year>
-    <manufacturer>KingMike&#039;s Translations</manufacturer>
+    <manufacturer>KingMike's Translations</manufacturer>
   </game>
   <game name="deepdung2j" cloneof="deepdung2">
     <description>Deep Dungeon II: Yuushi no Monshou (Japan)</description>
@@ -282,11 +282,11 @@
     <manufacturer>HummingBird Soft</manufacturer>
   </game>
   <game name="deepdung2">
-    <description>Deep Dungeon II: The The Hero&#039;s Crest (Hack, English)</description>
+    <description>Deep Dungeon II: The The Hero's Crest (Hack, English)</description>
     <genre>MAZE</genre>
     <players>1</players>
     <year>2010</year>
-    <manufacturer>KingMike&#039;s Translations</manufacturer>
+    <manufacturer>KingMike's Translations</manufacturer>
   </game>
   <game name="digdug">
     <description>Dig Dug (Japan)</description>
@@ -412,7 +412,7 @@
     <genre>Action</genre>
     <players>1</players>
     <year>2001</year>
-    <manufacturer>KingMike&#039;s Translations</manufacturer>
+    <manufacturer>KingMike's Translations</manufacturer>
   </game>
   <game name="esperdreamj" cloneof="esperdream">
     <description>Esper Dream (Japan)</description>
@@ -507,7 +507,7 @@
   </game>
   <game name="finalcom">
     <description>Final Command - Akai Yousai (Japan)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>2</players>
     <year>1988</year>
     <manufacturer>Konami</manufacturer>
@@ -619,14 +619,14 @@
   </game>
   <game name="greenberet">
     <description>Green Beret (Japan)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>2</players>
     <year>1987</year>
     <manufacturer>Konami</manufacturer>
   </game>
   <game name="gunsmoke">
     <description>Gun.Smoke (Japan)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1988</year>
     <manufacturer>Capcom</manufacturer>
@@ -660,7 +660,7 @@
     <manufacturer>Squaresoft</manufacturer>
   </game>
   <game name="hikarshi">
-    <description>Hikari Shinwa: Palutena&#039;s Mirror (Hack, English) </description>
+    <description>Hikari Shinwa: Palutena's Mirror (Hack, English)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>2023</year>
@@ -738,14 +738,14 @@
   </game>
   <game name="kamenridbla" cloneof="kamenridblaen">
     <description>Kamen Rider Black - Taiketsu Shadow Moon (Japan)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>1988</year>
     <manufacturer>Bandai</manufacturer>
   </game>
   <game name="kamenridblaen">
     <description>Kamen Rider Black - Taiketsu Shadow Moon (Hack, English)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>2022</year>
     <manufacturer>BlackPaladin</manufacturer>
@@ -773,27 +773,27 @@
   </game>
   <game name="kikikaij" cloneof="kikikai">
     <description>Kiki Kaikai: Dotou-hen (Japan, Rev. 1)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>2</players>
     <year>1987</year>
     <manufacturer>Taito Corp.</manufacturer>
   </game>
   <game name="kikikai">
     <description>Kiki Kaikai: Dotou-hen ~ Mysterious Ghost World (Hack, English)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>2</players>
     <year>2024</year>
     <manufacturer>BlackPaladin</manufacturer>
   </game>
   <game name="kinni">
     <description>Kinnikuman - Kinnikusei Oui Soudatsusen (Japan)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>1987</year>
     <manufacturer>Bandai</manufacturer>
   </game>
   <game name="kittentale">
-    <description>Kitten&#039;s Tale, A - The Adventures of Chatran (Hack, English)</description>
+    <description>Kitten's Tale, A - The Adventures of Chatran (Hack, English)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>2024</year>
@@ -885,14 +885,14 @@
   </game>
   <game name="meikyjiidabj" cloneof="meikyjiidab">
     <description>Meikyuu Jiin Dababa (Japan)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1987</year>
     <manufacturer>Konami</manufacturer>
   </game>
   <game name="meikyjiidab">
     <description>Meikyuu Jiin Dababa (Hack, English)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>2017</year>
     <manufacturer>FlashPV</manufacturer>
@@ -1053,14 +1053,14 @@
   </game>
   <game name="relics" cloneof="relicsen">
     <description>Relics - Ankoku Yousai (Japan)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>1987</year>
     <manufacturer>Bothtec</manufacturer>
   </game>
   <game name="relicsen">
     <description>Relics - The Dark Fortress (Hack, English)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>2023</year>
     <manufacturer>BlackPaladin</manufacturer>
@@ -1101,7 +1101,7 @@
     <manufacturer>Mute</manufacturer>
   </game>
   <game name="santaclause">
-    <description>Santa Claus&#039; Toybox (Hack, English v1.01)</description>
+    <description>Santa Claus' Toybox (Hack, English v1.01)</description>
     <genre>MINIGAMES</genre>
     <players>1</players>
     <year>2003</year>
@@ -1255,7 +1255,7 @@
     <manufacturer>ShaneM</manufacturer>
   </game>
   <game name="tamafri">
-    <description>Tama &amp; Friends: 3 Choume Daibouken (Japan)</description>
+    <description>Tama & Friends: 3 Choume Daibouken (Japan)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>1989</year>
@@ -1413,7 +1413,7 @@
     <genre>Platform</genre>
     <players>1</players>
     <year>2008</year>
-    <manufacturer>KingMike&#039;s Translations</manufacturer>
+    <manufacturer>KingMike's Translations</manufacturer>
   </game>
   <game name="yuumaze">
     <description>Yuu Maze (Japan)</description>
@@ -1521,7 +1521,7 @@
     <manufacturer>Nintendo</manufacturer>
   </game>
   <game name="vshogansalley">
-    <description>VS. Hogan&#039;s Alley</description>
+    <description>VS. Hogan's Alley</description>
     <genre>Shooter</genre>
     <players>2</players>
     <year>1985</year>
@@ -1598,14 +1598,14 @@
     <manufacturer>Namco</manufacturer>
   </game>
   <game name="vssmgolf">
-    <description>VS. Stroke &amp; Match Golf</description>
+    <description>VS. Stroke & Match Golf</description>
     <genre>Sports / Misc</genre>
     <players>2</players>
     <year>1984</year>
     <manufacturer>Nintendo</manufacturer>
   </game>
   <game name="vssmgolfla">
-    <description>VS. Stroke &amp; Match Golf Ladies</description>
+    <description>VS. Stroke & Match Golf Ladies</description>
     <genre>Sports / Misc</genre>
     <players>2</players>
     <year>1984</year>
@@ -1690,7 +1690,7 @@
   </game>
   <game name="argosnosenshic" cloneof="rygar">
     <description>Argos no Senshi (Hack, Chinese v1.11)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>2016</year>
     <manufacturer>HHNM Team</manufacturer>
@@ -1724,7 +1724,7 @@
     <manufacturer>HHNM Team</manufacturer>
   </game>
   <game name="buckyoharec" cloneof="buckyohare">
-    <description>Bucky O&#039;Hare (Hack, Chinese)</description>
+    <description>Bucky O'Hare (Hack, Chinese)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>2018</year>
@@ -1745,14 +1745,14 @@
     <manufacturer>Kuixinwu, Jujue Ronghua</manufacturer>
   </game>
   <game name="castliitsc" cloneof="castlii">
-    <description>Castlevania II: Simon&#039;s Quest (Hack, Simplified Chinese v1.2)</description>
+    <description>Castlevania II: Simon's Quest (Hack, Simplified Chinese v1.2)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>2013</year>
     <manufacturer>Nonamed</manufacturer>
   </game>
   <game name="castliittc" cloneof="castlii">
-    <description>Castlevania II: Simon&#039;s Quest (Hack, Traditional Chinese v1.2)</description>
+    <description>Castlevania II: Simon's Quest (Hack, Traditional Chinese v1.2)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>2013</year>
@@ -1766,14 +1766,14 @@
     <manufacturer>Nonamed Team</manufacturer>
   </game>
   <game name="chipndalresrasc" cloneof="chipndalresra">
-    <description>Chip &#039;n Dale: Rescue Rangers (Hack, Chinese v1.1)</description>
+    <description>Chip 'n Dale: Rescue Rangers (Hack, Chinese v1.1)</description>
     <genre>Platform</genre>
     <players>2</players>
     <year>2015</year>
     <manufacturer>HHNM Team</manufacturer>
   </game>
   <game name="chipndalresra2sc" cloneof="chipndalresra2">
-    <description>Chip &#039;n Dale: Rescue Rangers 2 (Hack, Chinese v1.13)</description>
+    <description>Chip 'n Dale: Rescue Rangers 2 (Hack, Chinese v1.13)</description>
     <genre>Platform</genre>
     <players>2</players>
     <year>2015</year>
@@ -1819,7 +1819,7 @@
     <genre>Platform</genre>
     <players>1</players>
     <year>2019</year>
-    <manufacturer>Advance Team &amp; DMG Team</manufacturer>
+    <manufacturer>Advance Team & DMG Team</manufacturer>
   </game>
   <game name="darkwingduckc" cloneof="darkwingduck">
     <description>Darkwing Duck (Hack, Chinese)</description>
@@ -1837,7 +1837,7 @@
   </game>
   <game name="doubldraiiisc" cloneof="doubldraiii">
     <description>Double Dragon III: The Sacred Stones (Hack, Chinese)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>2022</year>
     <manufacturer>asiwish</manufacturer>
@@ -1851,21 +1851,21 @@
   </game>
   <game name="downtnekmonc" cloneof="downtnekmon">
     <description>Downtown: Nekketsu Monogatari (Hack, Chinese)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>2022</year>
     <manufacturer>asiwish</manufacturer>
   </game>
   <game name="downtspetsc" cloneof="downtspekunkunnojid">
     <description>Downtown Special: Kunio-kun no Jidaigeki Da yo Zenin Shuugou! (Hack, Simplified Chinese)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>4</players>
     <year>2024</year>
     <manufacturer>Axi, Ahe</manufacturer>
   </game>
   <game name="downtspettc" cloneof="downtspekunkunnojid">
     <description>Downtown Special: Kunio-kun no Jidaigeki Da yo Zenin Shuugou! (Hack, Traditional Chinese)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>4</players>
     <year>2022</year>
     <manufacturer>Axi, Ahe</manufacturer>
@@ -1878,8 +1878,8 @@
     <manufacturer>DMG Team</manufacturer>
   </game>
   <game name="festersquestc" cloneof="festersquest">
-    <description>Fester&#039;s Quest (Hack, Chinese)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <description>Fester's Quest (Hack, Chinese)</description>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>2021</year>
     <manufacturer>DMG Team</manufacturer>
@@ -1906,7 +1906,7 @@
     <manufacturer>Han Xue Shi Zhe</manufacturer>
   </game>
   <game name="flintresdinhopc" cloneof="flintresdinhop">
-    <description>Flintstones, The - The Rescue of Dino &amp; Hoppy (Hack, Chinese)</description>
+    <description>Flintstones, The - The Rescue of Dino & Hoppy (Hack, Chinese)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>2022</year>
@@ -1970,7 +1970,7 @@
   </game>
   <game name="gunsmokec" cloneof="gunsmoke">
     <description>Gun.Smoke (Hack, Chinese)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>2019</year>
     <manufacturer>DMG Team</manufacturer>
@@ -2005,14 +2005,14 @@
   </game>
   <game name="jackalc" cloneof="jackal">
     <description>Jackal (Hack, Chinese v1.1)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>4</players>
     <year>2020</year>
     <manufacturer>Lei Jing Ling</manufacturer>
   </game>
   <game name="jackalem" cloneof="jackal">
     <description>Jackal - Endless Mission (Hack, v1.2)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>2</players>
     <year>2021</year>
     <manufacturer>HHNM Team - ZENG GE</manufacturer>
@@ -2026,7 +2026,7 @@
   </game>
   <game name="kagec" cloneof="shadonin">
     <description>Kage (Hack, Chinese)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>2021</year>
     <manufacturer>Ni You De Wu Cai Yu</manufacturer>
@@ -2040,13 +2040,13 @@
   </game>
   <game name="kickmasterc" cloneof="kickmaster">
     <description>Kick Master (Hack, Chinese)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>2022</year>
-    <manufacturer>Ninsonytendog &amp; Managus</manufacturer>
+    <manufacturer>Ninsonytendog & Managus</manufacturer>
   </game>
   <game name="kirbysadvc" cloneof="kirbysadv">
-    <description>Kirby&#039;s Adventure (Hack, Chinese)</description>
+    <description>Kirby's Adventure (Hack, Chinese)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>2020</year>
@@ -2054,7 +2054,7 @@
   </game>
   <game name="kungfuc" cloneof="kungfu">
     <description>Kung Fu (Hack, Chinese)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>2010</year>
     <manufacturer>Jiu Ban</manufacturer>
@@ -2096,7 +2096,7 @@
   </game>
   <game name="madcityc" cloneof="advenbaybil">
     <description>Mad City (Hack, Chinese v2)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>2018</year>
     <manufacturer>Tan Xiao Feng Sheng</manufacturer>
@@ -2138,21 +2138,21 @@
   </game>
   <game name="metalgearsc" cloneof="metalgear">
     <description>Metal Gear (Hack, Chinese)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>2015</year>
     <manufacturer>Axi</manufacturer>
   </game>
   <game name="missiimpc" cloneof="missiimp">
     <description>Mission Impossible (Hack, Chinese)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>2022</year>
     <manufacturer>LSP Team</manufacturer>
   </game>
   <game name="mitsumegatooruc" cloneof="mitsumegatooru">
     <description>Mitsume ga Tooru (Hack, Chinese v3)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>2022</year>
     <manufacturer>Ni You De Wu Cai Yu</manufacturer>
@@ -2193,8 +2193,8 @@
     <manufacturer>Xing Kong</manufacturer>
   </game>
   <game name="ninjacrusadersc" cloneof="ninjacrusaders">
-    <description>Ninja Crusaders - Ryuuga (Hack, Chinese) </description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <description>Ninja Crusaders - Ryuuga (Hack, Chinese)</description>
+    <genre>Run 'n' Gun</genre>
     <players>2</players>
     <year>2019</year>
     <manufacturer>HHNM Team</manufacturer>
@@ -2257,7 +2257,7 @@
   </game>
   <game name="robocopsc" cloneof="robocop">
     <description>RoboCop (Hack, Chinese)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>2023</year>
     <manufacturer>LSP Team</manufacturer>
@@ -2411,7 +2411,7 @@
   </game>
   <game name="tmntiiarcgamtc" cloneof="tmntiiarcgam">
     <description>Teenage Mutant Ninja Turtles II - The Arcade Game (Hack, Chinese)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>2023</year>
     <manufacturer>NOKOH</manufacturer>
@@ -2460,20 +2460,20 @@
   </game>
   <game name="zenc" cloneof="zen">
     <description>Zen - Intergalactic Ninja (Hack, Chinese)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>2022</year>
     <manufacturer>Ni You De Wu Cai Yu</manufacturer>
   </game>
   <game name="8eyestp" cloneof="8eyes">
-    <description>8 Eye&#039;s (Hack, Portuguese)</description>
+    <description>8 Eye's (Hack, Portuguese)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>2018</year>
     <manufacturer>Andyriddler</manufacturer>
   </game>
   <game name="addamfampugsschuts" cloneof="addamfampugsschu">
-    <description>Addams Family, The: Pugsley&#039;s Scavenger Hunt (Hack, Spanish v1.1)</description>
+    <description>Addams Family, The: Pugsley's Scavenger Hunt (Hack, Spanish v1.1)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>2020</year>
@@ -2529,21 +2529,21 @@
     <manufacturer>JONNYVILLA2088</manufacturer>
   </game>
   <game name="advdddsc" cloneof="advddds">
-    <description>Advanced Dungeons &amp; Dragons - Dragon Strike (Hack, Spanish)</description>
+    <description>Advanced Dungeons & Dragons - Dragon Strike (Hack, Spanish)</description>
     <genre>Shooter</genre>
     <players>2</players>
     <year>2019</year>
     <manufacturer>Wave</manufacturer>
   </game>
   <game name="advdddfs" cloneof="advdddf">
-    <description>Advanced Dungeons &amp; Dragons - Dragons of Flame (Hack, Spanish)</description>
+    <description>Advanced Dungeons & Dragons - Dragons of Flame (Hack, Spanish)</description>
     <genre>RPG</genre>
     <players>1</players>
     <year>2023</year>
     <manufacturer>Wave</manufacturer>
   </game>
   <game name="advddhlc" cloneof="advddhl">
-    <description>Advanced Dungeons &amp; Dragons - Heroes of the Lance (Hack, Spanish)</description>
+    <description>Advanced Dungeons & Dragons - Heroes of the Lance (Hack, Spanish)</description>
     <genre>RPG</genre>
     <players>1</players>
     <year>2019</year>
@@ -2572,7 +2572,7 @@
   </game>
   <game name="batmanreturnstp" cloneof="batmanreturns">
     <description>Batman O Retorno (Hack, Portuguese)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>2020</year>
     <manufacturer>PO.B.R.E.</manufacturer>
@@ -2586,7 +2586,7 @@
   </game>
   <game name="battletoadstp" cloneof="battletoads">
     <description>Battletoads (Hack, Portuguese v1.1 + Bug Fixes)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>2018</year>
     <manufacturer>PO.B.R.E. - Ti</manufacturer>
@@ -2620,7 +2620,7 @@
     <manufacturer>Wave</manufacturer>
   </game>
   <game name="bramstosdrac" cloneof="bramstosdra">
-    <description>Bram Stoker&#039;s Dracula (Hack, Spanish v2.0)</description>
+    <description>Bram Stoker's Dracula (Hack, Spanish v2.0)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>2022</year>
@@ -2642,7 +2642,7 @@
   </game>
   <game name="castleofdragts" cloneof="castleofdragon">
     <description>Castle of Dragon (Hack, Spanish v1.1)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>2019</year>
     <manufacturer>Wave</manufacturer>
@@ -2655,35 +2655,35 @@
     <manufacturer>Julian L.</manufacturer>
   </game>
   <game name="castliitp" cloneof="castlii">
-    <description>Castlevania II: Simon&#039;s Quest (Hack, Portuguese)</description>
+    <description>Castlevania II: Simon's Quest (Hack, Portuguese)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>2000</year>
     <manufacturer>Jackal</manufacturer>
   </game>
   <game name="castliits" cloneof="castlii">
-    <description>Castlevania II: Simon&#039;s Quest (Hack, Spanish v2.0)</description>
+    <description>Castlevania II: Simon's Quest (Hack, Spanish v2.0)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>2013</year>
     <manufacturer>Julian L.</manufacturer>
   </game>
   <game name="chipndalresrac" cloneof="chipndalresra">
-    <description>Chip &#039;n Dale: Rescue Rangers (Hack, Spanish v2.1)</description>
+    <description>Chip 'n Dale: Rescue Rangers (Hack, Spanish v2.1)</description>
     <genre>Platform</genre>
     <players>2</players>
     <year>2021</year>
     <manufacturer>Wave</manufacturer>
   </game>
   <game name="chipndalresra2c" cloneof="chipndalresra2">
-    <description>Chip &#039;n Dale: Rescue Rangers 2 (Hack, Spanish v0.99)</description>
+    <description>Chip 'n Dale: Rescue Rangers 2 (Hack, Spanish v0.99)</description>
     <genre>Platform</genre>
     <players>2</players>
     <year>2019</year>
     <manufacturer>jackic</manufacturer>
   </game>
   <game name="chipndalresra2tp" cloneof="chipndalresra2">
-    <description>Chip &#039;n Dale ~ Tico E Teco: Defensores da Lei 2 (Hack, Portuguese v1.1)</description>
+    <description>Chip 'n Dale ~ Tico E Teco: Defensores da Lei 2 (Hack, Portuguese v1.1)</description>
     <genre>Platform</genre>
     <players>2</players>
     <year>2026</year>
@@ -2740,13 +2740,13 @@
   </game>
   <game name="diehardc" cloneof="diehard">
     <description>Die Hard (Hack, Spanish v1.1)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>2019</year>
     <manufacturer>Wave</manufacturer>
   </game>
   <game name="aladdinc" cloneof="aladdin">
-    <description>Disney&#039;s Aladdin (Hack, Spanish)</description>
+    <description>Disney's Aladdin (Hack, Spanish)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>2018</year>
@@ -2754,42 +2754,42 @@
   </game>
   <game name="doubledragonc" cloneof="doubledragon">
     <description>Double Dragon (Hack, Spanish v1.1)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>2021</year>
     <manufacturer>Wave</manufacturer>
   </game>
   <game name="doubldraiic" cloneof="doubldraii">
     <description>Double Dragon II: The Revenge (Hack, Spanish)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>2017</year>
     <manufacturer>Wave</manufacturer>
   </game>
   <game name="doubldraiitp" cloneof="doubldraii">
     <description>Double Dragon II: A Revanche (Hack, Portuguese v1.2)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>2020</year>
     <manufacturer>PO.B.R.E.</manufacturer>
   </game>
   <game name="doubldraiiic" cloneof="doubldraiii">
     <description>Double Dragon III: The Sacred Stones (Hack, Spanish)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>2018</year>
     <manufacturer>Wave</manufacturer>
   </game>
   <game name="doubldraiiitp" cloneof="doubldraiii">
     <description>Double Dragon III: As Pedras de Rosetta (Hack, Portuguese)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>2017</year>
     <manufacturer>PO.B.R.E.</manufacturer>
   </game>
   <game name="doubledragontp" cloneof="doubledragon">
     <description>Double Dragon (Hack, Portuguese v1.2)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>2008</year>
     <manufacturer>PO.B.R.E.</manufacturer>
@@ -2831,20 +2831,20 @@
   </game>
   <game name="dragninjatp" cloneof="baddudes">
     <description>Dragon Ninja (Hack, Portuguese v1.1)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>2019</year>
     <manufacturer>PO.B.R.E.</manufacturer>
   </game>
   <game name="dragninjas" cloneof="baddudes">
     <description>Dragon Ninja (Hack, Spanish v1.1)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>2024</year>
     <manufacturer>Stardust Crusaders</manufacturer>
   </game>
   <game name="dragonslairc" cloneof="dragonslair">
-    <description>Dragon&#039;s Lair (Hack, Spanish)</description>
+    <description>Dragon's Lair (Hack, Spanish)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>2019</year>
@@ -2984,7 +2984,7 @@
     <manufacturer>Maeson</manufacturer>
   </game>
   <game name="flintresdinhoptp" cloneof="flintresdinhop">
-    <description>Flintstones, Os: O Resgate de Dino &amp; Hoppy (Hack, Portuguese)</description>
+    <description>Flintstones, Os: O Resgate de Dino & Hoppy (Hack, Portuguese)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>2019</year>
@@ -2999,7 +2999,7 @@
   </game>
   <game name="franktp" cloneof="frank">
     <description>Frankenstein - The Monster Returns (Hack, Portuguese v1.3)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>2008-2019</year>
     <manufacturer>PO.B.R.E.</manufacturer>
@@ -3075,7 +3075,7 @@
     <manufacturer>Max1323</manufacturer>
   </game>
   <game name="heracles2s" cloneof="heracles2">
-    <description>Glory of Heracles II, The: Titans&#039; Downfall (Hack, Spanish)</description>
+    <description>Glory of Heracles II, The: Titans' Downfall (Hack, Spanish)</description>
     <genre>RPG</genre>
     <players>1</players>
     <year>2023</year>
@@ -3090,21 +3090,21 @@
   </game>
   <game name="hokutonokentp" cloneof="hokutonoken">
     <description>Hokuto no Ken: O punho da estrela do norte (Hack, Portuguese)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>2009</year>
     <manufacturer>Trans-Center Traducoes</manufacturer>
   </game>
   <game name="hokutonoken2tp" cloneof="hokutonoken2">
     <description>Hokuto no Ken 2: A lenda do salvador do fim do seculo (Hack, Portuguese)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>2009</year>
     <manufacturer>Trans-Center Traducoes</manufacturer>
   </game>
   <game name="hokutonoken2ts" cloneof="hokutonoken2">
     <description>Hokuto no Ken 2 ~ Fist of the North Star (Hack, Spanish v1.1)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>2018</year>
     <manufacturer>Jonathan</manufacturer>
@@ -3187,7 +3187,7 @@
     <manufacturer>Wave</manufacturer>
   </game>
   <game name="krustsfunhouc" cloneof="krustsfunhou">
-    <description>Krusty&#039;s Fun House (Hack, Spanish)</description>
+    <description>Krusty's Fun House (Hack, Spanish)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>2019</year>
@@ -3244,7 +3244,7 @@
   </game>
   <game name="mafatconc" cloneof="mafatcon">
     <description>Mafat Conspiracy - Golgo 13 (Hack, Spanish v1.1)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>2018</year>
     <manufacturer>Wave</manufacturer>
@@ -3342,7 +3342,7 @@
   </game>
   <game name="mightfinfigc" cloneof="mightfinfig">
     <description>Mighty Final Fight (Hack, Spanish)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>2016</year>
     <manufacturer>Wave</manufacturer>
@@ -3432,14 +3432,14 @@
     <manufacturer>PO.B.R.E. - MottZilla</manufacturer>
   </game>
   <game name="northsouthc" cloneof="northsouth">
-    <description>North &amp; South (Hack, Spanish v2.0)</description>
+    <description>North & South (Hack, Spanish v2.0)</description>
     <genre>Action</genre>
     <players>2</players>
     <year>2013</year>
     <manufacturer>Julian L.</manufacturer>
   </game>
   <game name="northsouthti" cloneof="northsouth">
-    <description>North &amp; South (Hack, Italian v2.0)</description>
+    <description>North & South (Hack, Italian v2.0)</description>
     <genre>Action</genre>
     <players>2</players>
     <year>2014</year>
@@ -3461,7 +3461,7 @@
   </game>
   <game name="powc" cloneof="pow">
     <description>P.O.W. - Prisoners of War (Hack, Spanish v2.0)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>2022</year>
     <manufacturer>Wave</manufacturer>
@@ -3496,14 +3496,14 @@
   </game>
   <game name="ramboc" cloneof="rambo">
     <description>Rambo (Hack, Spanish)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>2018</year>
     <manufacturer>Wave</manufacturer>
   </game>
   <game name="renegadec" cloneof="renegade">
     <description>Renegade (Hack, Spanish)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>2017</year>
     <manufacturer>JONNYVILLA2088</manufacturer>
@@ -3517,21 +3517,21 @@
   </game>
   <game name="robocopc" cloneof="robocop">
     <description>RoboCop (Hack, Spanish v0.91)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>2016</year>
     <manufacturer>Wave</manufacturer>
   </game>
   <game name="robocop2c" cloneof="robocop2">
     <description>RoboCop 2 (Hack, Spanish v2.0)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>2022</year>
     <manufacturer>Wave</manufacturer>
   </game>
   <game name="robocop3c" cloneof="robocop3">
     <description>Robocop 3 (Hack, Spanish v2.0)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>2022</year>
     <manufacturer>Wave</manufacturer>
@@ -3580,7 +3580,7 @@
   </game>
   <game name="rollergamestp" cloneof="rollergames">
     <description>Rollergames (Hack, Portuguese)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>2008</year>
     <manufacturer>PO.B.R.E.</manufacturer>
@@ -3593,7 +3593,7 @@
     <manufacturer>Max1323</manufacturer>
   </game>
   <game name="rushnattackc" cloneof="rushnattack">
-    <description>Rush&#039;n Attack (Hack, Spanish v1.1)</description>
+    <description>Rush'n Attack (Hack, Spanish v1.1)</description>
     <genre>Platform</genre>
     <players>2</players>
     <year>2021</year>
@@ -3643,20 +3643,20 @@
   </game>
   <game name="shadonintp" cloneof="shadonin">
     <description>Shadow of the Ninja (Hack, Portuguese v1.1)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>2019</year>
     <manufacturer>PO.B.R.E.</manufacturer>
   </game>
   <game name="smashtvc" cloneof="smashtv">
     <description>Smash T.V. (Hack, Spanish)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>2</players>
     <year>2019</year>
     <manufacturer>Wave</manufacturer>
   </game>
   <game name="snakesrevengec" cloneof="snakesrevenge">
-    <description>Snake&#039;s Revenge (Hack, Spanish)</description>
+    <description>Snake's Revenge (Hack, Spanish)</description>
     <genre>ADV</genre>
     <players>1</players>
     <year>2018</year>
@@ -3677,7 +3677,7 @@
     <manufacturer>Wave</manufacturer>
   </game>
   <game name="startiits" cloneof="startii">
-    <description>Startropics II: Zoda&#039;s Revenge (Hack, Spanish)</description>
+    <description>Startropics II: Zoda's Revenge (Hack, Spanish)</description>
     <genre>RPG</genre>
     <players>1</players>
     <year>2025</year>
@@ -3692,7 +3692,7 @@
   </game>
   <game name="starwarsc" cloneof="starwars">
     <description>Star Wars (Hack, Spanish)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>2019</year>
     <manufacturer>Wave</manufacturer>
@@ -3769,7 +3769,7 @@
   </game>
   <game name="swordmasterc" cloneof="swordmaster">
     <description>Sword Master (Hack, Spanish)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>2019</year>
     <manufacturer>Wave</manufacturer>
@@ -3790,7 +3790,7 @@
   </game>
   <game name="targetrenegadec" cloneof="targetrenegade">
     <description>Target Renegade (Hack, Spanish)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>2017</year>
     <manufacturer>Wave</manufacturer>
@@ -3818,35 +3818,35 @@
   </game>
   <game name="tmntiiarcgamc" cloneof="tmntiiarcgam">
     <description>Teenage Mutant Ninja Turtles II - The Arcade Game (Hack, Spanish v2.0)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>2022</year>
     <manufacturer>Wave</manufacturer>
   </game>
   <game name="tmntiiic" cloneof="tmntiii">
     <description>Teenage Mutant Ninja Turtles III - The Manhattan Project (Hack, Spanish v2.3)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>2022</year>
     <manufacturer>Wave</manufacturer>
   </game>
   <game name="termi2c" cloneof="termi2">
     <description>Terminator 2: Judgment Day (Hack, Spanish v2.2)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>2023</year>
     <manufacturer>Wave</manufacturer>
   </game>
   <game name="termi2tp" cloneof="termi2">
     <description>Exterminador do Futuro 2: O Julgamento Final (Hack, Portuguese v1.1)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>2018</year>
     <manufacturer>PO.B.R.E.</manufacturer>
   </game>
   <game name="thexderc" cloneof="thexder">
     <description>Thexder (Hack, Spanish)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>2019</year>
     <manufacturer>Wave</manufacturer>
@@ -3873,14 +3873,14 @@
     <manufacturer>Wave</manufacturer>
   </game>
   <game name="tomjerultgamcatandmts" cloneof="tomjerultgamcatandm">
-    <description>Tom &amp; Jerry: The Ultimate Game of Cat and Mouse! (Hack, Spanish)</description>
+    <description>Tom & Jerry: The Ultimate Game of Cat and Mouse! (Hack, Spanish)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>2018</year>
     <manufacturer>Wave</manufacturer>
   </game>
   <game name="tmbtreasurets" cloneof="tmbtreasure">
-    <description>Tombs &amp; Treasure (Hack, Spanish)</description>
+    <description>Tombs & Treasure (Hack, Spanish)</description>
     <genre>ADV</genre>
     <players>1</players>
     <year>2020</year>
@@ -3902,7 +3902,7 @@
   </game>
   <game name="totalrecallc" cloneof="totalrecall">
     <description>Total Recall (Hack, Spanish)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>2019</year>
     <manufacturer>Wave</manufacturer>
@@ -3915,14 +3915,14 @@
     <manufacturer>Wave</manufacturer>
   </game>
   <game name="valkynobouc" cloneof="valkynobou">
-    <description>Valkyrie&#039;s Adventure: La Llave del Tiempo (Hack, Spanish)</description>
+    <description>Valkyrie's Adventure: La Llave del Tiempo (Hack, Spanish)</description>
     <genre>RPG</genre>
     <players>1</players>
     <year>2019</year>
     <manufacturer>Max1323</manufacturer>
   </game>
   <game name="wizarwariiic" cloneof="wizarwariii">
-    <description>Wizards &amp; Warriors III - Kuros: Visions of Power (Hack, Spanish v1.1)</description>
+    <description>Wizards & Warriors III - Kuros: Visions of Power (Hack, Spanish v1.1)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>2021</year>
@@ -3992,7 +3992,7 @@
     <manufacturer>Idea-tek</manufacturer>
   </game>
   <game name="adameve">
-    <description>Adam &amp; Eve (Unl)</description>
+    <description>Adam & Eve (Unl)</description>
     <genre>Action</genre>
     <players>2</players>
     <year>1991</year>
@@ -4094,7 +4094,7 @@
     <genre>Shooter</genre>
     <players>1</players>
     <year>1997</year>
-    <manufacturer>Shanghai PS&amp;T</manufacturer>
+    <manufacturer>Shanghai PS&T</manufacturer>
   </game>
   <game name="boogerman">
     <description>Boogerman (Taiwan) (Unl)</description>
@@ -4266,7 +4266,7 @@
   </game>
   <game name="dragonballz5">
     <description>Dragon Ball Z 5 (China) (Unl)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>199?</year>
     <manufacturer>Rex Game Soft</manufacturer>
@@ -4280,14 +4280,14 @@
   </game>
   <game name="dragonknifec" cloneof="dragonknife">
     <description>Dragon Knife (China) (Unl)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Waixing</manufacturer>
   </game>
   <game name="dragonknife">
     <description>Dragon Knife (Hack, English)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>2014</year>
     <manufacturer>pacnsacdave</manufacturer>
@@ -4385,7 +4385,7 @@
   </game>
   <game name="finalfight3">
     <description>Final Fight 3 (Taiwan) (Unl)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>1998</year>
     <manufacturer>J.Y. Company</manufacturer>
@@ -4441,7 +4441,7 @@
   </game>
   <game name="goldenaxeiii">
     <description>Golden Axe III (China) (Unl)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>2005</year>
     <manufacturer>Waixing</manufacturer>
@@ -4640,10 +4640,10 @@
     <genre>Shooter / Vert</genre>
     <players>2</players>
     <year>1989</year>
-    <manufacturer>Joy Van &amp; Kinema Music</manufacturer>
+    <manufacturer>Joy Van & Kinema Music</manufacturer>
   </game>
   <game name="pengusea">
-    <description>Penguin &amp; Seal, The (Unl)</description>
+    <description>Penguin & Seal, The (Unl)</description>
     <genre>Action</genre>
     <players>2</players>
     <year>1989</year>
@@ -4665,14 +4665,14 @@
   </game>
   <game name="powerraniii">
     <description>Power Rangers III (Taiwan) (Unl)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>1995</year>
     <manufacturer>J.Y. Company</manufacturer>
   </game>
   <game name="powerrangersiv">
     <description>Power Rangers IV (Taiwan) (Unl)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>1995</year>
     <manufacturer>J.Y. Company</manufacturer>
@@ -4910,13 +4910,13 @@
   </game>
   <game name="vanguard">
     <description>Vanguard (Unl)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>200?</year>
     <manufacturer>Power Joy</manufacturer>
   </game>
   <game name="wallybeanogan">
-    <description>Wally Bear &amp; the No Gang (Unl)</description>
+    <description>Wally Bear & the No Gang (Unl)</description>
     <genre>Platform</genre>
     <players>2</players>
     <year>1990</year>
@@ -5060,28 +5060,28 @@
     <genre>Action</genre>
     <players>2</players>
     <year>2013</year>
-    <manufacturer>Damian Yerrick &amp; Contributors</manufacturer>
+    <manufacturer>Damian Yerrick & Contributors</manufacturer>
   </game>
   <game name="actio53vol2doac">
     <description>Action 53 vol.2: Double Action + Compo Games (HB)</description>
     <genre>Action</genre>
     <players>2</players>
     <year>2015</year>
-    <manufacturer>Damian Yerrick &amp; Contributors</manufacturer>
+    <manufacturer>Damian Yerrick & Contributors</manufacturer>
   </game>
   <game name="actio53vol3retw">
     <description>Action 53 vol.3: Revenge of the Twins + Compo Games (HB)</description>
     <genre>Action</genre>
     <players>2</players>
     <year>2018</year>
-    <manufacturer>Damian Yerrick &amp; Contributors</manufacturer>
+    <manufacturer>Damian Yerrick & Contributors</manufacturer>
   </game>
   <game name="actio53vol4act54">
     <description>Action 53 vol.4: Actually 54 - Compo 2017-18 (HB)</description>
     <genre>Action</genre>
     <players>2</players>
     <year>2020</year>
-    <manufacturer>Damian Yerrick &amp; Contributors</manufacturer>
+    <manufacturer>Damian Yerrick & Contributors</manufacturer>
   </game>
   <game name="advpanzer">
     <description>Adventures of Panzer, The (HB, v1.6)</description>
@@ -5154,14 +5154,14 @@
     <manufacturer>Okunyon</manufacturer>
   </game>
   <game name="alfonsarcadv" cloneof="alfonsarcadvr">
-    <description>Alfonzo&#039;s Arctic Adventure (HB)</description>
+    <description>Alfonzo's Arctic Adventure (HB)</description>
     <genre>Platform</genre>
     <players>2</players>
     <year>2018</year>
     <manufacturer>Spoony Bard Productions</manufacturer>
   </game>
   <game name="alfonsarcadvr">
-    <description>Alfonzo&#039;s Arctic Adventure (HB, 1.4)</description>
+    <description>Alfonzo's Arctic Adventure (HB, 1.4)</description>
     <genre>Platform</genre>
     <players>2</players>
     <year>2020</year>
@@ -5183,14 +5183,14 @@
   </game>
   <game name="allhellunl666">
     <description>All Hell Unleashed (HB, v6.66)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>2025</year>
     <manufacturer>Fista Productions</manufacturer>
   </game>
   <game name="allhellunl" cloneof="allhellunl666">
     <description>All Hell Unleashed (HB)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>2025</year>
     <manufacturer>Fista Productions</manufacturer>
@@ -5204,7 +5204,7 @@
   </game>
   <game name="almosthero">
     <description>Almost Hero (HB)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>2016</year>
     <manufacturer>Mega Cat Studios</manufacturer>
@@ -5224,28 +5224,28 @@
     <manufacturer>Shiru</manufacturer>
   </game>
   <game name="awakening">
-    <description>Alwa&#039;s Awakening (HB)</description>
+    <description>Alwa's Awakening (HB)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>2021</year>
     <manufacturer>Elden Pixels</manufacturer>
   </game>
   <game name="awakeningp" cloneof="awakening">
-    <description>Alwa&#039;s Awakening (HB, Prototype)</description>
+    <description>Alwa's Awakening (HB, Prototype)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>2021</year>
     <manufacturer>Elden Pixels</manufacturer>
   </game>
   <game name="amazorundiej" cloneof="amazorundie">
-    <description>Amazon&#039;s Running Diet (HB, Japan)</description>
+    <description>Amazon's Running Diet (HB, Japan)</description>
     <genre>Action</genre>
     <players>1</players>
     <year>2017</year>
     <manufacturer>Ancient</manufacturer>
   </game>
   <game name="amazorundie">
-    <description>Amazon&#039;s Running Diet (HB, USA)</description>
+    <description>Amazon's Running Diet (HB, USA)</description>
     <genre>Action</genre>
     <players>1</players>
     <year>2017</year>
@@ -5505,7 +5505,7 @@
   </game>
   <game name="batmanreturnsde" cloneof="batmanreturns">
     <description>Batman Returns - Dark Edition (Hack, Ver. 21-07-26)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>2026</year>
     <manufacturer>DarthVaderX</manufacturer>
@@ -5539,7 +5539,7 @@
     <manufacturer>Karu Gamo</manufacturer>
   </game>
   <game name="beee">
-    <description>Beat &#039;Em &amp; Eat &#039;Em (HB)</description>
+    <description>Beat 'Em & Eat 'Em (HB)</description>
     <genre>Action</genre>
     <players>1</players>
     <year>2014</year>
@@ -5617,7 +5617,7 @@
   </game>
   <game name="bjreborndemo">
     <description>Black Jewel Reborn (HB, Demo v0.165)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>2022</year>
     <manufacturer>PSCD Games</manufacturer>
@@ -5673,13 +5673,13 @@
   </game>
   <game name="bloodfall">
     <description>Bloodfall (HB)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>2019</year>
     <manufacturer>Dr. Ludos</manufacturer>
   </game>
   <game name="blowemout">
-    <description>Blow&#039;Em Out! (HB)</description>
+    <description>Blow'Em Out! (HB)</description>
     <genre>Action</genre>
     <players>2</players>
     <year>2018</year>
@@ -5770,7 +5770,7 @@
     <manufacturer>Polar Hacker</manufacturer>
   </game>
   <game name="burndown">
-    <description>Burn&#039;em Down (HB)</description>
+    <description>Burn'em Down (HB)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>2024</year>
@@ -5816,7 +5816,7 @@
     <genre>Platform</genre>
     <players>1</players>
     <year>2007</year>
-    <manufacturer>Optomon &amp; Dr. Mario</manufacturer>
+    <manufacturer>Optomon & Dr. Mario</manufacturer>
   </game>
   <game name="castlevaniahr" cloneof="castlevania">
     <description>Castlevania: The Holy Relics (Hack)</description>
@@ -5840,7 +5840,7 @@
     <manufacturer>Sky Flare</manufacturer>
   </game>
   <game name="castliih" cloneof="castlii">
-    <description>Castlevania II: Simon&#039;s Quest (Hack, Re-translation + Map)</description>
+    <description>Castlevania II: Simon's Quest (Hack, Re-translation + Map)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>2020</year>
@@ -5896,14 +5896,14 @@
     <manufacturer>iProgramInCpp</manufacturer>
   </game>
   <game name="celestemario" cloneof="smb">
-    <description>Celeste Mario&#039;s Zap &amp; Dash! (Hack)</description>
+    <description>Celeste Mario's Zap & Dash! (Hack)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>2023</year>
     <manufacturer>w7n</manufacturer>
   </game>
   <game name="celestemariodl" cloneof="smb">
-    <description>Celeste Mario&#039;s Zap &amp; Dash DELUXE! v2.00c (Hack)</description>
+    <description>Celeste Mario's Zap & Dash DELUXE! v2.00c (Hack)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>2025</year>
@@ -5914,14 +5914,14 @@
     <genre>Action</genre>
     <players>1</players>
     <year>2022</year>
-    <manufacturer>Rigg&#039;d Games</manufacturer>
+    <manufacturer>Rigg'd Games</manufacturer>
   </game>
   <game name="chewchewm">
     <description>Chew Chew Mimic (HB)</description>
     <genre>Action</genre>
     <players>1</players>
     <year>2025</year>
-    <manufacturer>Lowtek Games, Rigg&#039;d Games</manufacturer>
+    <manufacturer>Lowtek Games, Rigg'd Games</manufacturer>
   </game>
   <game name="estique">
     <description>Changeable Guardian ESTIQUE (USA)</description>
@@ -6030,7 +6030,7 @@
   </game>
   <game name="chknight">
     <description>Chrono Knight (HB)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>2020</year>
     <manufacturer>Artix Entertainment</manufacturer>
@@ -6043,8 +6043,8 @@
     <manufacturer>Dwedit</manufacturer>
   </game>
   <game name="chumleeadv">
-    <description>Chumlee&#039;s Adventure - The Quest for Pinky (HB)</description>
-    <genre>Beat &#039;em Up</genre>
+    <description>Chumlee's Adventure - The Quest for Pinky (HB)</description>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>2020</year>
     <manufacturer>Khan Games</manufacturer>
@@ -6064,7 +6064,7 @@
     <manufacturer>kn56k</manufacturer>
   </game>
   <game name="cmc80sdemo">
-    <description>CMC 80&#039;s Demo (HB, Tech-Demo)</description>
+    <description>CMC 80's Demo (HB, Tech-Demo)</description>
     <genre>Misc</genre>
     <players>1</players>
     <year>2000</year>
@@ -6092,7 +6092,7 @@
     <manufacturer>CMYKSoft</manufacturer>
   </game>
   <game name="coldstarving">
-    <description>Cold &amp; Starving (HB)</description>
+    <description>Cold & Starving (HB)</description>
     <genre>Action</genre>
     <players>1</players>
     <year>2025</year>
@@ -6107,7 +6107,7 @@
   </game>
   <game name="copjack">
     <description>Copper Jacket (HB)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>2</players>
     <year>2023</year>
     <manufacturer>Monsoon Studios</manufacturer>
@@ -6247,7 +6247,7 @@
   </game>
   <game name="dataman">
     <description>DataMan (HB)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>2</players>
     <year>2024</year>
     <manufacturer>Darkbits - Broke Studio</manufacturer>
@@ -6299,7 +6299,7 @@
     <genre>MAZE</genre>
     <players>1</players>
     <year>2013</year>
-    <manufacturer>KingMike&#039;s Translations, MrRichard999</manufacturer>
+    <manufacturer>KingMike's Translations, MrRichard999</manufacturer>
   </game>
   <game name="dejavuhack" cloneof="dejavu">
     <description>Deja Vu - Uncensored (Hack, v1.1)</description>
@@ -6337,7 +6337,7 @@
     <manufacturer>Sarah Parker</manufacturer>
   </game>
   <game name="desertundeaddc">
-    <description>Desert of the Undead - Director&#039;s Cut (HB, v1.4)</description>
+    <description>Desert of the Undead - Director's Cut (HB, v1.4)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>2025</year>
@@ -6390,7 +6390,7 @@
     <genre>CARD</genre>
     <players>1</players>
     <year>2017</year>
-    <manufacturer>Rek &amp; Devine</manufacturer>
+    <manufacturer>Rek & Devine</manufacturer>
   </game>
   <game name="doodleworld">
     <description>Doodle World (HB)</description>
@@ -6414,7 +6414,7 @@
     <manufacturer>Magidev</manufacturer>
   </game>
   <game name="drapuzzch">
-    <description>Dragon&#039;s Puzzle Challenge (HB)</description>
+    <description>Dragon's Puzzle Challenge (HB)</description>
     <genre>Puzzle</genre>
     <players>1</players>
     <year>2026</year>
@@ -6439,7 +6439,7 @@
     <genre>Platform</genre>
     <players>1</players>
     <year>2018</year>
-    <manufacturer>Eriksson &amp; Adolfsson</manufacturer>
+    <manufacturer>Eriksson & Adolfsson</manufacturer>
   </game>
   <game name="drlady" cloneof="drmario">
     <description>Dr. Lady Decade (Hack, v1.0)</description>
@@ -6484,7 +6484,7 @@
     <manufacturer>Richard Oz</manufacturer>
   </game>
   <game name="dungdoom">
-    <description>Dungeons &amp; Doomknights (HB)</description>
+    <description>Dungeons & Doomknights (HB)</description>
     <genre>Action</genre>
     <players>1</players>
     <year>2021</year>
@@ -6498,7 +6498,7 @@
     <manufacturer>Peter McQuillan</manufacturer>
   </game>
   <game name="dveelng">
-    <description>D&#039;Veel&#039;Ng (HB)</description>
+    <description>D'Veel'Ng (HB)</description>
     <genre>Action</genre>
     <players>1</players>
     <year>2015</year>
@@ -6561,7 +6561,7 @@
     <manufacturer>N.K</manufacturer>
   </game>
   <game name="smbendssmbha1" cloneof="smb">
-    <description>Ende&#039;s Super Mario Bros. (Hack)</description>
+    <description>Ende's Super Mario Bros. (Hack)</description>
     <genre>Platform</genre>
     <players>2</players>
     <year>2004</year>
@@ -6572,7 +6572,7 @@
     <genre>Puzzle</genre>
     <players>1</players>
     <year>2015</year>
-    <manufacturer>J. Kane &amp; K. Hanley</manufacturer>
+    <manufacturer>J. Kane & K. Hanley</manufacturer>
   </game>
   <game name="enormadv">
     <description>Enormous Adventures (HB, v1.1)</description>
@@ -6701,7 +6701,7 @@
     <manufacturer>Skyboy Games</manufacturer>
   </game>
   <game name="firenicell" cloneof="firenice">
-    <description>Fire &#039;n Ice: The Lost Levels (Hack, v1.1)</description>
+    <description>Fire 'n Ice: The Lost Levels (Hack, v1.1)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>2021</year>
@@ -6786,7 +6786,7 @@
   </game>
   <game name="frenzy">
     <description>Frenzy A7800 (HB)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>2</players>
     <year>2016</year>
     <manufacturer>Bob Decrescenzo</manufacturer>
@@ -6890,7 +6890,7 @@
     <manufacturer>8bit Evolution</manufacturer>
   </game>
   <game name="getemgary">
-    <description>Get&#039;Em Gary (HB)</description>
+    <description>Get'Em Gary (HB)</description>
     <genre>Action</genre>
     <players>2</players>
     <year>2016</year>
@@ -6918,7 +6918,7 @@
     <manufacturer>Anthony Bongers</manufacturer>
   </game>
   <game name="ghostsngoblinsh" cloneof="ghostsngoblins">
-    <description>Ghosts&#039;n Goblins - Easy Mode (Hack, v2.0)</description>
+    <description>Ghosts'n Goblins - Easy Mode (Hack, v2.0)</description>
     <genre>Platform</genre>
     <players>2</players>
     <year>2019</year>
@@ -6936,7 +6936,7 @@
     <genre>Action</genre>
     <players>1</players>
     <year>2023</year>
-    <manufacturer>Rigg&#039;d Games</manufacturer>
+    <manufacturer>Rigg'd Games</manufacturer>
   </game>
   <game name="gggg">
     <description>Gold Guardian Gun Girl (HB)</description>
@@ -6992,14 +6992,14 @@
     <genre>Puzzle</genre>
     <players>1</players>
     <year>2019</year>
-    <manufacturer>Lukasz Kur &amp; M-Tee</manufacturer>
+    <manufacturer>Lukasz Kur & M-Tee</manufacturer>
   </game>
   <game name="gruni3">
     <description>Gruniozerca 3: The Great Cavy Clean-Up! (HB)</description>
     <genre>Puzzle</genre>
     <players>1</players>
     <year>2019</year>
-    <manufacturer>Lukasz Kur &amp; M-Tee</manufacturer>
+    <manufacturer>Lukasz Kur & M-Tee</manufacturer>
   </game>
   <game name="gunhawk">
     <description>Gunhawk (HB, v1.1)</description>
@@ -7044,7 +7044,7 @@
     <manufacturer>Fista Productions</manufacturer>
   </game>
   <game name="hammerinharry2">
-    <description>Hammerin&#039; Harry 2 (USA)</description>
+    <description>Hammerin' Harry 2 (USA)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>2025</year>
@@ -7086,50 +7086,50 @@
     <manufacturer>Byte-off</manufacturer>
   </game>
   <game name="halloween85">
-    <description>Haunted Halloween &#039;85 (HB)</description>
-    <genre>Beat &#039;em Up</genre>
+    <description>Haunted Halloween '85 (HB)</description>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>2015</year>
     <manufacturer>Retrotainment Games</manufacturer>
   </game>
   <game name="halloween86">
-    <description>Haunted Halloween &#039;86 (HB)</description>
-    <genre>Beat &#039;em Up</genre>
+    <description>Haunted Halloween '86 (HB)</description>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>2016</year>
     <manufacturer>Retrotainment Games</manufacturer>
   </game>
   <game name="halloween86a" cloneof="halloween86">
-    <description>Haunted Halloween &#039;86 (HB, Alt)</description>
-    <genre>Beat &#039;em Up</genre>
+    <description>Haunted Halloween '86 (HB, Alt)</description>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>2016</year>
     <manufacturer>Retrotainment Games</manufacturer>
   </game>
   <game name="halloween86roe">
-    <description>Haunted Halloween &#039;86 - Remastered Onslaught Edition (HB)</description>
-    <genre>Beat &#039;em Up</genre>
+    <description>Haunted Halloween '86 - Remastered Onslaught Edition (HB)</description>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>2018</year>
     <manufacturer>Retrotainment Games</manufacturer>
   </game>
   <game name="halloween86sped">
-    <description>Haunted Halloween &#039;86 - Spirit Edition (HB)</description>
-    <genre>Beat &#039;em Up</genre>
+    <description>Haunted Halloween '86 - Spirit Edition (HB)</description>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>2025</year>
     <manufacturer>Retrotainment Games</manufacturer>
   </game>
   <game name="halloween86spex" cloneof="halloween86sped">
-    <description>Haunted Halloween &#039;86 - Spirit Exclusive (HB)</description>
-    <genre>Beat &#039;em Up</genre>
+    <description>Haunted Halloween '86 - Spirit Exclusive (HB)</description>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>2025</year>
     <manufacturer>Retrotainment Games</manufacturer>
   </game>
   <game name="halloween87">
-    <description>Haunted Halloween &#039;87 - Year of the Witch (HB)</description>
-    <genre>Beat &#039;em Up</genre>
+    <description>Haunted Halloween '87 - Year of the Witch (HB)</description>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>2025</year>
     <manufacturer>Retrotainment Games</manufacturer>
@@ -7177,14 +7177,14 @@
     <manufacturer>Aspekt</manufacturer>
   </game>
   <game name="hoboalbo">
-    <description>Hobo Albo&#039;s Big Adventure (HB, v1.2)</description>
+    <description>Hobo Albo's Big Adventure (HB, v1.2)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>2025</year>
     <manufacturer>RBG Entertainment</manufacturer>
   </game>
   <game name="hoboalboha">
-    <description>Hobo Albo&#039;s Halloween Adventure (HB, v1.5)</description>
+    <description>Hobo Albo's Halloween Adventure (HB, v1.5)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>2025</year>
@@ -7192,7 +7192,7 @@
   </game>
   <game name="hokutonokenop" cloneof="hokutonoken">
     <description>Hokuto no Ken - OVERHAUL Patch (Hack)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>2022</year>
     <manufacturer>Rani Baker</manufacturer>
@@ -7261,7 +7261,7 @@
     <manufacturer>Red Moon Games</manufacturer>
   </game>
   <game name="ironsoh" cloneof="irons">
-    <description>Ironsword: Wizards &amp; Warriors II - Overhaul (Hack)</description>
+    <description>Ironsword: Wizards & Warriors II - Overhaul (Hack)</description>
     <genre>ADV</genre>
     <players>1</players>
     <year>2022</year>
@@ -7282,7 +7282,7 @@
     <manufacturer>Gravel Studios Games</manufacturer>
   </game>
   <game name="jacobselev">
-    <description>Jacob&#039;s Elevator (HB)</description>
+    <description>Jacob's Elevator (HB)</description>
     <genre>Action</genre>
     <players>1</players>
     <year>2026</year>
@@ -7303,7 +7303,7 @@
     <manufacturer>Doug Fraker</manufacturer>
   </game>
   <game name="ja8bitadv">
-    <description>Jane Austen&#039;s 8-bit Adventure (HB, v1.0.538)</description>
+    <description>Jane Austen's 8-bit Adventure (HB, v1.0.538)</description>
     <genre>ADV</genre>
     <players>1</players>
     <year>2023</year>
@@ -7325,7 +7325,7 @@
   </game>
   <game name="jaysilent">
     <description>Jay and Silent Bob Mall Brawl (HB)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>2020</year>
     <manufacturer>Interabang Entertainment</manufacturer>
@@ -7359,21 +7359,21 @@
     <manufacturer>The Mojon Twins</manufacturer>
   </game>
   <game name="jimndill">
-    <description>Jim &amp; Dill: The Legend of Weed N&#039; Stiff (HB)</description>
+    <description>Jim & Dill: The Legend of Weed N' Stiff (HB)</description>
     <genre>Action</genre>
     <players>1</players>
     <year>2020-23</year>
     <manufacturer>CalGames</manufacturer>
   </game>
   <game name="jimndill2">
-    <description>Jim &amp; Dill II: Bobson&#039;s Revenge (HB)</description>
+    <description>Jim & Dill II: Bobson's Revenge (HB)</description>
     <genre>ADV</genre>
     <players>1</players>
     <year>2023</year>
     <manufacturer>CalGames</manufacturer>
   </game>
   <game name="jimndill3">
-    <description>Jim &amp; Dill III (HB)</description>
+    <description>Jim & Dill III (HB)</description>
     <genre>Action</genre>
     <players>1</players>
     <year>2024</year>
@@ -7437,7 +7437,7 @@
   </game>
   <game name="justice">
     <description>Justice (HB)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>2020</year>
     <manufacturer>&lt;unknown&gt;</manufacturer>
@@ -7499,7 +7499,7 @@
     <manufacturer>RiKi</manufacturer>
   </game>
   <game name="kirbyshlw" cloneof="kirbysadv">
-    <description>Kirby&#039;s Halloween Adventure (Hack, v1.4)</description>
+    <description>Kirby's Halloween Adventure (Hack, v1.4)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>2021</year>
@@ -7562,7 +7562,7 @@
     <manufacturer>SJ Games</manufacturer>
   </game>
   <game name="labbaye">
-    <description>L&#039;Abbaye des Morts (HB, M5)</description>
+    <description>L'Abbaye des Morts (HB, M5)</description>
     <genre>ADV</genre>
     <players>1</players>
     <year>2021</year>
@@ -7604,21 +7604,21 @@
     <manufacturer>Shiru</manufacturer>
   </game>
   <game name="legwns" cloneof="legwnssdx">
-    <description>Legend of Weed N&#039; Stiff, The (HB)</description>
+    <description>Legend of Weed N' Stiff, The (HB)</description>
     <genre>Action</genre>
     <players>1</players>
     <year>2020</year>
     <manufacturer>CalGames</manufacturer>
   </game>
   <game name="legwnsdx" cloneof="legwnssdx">
-    <description>Legend of Weed N&#039; Stiff DX, The (HB)</description>
+    <description>Legend of Weed N' Stiff DX, The (HB)</description>
     <genre>Action</genre>
     <players>1</players>
     <year>2020</year>
     <manufacturer>CalGames</manufacturer>
   </game>
   <game name="legwnssdx">
-    <description>Legend of Weed N&#039; Stiff SDX, The (HB)</description>
+    <description>Legend of Weed N' Stiff SDX, The (HB)</description>
     <genre>Action</genre>
     <players>1</players>
     <year>2021</year>
@@ -7668,14 +7668,14 @@
   </game>
   <game name="leglutliv" cloneof="leglutlivr">
     <description>Leggite Luta Livre (HB)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>2021</year>
     <manufacturer>John Vanderhoef</manufacturer>
   </game>
   <game name="leglutlivr">
     <description>Leggite Luta Livre Remaster (HB)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>2021-22</year>
     <manufacturer>John Vanderhoef</manufacturer>
@@ -7709,7 +7709,7 @@
     <manufacturer>Mega Cat Studios</manufacturer>
   </game>
   <game name="littlesamsonh" cloneof="littlesamson">
-    <description>Little Samson Restoration &amp; Sound Hack (Hack)</description>
+    <description>Little Samson Restoration & Sound Hack (Hack)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>2020</year>
@@ -7926,7 +7926,7 @@
     <manufacturer>NESLurker</manufacturer>
   </game>
   <game name="maurimursu">
-    <description>Mauri Mursu&#039;s Hangover (HB)</description>
+    <description>Mauri Mursu's Hangover (HB)</description>
     <genre>Action</genre>
     <players>1</players>
     <year>2022</year>
@@ -8199,7 +8199,7 @@
     <manufacturer>The Mojon Twins</manufacturer>
   </game>
   <game name="monterev">
-    <description>Montezuma&#039;s Revenge (HB, v1.1)</description>
+    <description>Montezuma's Revenge (HB, v1.1)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>2022</year>
@@ -8395,7 +8395,7 @@
     <manufacturer>Fista Productions</manufacturer>
   </game>
   <game name="nimnom">
-    <description>Nim &amp; Nom (HB, v1.2)</description>
+    <description>Nim & Nom (HB, v1.2)</description>
     <genre>Platform</genre>
     <players>2</players>
     <year>2018</year>
@@ -8417,7 +8417,7 @@
   </game>
   <game name="nixrelic">
     <description>Nix: the Paradox Relic (HB, v1.9)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>2020</year>
     <manufacturer>Dustin Huddleston</manufacturer>
@@ -8472,7 +8472,7 @@
     <manufacturer>grendell</manufacturer>
   </game>
   <game name="oopiquest">
-    <description>Oopi&#039;s Quest (HB, v1.2.0)</description>
+    <description>Oopi's Quest (HB, v1.2.0)</description>
     <genre>Puzzle</genre>
     <players>1</players>
     <year>2022</year>
@@ -8493,14 +8493,14 @@
     <manufacturer>John Vanderhoef</manufacturer>
   </game>
   <game name="orebodybt" cloneof="orebodybtr">
-    <description>Orebody: Binder&#039;s Tale (HB, v1.x)</description>
+    <description>Orebody: Binder's Tale (HB, v1.x)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>2022</year>
     <manufacturer>John Vanderhoef</manufacturer>
   </game>
   <game name="orebodybtr">
-    <description>Orebody: Binder&#039;s Tale (HB, v1.0)</description>
+    <description>Orebody: Binder's Tale (HB, v1.0)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>2022-23</year>
@@ -8605,7 +8605,7 @@
     <manufacturer>5cinq</manufacturer>
   </game>
   <game name="pelusaga">
-    <description>Pelusa Saga: Kaji&#039;s Trials (HB)</description>
+    <description>Pelusa Saga: Kaji's Trials (HB)</description>
     <genre>Action</genre>
     <players>1</players>
     <year>2023</year>
@@ -8823,14 +8823,14 @@
   </game>
   <game name="ranmachan" cloneof="kungfu">
     <description>Ranma vs. Ranma! - Ranma-chan Edition (Hack, v2.2)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>2023</year>
     <manufacturer>Crying Onion</manufacturer>
   </game>
   <game name="ranmakun" cloneof="kungfu">
     <description>Ranma vs. Ranma! - Ranma-kun Edition (Hack, v2.2)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>2023</year>
     <manufacturer>Crying Onion</manufacturer>
@@ -8843,14 +8843,14 @@
     <manufacturer>Game Losers</manufacturer>
   </game>
   <game name="ravensgate">
-    <description>Raven&#039;s Gate (HB)</description>
+    <description>Raven's Gate (HB)</description>
     <genre>Action</genre>
     <players>1</players>
     <year>2022</year>
     <manufacturer>MercuryBD</manufacturer>
   </game>
   <game name="ravensgatemmc1" cloneof="ravensgate">
-    <description>Raven&#039;s Gate (HB, MMC1 ver.)</description>
+    <description>Raven's Gate (HB, MMC1 ver.)</description>
     <genre>Action</genre>
     <players>1</players>
     <year>2022</year>
@@ -8858,7 +8858,7 @@
   </game>
   <game name="realddragon" cloneof="doubledragon">
     <description>Real Double Dragon (Hack)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>2024</year>
     <manufacturer>Corpse Grinder</manufacturer>
@@ -8893,7 +8893,7 @@
   </game>
   <game name="rescueforce">
     <description>Rescue Force: Heroes Unchained (HB)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>2024</year>
     <manufacturer>Pacnsac Games</manufacturer>
@@ -8928,7 +8928,7 @@
   </game>
   <game name="rickmortyrdw" cloneof="aliensyndrome">
     <description>Rick and Morty REDRAW (Hack)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>2</players>
     <year>2018-22</year>
     <manufacturer>pacnsacdave, Rani Baker</manufacturer>
@@ -8956,7 +8956,7 @@
   </game>
   <game name="rivercitrannek" cloneof="rivercitran">
     <description>River City Ransom - Nekketsu Hack (Hack, v1.2)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>2023</year>
     <manufacturer>FANS</manufacturer>
@@ -9011,21 +9011,21 @@
     <manufacturer>Optovania</manufacturer>
   </game>
   <game name="rollinghare">
-    <description>Rolling Hare ~ Rollin&#039; Hare (HB)</description>
+    <description>Rolling Hare ~ Rollin' Hare (HB)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>2025</year>
     <manufacturer>Doby Games</manufacturer>
   </game>
   <game name="rollinghare2">
-    <description>Rolling Hare 2 ~ Rollin&#039; Hare 2 (HB)</description>
+    <description>Rolling Hare 2 ~ Rollin' Hare 2 (HB)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>2025</year>
     <manufacturer>Doby Games</manufacturer>
   </game>
   <game name="roniustale">
-    <description>Roniu&#039;s Tale (HB)</description>
+    <description>Roniu's Tale (HB)</description>
     <genre>Puzzle</genre>
     <players>1</players>
     <year>2022</year>
@@ -9046,7 +9046,7 @@
     <manufacturer>The MIX Games</manufacturer>
   </game>
   <game name="samsjourney">
-    <description>Sam&#039;s Journey (HB)</description>
+    <description>Sam's Journey (HB)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>2024</year>
@@ -9054,7 +9054,7 @@
   </game>
   <game name="saturnsmash">
     <description>Saturn Smash (HB)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>2</players>
     <year>2019</year>
     <manufacturer>FG Software</manufacturer>
@@ -9103,7 +9103,7 @@
   </game>
   <game name="sgthel">
     <description>Sgt. Helmet - Training Day (HB)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>2013</year>
     <manufacturer>The Mojon Twins</manufacturer>
@@ -9116,14 +9116,14 @@
     <manufacturer>&lt;unknown&gt;</manufacturer>
   </game>
   <game name="shera" cloneof="sherade">
-    <description>Shera &amp; the 40 Thieves (HB)</description>
+    <description>Shera & the 40 Thieves (HB)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>2021</year>
     <manufacturer>CGT Games</manufacturer>
   </game>
   <game name="sherade">
-    <description>Shera &amp; the 40 Thieves - Definitive Edition  (HB)</description>
+    <description>Shera & the 40 Thieves - Definitive Edition  (HB)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>2024</year>
@@ -9375,7 +9375,7 @@
     <manufacturer>Skadiet</manufacturer>
   </game>
   <game name="spookotron">
-    <description>Spook-o&#039;-tron (HB)</description>
+    <description>Spook-o'-tron (HB)</description>
     <genre>Shooter</genre>
     <players>1</players>
     <year>2017</year>
@@ -9389,7 +9389,7 @@
     <manufacturer>Dullahan Software</manufacturer>
   </game>
   <game name="spoolchal" cloneof="rpoolchal">
-    <description>Sara Parker&#039;s Pool Challenge (Unl)</description>
+    <description>Sara Parker's Pool Challenge (Unl)</description>
     <genre>Sports / Misc</genre>
     <players>4</players>
     <year>2010</year>
@@ -9456,7 +9456,7 @@
     <genre>Platform</genre>
     <players>1</players>
     <year>2024</year>
-    <manufacturer>Aeon &amp; Star Interactive</manufacturer>
+    <manufacturer>Aeon & Star Interactive</manufacturer>
   </game>
   <game name="steelmoons">
     <description>Steel Moons (HB)</description>
@@ -9481,7 +9481,7 @@
   </game>
   <game name="storiedsword">
     <description>Storied Sword, The (HB)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>2024</year>
     <manufacturer>Bite The Chili</manufacturer>
@@ -9949,21 +9949,21 @@
     <manufacturer>Piko Interactive</manufacturer>
   </game>
   <game name="tinasadvisl" cloneof="adventureisland">
-    <description>Tina&#039;s Adventure Island (Hack)</description>
+    <description>Tina's Adventure Island (Hack)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>2019</year>
     <manufacturer>Zynk Oxhyde</manufacturer>
   </game>
   <game name="tinasadvislii" cloneof="advenislii">
-    <description>Tina&#039;s Adventure Island II (Hack)</description>
+    <description>Tina's Adventure Island II (Hack)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>2019</year>
     <manufacturer>Zynk Oxhyde</manufacturer>
   </game>
   <game name="tinasadvisliii" cloneof="advenisl3">
-    <description>Tina&#039;s Advanture Island III (Hack)</description>
+    <description>Tina's Advanture Island III (Hack)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>2019</year>
@@ -9977,7 +9977,7 @@
     <manufacturer>OmniRetro Games</manufacturer>
   </game>
   <game name="tonymont">
-    <description>Tony: Montezuma&#039;s Gold (HB)</description>
+    <description>Tony: Montezuma's Gold (HB)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>2026</year>
@@ -10068,7 +10068,7 @@
     <manufacturer>CGT Games</manufacturer>
   </game>
   <game name="tukipaco">
-    <description>Tuki &amp; Paco Adventures (HB, Demo)</description>
+    <description>Tuki & Paco Adventures (HB, Demo)</description>
     <genre>Platform</genre>
     <players>2</players>
     <year>2026</year>
@@ -10152,7 +10152,7 @@
     <manufacturer>Fadest</manufacturer>
   </game>
   <game name="uruseyatoh" cloneof="uruseyat">
-    <description>Urusei Yatsura: Lum&#039;s Wedding Bell - OVERHAUL (Hack)</description>
+    <description>Urusei Yatsura: Lum's Wedding Bell - OVERHAUL (Hack)</description>
     <genre>Platform</genre>
     <players>2</players>
     <year>2022</year>
@@ -10167,7 +10167,7 @@
   </game>
   <game name="valispp" cloneof="valis">
     <description>Valis++ (Hack, English v1.1)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>2021</year>
     <manufacturer>Sliver X</manufacturer>
@@ -10181,7 +10181,7 @@
   </game>
   <game name="veggieinvaders">
     <description>Veggie Invaders (HB)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>2019</year>
     <manufacturer>dustmop</manufacturer>
@@ -10278,8 +10278,8 @@
     <manufacturer>John Vanderhoef</manufacturer>
   </game>
   <game name="weedstiff2">
-    <description>Weed N&#039; Stiff 2 Bobsons Revenge (HB)</description>
-    <genre>Beat &#039;em Up</genre>
+    <description>Weed N' Stiff 2 Bobsons Revenge (HB)</description>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>2021</year>
     <manufacturer>CalGames</manufacturer>
@@ -10292,14 +10292,14 @@
     <manufacturer>Iodine Dynamics</manufacturer>
   </game>
   <game name="witchnwiz">
-    <description>Witch n&#039; Wiz (HB)</description>
+    <description>Witch n' Wiz (HB)</description>
     <genre>Puzzle</genre>
     <players>1</players>
     <year>2021</year>
     <manufacturer>Matt Hughson</manufacturer>
   </game>
   <game name="witchnwiznd" cloneof="witchnwiz">
-    <description>Witch n&#039; Wiz (HB, NESDev Ed.)</description>
+    <description>Witch n' Wiz (HB, NESDev Ed.)</description>
     <genre>Puzzle</genre>
     <players>1</players>
     <year>2020-21</year>
@@ -10380,7 +10380,7 @@
     <genre>Platform</genre>
     <players>2</players>
     <year>2022</year>
-    <manufacturer>Rigg&#039;d Games</manufacturer>
+    <manufacturer>Rigg'd Games</manufacturer>
   </game>
   <game name="ysde" cloneof="ys">
     <description>Ys - Definitive Edition (Hack, English)</description>
@@ -10425,7 +10425,7 @@
     <manufacturer>Tengen Games</manufacturer>
   </game>
   <game name="zeldaiiac" cloneof="zeldaii">
-    <description>Zelda II: Amida&#039;s Curse (GlobalHack, v1.9)</description>
+    <description>Zelda II: Amida's Curse (GlobalHack, v1.9)</description>
     <genre>ADV</genre>
     <players>1</players>
     <year>2023</year>
@@ -10450,18 +10450,18 @@
     <genre>Platform</genre>
     <players>1</players>
     <year>2020</year>
-    <manufacturer>Art&#039;Cade</manufacturer>
+    <manufacturer>Art'Cade</manufacturer>
   </game>
   <game name="zombiecalavera">
     <description>Zombie Calavera (HB)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>2016</year>
     <manufacturer>The Mojon Twins</manufacturer>
   </game>
   <game name="zombhuntbob">
     <description>Zombiehunter Bob (HB)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>2022</year>
     <manufacturer>board-b</manufacturer>
@@ -10471,7 +10471,7 @@
     <genre>Action</genre>
     <players>2</players>
     <year>2011</year>
-    <manufacturer>Pinwizz &amp; Shiru</manufacturer>
+    <manufacturer>Pinwizz & Shiru</manufacturer>
   </game>
   <game name="10yardfight">
     <description>10-Yard Fight (USA)</description>
@@ -10523,14 +10523,14 @@
     <manufacturer>Mindscape</manufacturer>
   </game>
   <game name="8eyes">
-    <description>8 Eye&#039;s (USA)</description>
+    <description>8 Eye's (USA)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>1990</year>
     <manufacturer>Taxan</manufacturer>
   </game>
   <game name="8eyesj" cloneof="8eyes">
-    <description>8 Eye&#039;s (Japan)</description>
+    <description>8 Eye's (Japan)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>1988</year>
@@ -10586,49 +10586,49 @@
     <manufacturer>Ocean</manufacturer>
   </game>
   <game name="addamfampugsschu">
-    <description>Addams Family, The: Pugsley&#039;s Scavenger Hunt (USA)</description>
+    <description>Addams Family, The: Pugsley's Scavenger Hunt (USA)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Ocean</manufacturer>
   </game>
   <game name="advdddf">
-    <description>Advanced Dungeons &amp; Dragons - Dragons of Flame (Hack, English v1.03)</description>
+    <description>Advanced Dungeons & Dragons - Dragons of Flame (Hack, English v1.03)</description>
     <genre>RPG</genre>
     <players>1</players>
     <year>2003</year>
     <manufacturer>DvD Translations</manufacturer>
   </game>
   <game name="advdddfj" cloneof="advdddf">
-    <description>Advanced Dungeons &amp; Dragons - Dragons of Flame (Japan)</description>
+    <description>Advanced Dungeons & Dragons - Dragons of Flame (Japan)</description>
     <genre>RPG</genre>
     <players>1</players>
     <year>1992</year>
     <manufacturer>Pony Canyon</manufacturer>
   </game>
   <game name="advddds">
-    <description>Advanced Dungeons &amp; Dragons - Dragon Strike (USA)</description>
+    <description>Advanced Dungeons & Dragons - Dragon Strike (USA)</description>
     <genre>Shooter</genre>
     <players>2</players>
     <year>1990</year>
     <manufacturer>Natsume</manufacturer>
   </game>
   <game name="advddhl">
-    <description>Advanced Dungeons &amp; Dragons - Heroes of the Lance (USA)</description>
+    <description>Advanced Dungeons & Dragons - Heroes of the Lance (USA)</description>
     <genre>RPG</genre>
     <players>1</players>
     <year>1990</year>
     <manufacturer>FCI Inc.</manufacturer>
   </game>
   <game name="advddhllfr">
-    <description>Advanced Dungeons &amp; Dragons - Hillsfar (USA)</description>
+    <description>Advanced Dungeons & Dragons - Hillsfar (USA)</description>
     <genre>RPG</genre>
     <players>1</players>
     <year>1992</year>
     <manufacturer>FCI Inc.</manufacturer>
   </game>
   <game name="advddpor">
-    <description>Advanced Dungeons &amp; Dragons - Pool of Radiance (USA)</description>
+    <description>Advanced Dungeons & Dragons - Pool of Radiance (USA)</description>
     <genre>RPG</genre>
     <players>1</players>
     <year>1992</year>
@@ -10678,7 +10678,7 @@
   </game>
   <game name="advenbaybil">
     <description>Adventures of Bayou Billy, The (USA)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>1989</year>
     <manufacturer>Konami</manufacturer>
@@ -10691,7 +10691,7 @@
     <manufacturer>Hudson Soft</manufacturer>
   </game>
   <game name="advengilsisl">
-    <description>Adventures of Gilligan&#039;s Island, The (USA)</description>
+    <description>Adventures of Gilligan's Island, The (USA)</description>
     <genre>ADV</genre>
     <players>1</players>
     <year>1990</year>
@@ -10838,7 +10838,7 @@
     <manufacturer>Data East</manufacturer>
   </game>
   <game name="aladdin">
-    <description>Disney&#039;s Aladdin (Euro)</description>
+    <description>Disney's Aladdin (Euro)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>1994</year>
@@ -10860,21 +10860,21 @@
   </game>
   <game name="alien3">
     <description>Alien 3 (USA)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Ljn</manufacturer>
   </game>
   <game name="aliensyndrome">
     <description>Alien Syndrome (USA)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>2</players>
     <year>1989</year>
     <manufacturer>Tengen</manufacturer>
   </game>
   <game name="aliensyndromej" cloneof="aliensyndrome">
     <description>Alien Syndrome (Japan)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>2</players>
     <year>1988</year>
     <manufacturer>Sunsoft</manufacturer>
@@ -10954,7 +10954,7 @@
     <genre>STRATEGY</genre>
     <players>1</players>
     <year>2021</year>
-    <manufacturer>AgentOrange &amp; Jink640</manufacturer>
+    <manufacturer>AgentOrange & Jink640</manufacturer>
   </game>
   <game name="atrainj" cloneof="atrain">
     <description>A Ressha de Ikou (Japan)</description>
@@ -10992,7 +10992,7 @@
     <manufacturer>Taito Corp.</manufacturer>
   </game>
   <game name="arkistasring">
-    <description>Arkista&#039;s Ring (USA)</description>
+    <description>Arkista's Ring (USA)</description>
     <genre>Action</genre>
     <players>1</players>
     <year>1990</year>
@@ -11167,7 +11167,7 @@
     <manufacturer>Ljn</manufacturer>
   </game>
   <game name="backfutpariiiii">
-    <description>Back to the Future Part II &amp; III (USA)</description>
+    <description>Back to the Future Part II & III (USA)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>1990</year>
@@ -11175,7 +11175,7 @@
   </game>
   <game name="baddudes">
     <description>Bad Dudes (USA)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>1990</year>
     <manufacturer>Data East</manufacturer>
@@ -11189,7 +11189,7 @@
   </game>
   <game name="badstrbra">
     <description>Bad Street Brawler (USA)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>1989</year>
     <manufacturer>Mattel</manufacturer>
@@ -11248,7 +11248,7 @@
     <genre>Platform</genre>
     <players>1</players>
     <year>2003</year>
-    <manufacturer>KingMike&#039;s Translations</manufacturer>
+    <manufacturer>KingMike's Translations</manufacturer>
   </game>
   <game name="bandikinancchi">
     <description>Bandit Kings of Ancient China (USA)</description>
@@ -11258,7 +11258,7 @@
     <manufacturer>Koei</manufacturer>
   </game>
   <game name="barkebilstrish">
-    <description>Barker Bill&#039;s Trick Shooting (USA)</description>
+    <description>Barker Bill's Trick Shooting (USA)</description>
     <genre>Shooter</genre>
     <players>1</players>
     <year>1990</year>
@@ -11350,13 +11350,13 @@
   </game>
   <game name="batmanreturns">
     <description>Batman Returns (USA)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Konami</manufacturer>
   </game>
   <game name="batsuterii">
-    <description>Batsu &amp; Terii (Japan)</description>
+    <description>Batsu & Terii (Japan)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>1987</year>
@@ -11413,14 +11413,14 @@
   </game>
   <game name="battletoads">
     <description>Battletoads (USA)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>1991</year>
     <manufacturer>Tradewest</manufacturer>
   </game>
   <game name="battldoudra">
     <description>Battletoads-Double Dragon (USA)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>1993</year>
     <manufacturer>Tradewest</manufacturer>
@@ -11475,7 +11475,7 @@
     <manufacturer>Technos Japan</manufacturer>
   </game>
   <game name="billtedsexcvigaad">
-    <description>Bill &amp; Ted&#039;s Excellent Video Game Adventure (USA)</description>
+    <description>Bill & Ted's Excellent Video Game Adventure (USA)</description>
     <genre>ADV</genre>
     <players>1</players>
     <year>1991</year>
@@ -11609,7 +11609,7 @@
   </game>
   <game name="blueshadow" cloneof="shadonin">
     <description>Blue Shadow (Euro)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>1991</year>
     <manufacturer>Taito</manufacturer>
@@ -11650,7 +11650,7 @@
     <manufacturer>Hudson Soft</manufacturer>
   </game>
   <game name="bonksadventure">
-    <description>Bonk&#039;s Adventure (USA)</description>
+    <description>Bonk's Adventure (USA)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>1993</year>
@@ -11658,7 +11658,7 @@
   </game>
   <game name="boobykids">
     <description>Booby Kids (Japan)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>2</players>
     <year>1987</year>
     <manufacturer>Nichibutsu</manufacturer>
@@ -11671,7 +11671,7 @@
     <manufacturer>JVC</manufacturer>
   </game>
   <game name="bramstosdra">
-    <description>Bram Stoker&#039;s Dracula (USA)</description>
+    <description>Bram Stoker's Dracula (USA)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>1993</year>
@@ -11699,14 +11699,14 @@
     <manufacturer>Taito</manufacturer>
   </game>
   <game name="buckyohare">
-    <description>Bucky O&#039;Hare (USA)</description>
+    <description>Bucky O'Hare (USA)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>1992</year>
     <manufacturer>Konami</manufacturer>
   </game>
   <game name="buckyoharej" cloneof="buckyohare">
-    <description>Bucky O&#039;Hare (Japan)</description>
+    <description>Bucky O'Hare (Japan)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>1991</year>
@@ -11734,7 +11734,7 @@
     <manufacturer>Kemco</manufacturer>
   </game>
   <game name="bumpnjump">
-    <description>Bump&#039;n&#039;Jump (USA)</description>
+    <description>Bump'n'Jump (USA)</description>
     <genre>Action</genre>
     <players>1</players>
     <year>1988</year>
@@ -11755,7 +11755,7 @@
     <manufacturer>Taxan</manufacturer>
   </game>
   <game name="buzzwaldog">
-    <description>Buzz &amp; Waldog (USA, Prototype)</description>
+    <description>Buzz & Waldog (USA, Prototype)</description>
     <genre>Platform</genre>
     <players>2</players>
     <year>1993</year>
@@ -11783,7 +11783,7 @@
     <manufacturer>Milton Bradley</manufacturer>
   </game>
   <game name="capcosgolmedch92">
-    <description>Capcom&#039;s Gold Medal Challenge &#039;92 (USA)</description>
+    <description>Capcom's Gold Medal Challenge '92 (USA)</description>
     <genre>Sports / Misc</genre>
     <players>8</players>
     <year>1992</year>
@@ -11819,7 +11819,7 @@
   </game>
   <game name="captainsaver" cloneof="powerblade2">
     <description>Captain Saver (Japan)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1992</year>
     <manufacturer>Taito Corp.</manufacturer>
@@ -11896,7 +11896,7 @@
   </game>
   <game name="castleofdragon">
     <description>Castle of Dragon (USA)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>1990</year>
     <manufacturer>Seta</manufacturer>
@@ -11930,28 +11930,28 @@
     <manufacturer>Konami</manufacturer>
   </game>
   <game name="castliie" cloneof="castlii">
-    <description>Castlevania II: Simon&#039;s Quest (Euro)</description>
+    <description>Castlevania II: Simon's Quest (Euro)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>1990</year>
     <manufacturer>Konami</manufacturer>
   </game>
   <game name="castlii">
-    <description>Castlevania II: Simon&#039;s Quest (USA)</description>
+    <description>Castlevania II: Simon's Quest (USA)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>1988</year>
     <manufacturer>Konami</manufacturer>
   </game>
   <game name="castliii">
-    <description>Castlevania III: Dracula&#039;s Curse (USA)</description>
+    <description>Castlevania III: Dracula's Curse (USA)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>1990</year>
     <manufacturer>Konami</manufacturer>
   </game>
   <game name="chacknpop">
-    <description>Chack&#039;n Pop (Japan)</description>
+    <description>Chack'n Pop (Japan)</description>
     <genre>Action</genre>
     <players>2</players>
     <year>1985</year>
@@ -11959,7 +11959,7 @@
   </game>
   <game name="challdra">
     <description>Challenge of the Dragon (USA)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>1990</year>
     <manufacturer>Color Dreams</manufacturer>
@@ -12000,8 +12000,8 @@
     <manufacturer>Aeon Genesis</manufacturer>
   </game>
   <game name="chargemen">
-    <description>Charge!! Men&#039;s Private School: Number One Student (Hack, English)</description>
-    <genre>Beat &#039;em Up</genre>
+    <description>Charge!! Men's Private School: Number One Student (Hack, English)</description>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>2016</year>
     <manufacturer>pacnsacdave</manufacturer>
@@ -12032,7 +12032,7 @@
     <genre>Action</genre>
     <players>1</players>
     <year>2005</year>
-    <manufacturer>KingMike&#039;s Translations</manufacturer>
+    <manufacturer>KingMike's Translations</manufacturer>
   </game>
   <game name="chikichimacmoura" cloneof="wackyraces">
     <description>Chiki Chiki Machine Mou Race (Japan)</description>
@@ -12049,7 +12049,7 @@
     <manufacturer>AGCI</manufacturer>
   </game>
   <game name="chipndalresra">
-    <description>Chip &#039;n Dale: Rescue Rangers (USA)</description>
+    <description>Chip 'n Dale: Rescue Rangers (USA)</description>
     <genre>Platform</genre>
     <players>2</players>
     <year>1990</year>
@@ -12063,7 +12063,7 @@
     <manufacturer>Capcom</manufacturer>
   </game>
   <game name="chipndalresra2">
-    <description>Chip &#039;n Dale: Rescue Rangers 2 (USA)</description>
+    <description>Chip 'n Dale: Rescue Rangers 2 (USA)</description>
     <genre>Platform</genre>
     <players>2</players>
     <year>1994</year>
@@ -12182,7 +12182,7 @@
     <manufacturer>Jaleco</manufacturer>
   </game>
   <game name="cjeleant">
-    <description>CJ&#039;s Elephant Antics (USA)</description>
+    <description>CJ's Elephant Antics (USA)</description>
     <genre>Platform</genre>
     <players>2</players>
     <year>1992</year>
@@ -12253,7 +12253,7 @@
   </game>
   <game name="commando">
     <description>Commando (USA)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>2</players>
     <year>1986</year>
     <manufacturer>Capcom</manufacturer>
@@ -12378,7 +12378,7 @@
     <manufacturer>Romstar</manufacturer>
   </game>
   <game name="crashnboy">
-    <description>Crash &#039;n&#039; the Boys: Street Challenge (USA)</description>
+    <description>Crash 'n' the Boys: Street Challenge (USA)</description>
     <genre>Sports / Misc</genre>
     <players>4</players>
     <year>1992</year>
@@ -12483,7 +12483,7 @@
     <manufacturer>Irem Corp.</manufacturer>
   </game>
   <game name="dannysulsindhe">
-    <description>Danny Sullivan&#039;s Indy Heat (USA)</description>
+    <description>Danny Sullivan's Indy Heat (USA)</description>
     <genre>Racing</genre>
     <players>4</players>
     <year>1992</year>
@@ -12526,13 +12526,13 @@
   </game>
   <game name="datsugoku" cloneof="pow">
     <description>Datsugoku (Japan)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>1989</year>
     <manufacturer>KAC</manufacturer>
   </game>
   <game name="davidcrasaboyandhis">
-    <description>David Crane&#039;s A Boy and His Blob: Trouble on Blobolonia (USA)</description>
+    <description>David Crane's A Boy and His Blob: Trouble on Blobolonia (USA)</description>
     <genre>ADV</genre>
     <players>1</players>
     <year>1990</year>
@@ -12546,7 +12546,7 @@
     <manufacturer>Jaleco</manufacturer>
   </game>
   <game name="daydredav">
-    <description>Day Dreamin&#039; Davey (USA)</description>
+    <description>Day Dreamin' Davey (USA)</description>
     <genre>ADV</genre>
     <players>1</players>
     <year>1992</year>
@@ -12603,7 +12603,7 @@
   </game>
   <game name="deathbots">
     <description>Deathbots (USA, Rev. 1) (Unl)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1990</year>
     <manufacturer>American Video Entertainment</manufacturer>
@@ -12627,7 +12627,7 @@
     <genre>MAZE</genre>
     <players>1</players>
     <year>2013</year>
-    <manufacturer>KingMike&#039;s Translations</manufacturer>
+    <manufacturer>KingMike's Translations</manufacturer>
   </game>
   <game name="defenderii">
     <description>Defender II (USA)</description>
@@ -12645,7 +12645,7 @@
   </game>
   <game name="defendyncit">
     <description>Defenders of Dynatron City (USA)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>1992</year>
     <manufacturer>JVC</manufacturer>
@@ -12666,7 +12666,7 @@
   </game>
   <game name="demonsword">
     <description>Demon Sword (USA)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1990</year>
     <manufacturer>Taito</manufacturer>
@@ -12729,7 +12729,7 @@
   </game>
   <game name="diehard">
     <description>Die Hard (USA)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1992</year>
     <manufacturer>Activision</manufacturer>
@@ -12792,7 +12792,7 @@
   </game>
   <game name="dirtyhar">
     <description>Dirty Harry - The War Against Drugs (USA)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>1990</year>
     <manufacturer>Mindscape</manufacturer>
@@ -12911,42 +12911,42 @@
   </game>
   <game name="doubledragon">
     <description>Double Dragon (USA)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>1988</year>
     <manufacturer>Technos</manufacturer>
   </game>
   <game name="doubledragonj" cloneof="doubledragon">
     <description>Double Dragon (Japan)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>1988</year>
     <manufacturer>Technos Japan</manufacturer>
   </game>
   <game name="doubldraii">
     <description>Double Dragon II: The Revenge (USA)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>1990</year>
     <manufacturer>Acclaim Entertainment</manufacturer>
   </game>
   <game name="doubldraiij" cloneof="doubldraii">
     <description>Double Dragon II: The Revenge (Japan)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>1989</year>
     <manufacturer>Technos Japan</manufacturer>
   </game>
   <game name="doubldraiii">
     <description>Double Dragon III: The Sacred Stones (USA)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>1991</year>
     <manufacturer>Acclaim Entertainment</manufacturer>
   </game>
   <game name="doubldraiiij" cloneof="doubldraiii">
     <description>Double Dragon III: The Rosetta Stones (Japan)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>1991</year>
     <manufacturer>Technos Japan</manufacturer>
@@ -12974,7 +12974,7 @@
   </game>
   <game name="doughboy">
     <description>Dough Boy (Japan)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>2</players>
     <year>1985</year>
     <manufacturer>Kemco</manufacturer>
@@ -12988,14 +12988,14 @@
   </game>
   <game name="downtnekmon">
     <description>Downtown - Nekketsu Monogatari (Japan)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>1989</year>
     <manufacturer>Technos Japan</manufacturer>
   </game>
   <game name="downtspekunkunnojid">
     <description>Downtown Special: Kunio-kun no Jidaigeki Da yo Zenin Shuugou! (Japan)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>4</players>
     <year>1991</year>
     <manufacturer>Technos Japan</manufacturer>
@@ -13022,7 +13022,7 @@
     <manufacturer>Nintendo</manufacturer>
   </game>
   <game name="dracsnightout">
-    <description>Drac&#039;s Night Out (USA, Prototype)</description>
+    <description>Drac's Night Out (USA, Prototype)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>1991</year>
@@ -13163,21 +13163,21 @@
   </game>
   <game name="dragonfighter">
     <description>Dragon Fighter (USA)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1992</year>
     <manufacturer>Sofel</manufacturer>
   </game>
   <game name="dragninjaj" cloneof="baddudes">
     <description>Dragon Ninja (Japan)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>1989</year>
     <manufacturer>Namcot - Data East</manufacturer>
   </game>
   <game name="dragninjae" cloneof="baddudes">
     <description>Dragon Ninja (Hack, English)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>2010</year>
     <manufacturer>Stardust Crusaders</manufacturer>
@@ -13236,10 +13236,10 @@
     <genre>ADV</genre>
     <players>1</players>
     <year>2008</year>
-    <manufacturer>KingMike&#039;s Translations</manufacturer>
+    <manufacturer>KingMike's Translations</manufacturer>
   </game>
   <game name="dragonslair">
-    <description>Dragon&#039;s Lair (USA)</description>
+    <description>Dragon's Lair (USA)</description>
     <genre>Platform</genre>
     <players>2</players>
     <year>1990</year>
@@ -13268,7 +13268,7 @@
   </game>
   <game name="dragunit" cloneof="castleofdragon">
     <description>Dragon Unit (Japan)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>1990</year>
     <manufacturer>Athena</manufacturer>
@@ -13379,7 +13379,7 @@
     <manufacturer>Taito</manufacturer>
   </game>
   <game name="dustydiasallstso">
-    <description>Dusty Diamond&#039;s All-Star Softball (USA)</description>
+    <description>Dusty Diamond's All-Star Softball (USA)</description>
     <genre>Sports / Misc</genre>
     <players>2</players>
     <year>1990</year>
@@ -13401,7 +13401,7 @@
   </game>
   <game name="dynow">
     <description>Dynowarz - Destruction of Spondylus (USA)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1990</year>
     <manufacturer>Bandai</manufacturer>
@@ -13484,7 +13484,7 @@
     <manufacturer>Namcot</manufacturer>
   </game>
   <game name="erika">
-    <description>Erika and Satoru&#039;s Dream Adventure (Hack, English)</description>
+    <description>Erika and Satoru's Dream Adventure (Hack, English)</description>
     <genre>ADV</genre>
     <players>1</players>
     <year>2022</year>
@@ -13680,7 +13680,7 @@
     <manufacturer>Namcot</manufacturer>
   </game>
   <game name="familcir91">
-    <description>Family Circuit &#039;91 (Japan)</description>
+    <description>Family Circuit '91 (Japan)</description>
     <genre>Racing</genre>
     <players>1</players>
     <year>1991</year>
@@ -13708,49 +13708,49 @@
     <manufacturer>Namcot</manufacturer>
   </game>
   <game name="famista89">
-    <description>Famista &#039;89 (Japan)</description>
+    <description>Famista '89 (Japan)</description>
     <genre>Sports / Misc</genre>
     <players>2</players>
     <year>1989</year>
     <manufacturer>Namcot</manufacturer>
   </game>
   <game name="famista90">
-    <description>Famista &#039;90 (Japan)</description>
+    <description>Famista '90 (Japan)</description>
     <genre>Sports / Misc</genre>
     <players>2</players>
     <year>1989</year>
     <manufacturer>Namcot</manufacturer>
   </game>
   <game name="famista91">
-    <description>Famista &#039;91 (Japan)</description>
+    <description>Famista '91 (Japan)</description>
     <genre>Sports / Misc</genre>
     <players>2</players>
     <year>1990</year>
     <manufacturer>Namcot</manufacturer>
   </game>
   <game name="famista92">
-    <description>Famista &#039;92 (Japan)</description>
+    <description>Famista '92 (Japan)</description>
     <genre>Sports / Misc</genre>
     <players>2</players>
     <year>1991</year>
     <manufacturer>Namcot</manufacturer>
   </game>
   <game name="famista93">
-    <description>Famista &#039;93 (Japan)</description>
+    <description>Famista '93 (Japan)</description>
     <genre>Sports / Misc</genre>
     <players>2</players>
     <year>1992</year>
     <manufacturer>Namcot</manufacturer>
   </game>
   <game name="famista93e" cloneof="famista93">
-    <description>Famista &#039;93 (Hack, English)</description>
+    <description>Famista '93 (Hack, English)</description>
     <genre>Sports / Misc</genre>
     <players>2</players>
     <year>201?</year>
     <manufacturer>FlashPV</manufacturer>
   </game>
   <game name="famista94">
-    <description>Famista &#039;94 (Japan)</description>
+    <description>Famista '94 (Japan)</description>
     <genre>Sports / Misc</genre>
     <players>2</players>
     <year>1993</year>
@@ -13785,7 +13785,7 @@
     <manufacturer>Sunsoft</manufacturer>
   </game>
   <game name="faria">
-    <description>Faria: A World of Mystery &amp; Danger! (USA)</description>
+    <description>Faria: A World of Mystery & Danger! (USA)</description>
     <genre>RPG</genre>
     <players>1</players>
     <year>1991</year>
@@ -13841,15 +13841,15 @@
     <manufacturer>Acclaim Entertainment</manufacturer>
   </game>
   <game name="festersquest">
-    <description>Fester&#039;s Quest (USA)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <description>Fester's Quest (USA)</description>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1989</year>
     <manufacturer>Sunsoft</manufacturer>
   </game>
   <game name="fieldcombat">
     <description>Field Combat (Japan)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1985</year>
     <manufacturer>Jaleco</manufacturer>
@@ -13883,14 +13883,14 @@
     <manufacturer>Nintendo</manufacturer>
   </game>
   <game name="finalfan12j" cloneof="finalfan12">
-    <description>Final Fantasy 1 &amp; 2 (Japan)</description>
+    <description>Final Fantasy 1 & 2 (Japan)</description>
     <genre>RPG</genre>
     <players>1</players>
     <year>1994</year>
     <manufacturer>Squaresoft</manufacturer>
   </game>
   <game name="finalfan12">
-    <description>Final Fantasy 1 &amp; 2 (Hack, English)</description>
+    <description>Final Fantasy 1 & 2 (Hack, English)</description>
     <genre>RPG</genre>
     <players>1</players>
     <year>2001</year>
@@ -13932,7 +13932,7 @@
     <manufacturer>Stardust Crusaders</manufacturer>
   </game>
   <game name="firenice">
-    <description>Fire &#039;n Ice (USA)</description>
+    <description>Fire 'n Ice (USA)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>1993</year>
@@ -13981,7 +13981,7 @@
     <manufacturer>GameTek</manufacturer>
   </game>
   <game name="ftkantaro53">
-    <description>Firework Thrower Kantaro&#039;s 53 Stations of the Toukaido (World)</description>
+    <description>Firework Thrower Kantaro's 53 Stations of the Toukaido (World)</description>
     <genre>Platform</genre>
     <players>2</players>
     <year>2024</year>
@@ -13989,7 +13989,7 @@
   </game>
   <game name="fistnorsta">
     <description>Fist of the North Star (USA)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>1989</year>
     <manufacturer>Taxan</manufacturer>
@@ -14009,14 +14009,14 @@
     <manufacturer>Mindscape</manufacturer>
   </game>
   <game name="flintresdinhopj" cloneof="flintresdinhop">
-    <description>Flintstones, The: The Rescue of Dino &amp; Hoppy (Japan)</description>
+    <description>Flintstones, The: The Rescue of Dino & Hoppy (Japan)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>1991</year>
     <manufacturer>Taito Corp.</manufacturer>
   </game>
   <game name="flintresdinhop">
-    <description>Flintstones, The: The Rescue of Dino &amp; Hoppy (USA)</description>
+    <description>Flintstones, The: The Rescue of Dino & Hoppy (USA)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>1991</year>
@@ -14038,7 +14038,7 @@
   </game>
   <game name="flyindra">
     <description>Flying Dragon: The Secret Scroll (USA)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>1989</year>
     <manufacturer>Culture Brain</manufacturer>
@@ -14073,7 +14073,7 @@
   </game>
   <game name="frank">
     <description>Frankenstein - The Monster Returns (USA)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>1991</year>
     <manufacturer>Bandai</manufacturer>
@@ -14101,7 +14101,7 @@
   </game>
   <game name="frontline">
     <description>Front Line (Japan)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>2</players>
     <year>1985</year>
     <manufacturer>Taito Corp.</manufacturer>
@@ -14136,7 +14136,7 @@
   </game>
   <game name="gijoeareamhe">
     <description>G.I. Joe - A Real American Hero (USA)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>1991</year>
     <manufacturer>Taxan</manufacturer>
@@ -14150,7 +14150,7 @@
   </game>
   <game name="gaiapolis">
     <description>Gaiapolis (Taiwan) (Unl)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>2</players>
     <year>1990</year>
     <manufacturer>Sachen</manufacturer>
@@ -14275,7 +14275,7 @@
     <manufacturer>Towa Chiki</manufacturer>
   </game>
   <game name="gargosqueii">
-    <description>Gargoyle&#039;s Quest II (USA)</description>
+    <description>Gargoyle's Quest II (USA)</description>
     <genre>ADV</genre>
     <players>1</players>
     <year>1992</year>
@@ -14345,7 +14345,7 @@
     <manufacturer>Koei</manufacturer>
   </game>
   <game name="georgforskobo">
-    <description>George Foreman&#039;s KO Boxing (USA)</description>
+    <description>George Foreman's KO Boxing (USA)</description>
     <genre>Fighting</genre>
     <players>2</players>
     <year>1992</year>
@@ -14374,13 +14374,13 @@
   </game>
   <game name="ghostbustersii">
     <description>Ghostbusters II (USA)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>2</players>
     <year>1990</year>
     <manufacturer>Activision</manufacturer>
   </game>
   <game name="ghostsngoblins">
-    <description>Ghosts&#039;n Goblins (USA)</description>
+    <description>Ghosts'n Goblins (USA)</description>
     <genre>Platform</genre>
     <players>2</players>
     <year>1986</year>
@@ -14388,7 +14388,7 @@
   </game>
   <game name="ghoulschool">
     <description>Ghoul School (USA)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>1992</year>
     <manufacturer>Electro Brain</manufacturer>
@@ -14577,7 +14577,7 @@
   </game>
   <game name="greatbatcyb">
     <description>Great Battle Cyber (Japan)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>1992</year>
     <manufacturer>Banpresto</manufacturer>
@@ -14594,11 +14594,11 @@
     <genre>MAZE</genre>
     <players>1</players>
     <year>2006</year>
-    <manufacturer>KingMike&#039;s Translations</manufacturer>
+    <manufacturer>KingMike's Translations</manufacturer>
   </game>
   <game name="greattank" cloneof="irontan">
     <description>Great Tank (Japan)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1988</year>
     <manufacturer>SNK</manufacturer>
@@ -14612,20 +14612,20 @@
   </game>
   <game name="greml2">
     <description>Gremlins 2: The New Batch (USA)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1990</year>
     <manufacturer>Sunsoft</manufacturer>
   </game>
   <game name="greml2j" cloneof="greml2">
     <description>Gremlins 2: Shinshu Tanjou (Japan)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1990</year>
     <manufacturer>Sunsoft</manufacturer>
   </game>
   <game name="gngolfp">
-    <description>Greg Norman&#039;s Golf Power (USA)</description>
+    <description>Greg Norman's Golf Power (USA)</description>
     <genre>Sports / Misc</genre>
     <players>4</players>
     <year>1992</year>
@@ -14647,14 +14647,14 @@
   </game>
   <game name="guerrillawar">
     <description>Guerrilla War (USA)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>2</players>
     <year>1989</year>
     <manufacturer>SNK</manufacturer>
   </game>
   <game name="guevara" cloneof="guerrillawar">
     <description>Guevara (Japan)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>2</players>
     <year>1988</year>
     <manufacturer>SNK</manufacturer>
@@ -14737,7 +14737,7 @@
     <manufacturer>the jabu</manufacturer>
   </game>
   <game name="hammerinharry">
-    <description>Hammerin&#039; Harry (Euro)</description>
+    <description>Hammerin' Harry (Euro)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>1992</year>
@@ -14773,13 +14773,13 @@
   </game>
   <game name="heavybarrel">
     <description>Heavy Barrel (USA)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>2</players>
     <year>1990</year>
     <manufacturer>Data East</manufacturer>
   </game>
   <game name="heavyshreddin">
-    <description>Heavy Shreddin&#039; (USA)</description>
+    <description>Heavy Shreddin' (USA)</description>
     <genre>Sports / Misc</genre>
     <players>1</players>
     <year>1990</year>
@@ -14800,7 +14800,7 @@
     <manufacturer>BMF54123</manufacturer>
   </game>
   <game name="hector87">
-    <description>Hector &#039;87 (Japan)</description>
+    <description>Hector '87 (Japan)</description>
     <genre>Shooter / Vert</genre>
     <players>1</players>
     <year>1987</year>
@@ -14818,7 +14818,7 @@
     <genre>Platform</genre>
     <players>1</players>
     <year>2007</year>
-    <manufacturer>KingMike&#039;s Translations</manufacturer>
+    <manufacturer>KingMike's Translations</manufacturer>
   </game>
   <game name="hellfighter">
     <description>Hell Fighter (Asia) (Unl)</description>
@@ -14849,7 +14849,7 @@
     <manufacturer>Character Soft</manufacturer>
   </game>
   <game name="hellsbells" cloneof="deadlytowers">
-    <description>Hell&#039;s Bells (Hack, English)</description>
+    <description>Hell's Bells (Hack, English)</description>
     <genre>Action</genre>
     <players>1</players>
     <year>2025</year>
@@ -14877,7 +14877,7 @@
     <manufacturer>Data East</manufacturer>
   </game>
   <game name="heracles2">
-    <description>Glory of Heracles II, The: Titans&#039; Downfall (Hack, English v1.31)</description>
+    <description>Glory of Heracles II, The: Titans' Downfall (Hack, English v1.31)</description>
     <genre>RPG</genre>
     <players>1</players>
     <year>2016</year>
@@ -14937,7 +14937,7 @@
     <genre>ADV</genre>
     <players>1</players>
     <year>2003</year>
-    <manufacturer>KingMike&#039;s Translations</manufacturer>
+    <manufacturer>KingMike's Translations</manufacturer>
   </game>
   <game name="hinothouhenj" cloneof="hinothouhen">
     <description>Hi no Tori Houou Hen: Gaou no Bouken (Japan)</description>
@@ -14947,7 +14947,7 @@
     <manufacturer>Konami</manufacturer>
   </game>
   <game name="hinothouhen">
-    <description>Phoenix Karma: Gao&#039;s Adventure (Hack, English v1.01)</description>
+    <description>Phoenix Karma: Gao's Adventure (Hack, English v1.01)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>2014</year>
@@ -14955,7 +14955,7 @@
   </game>
   <game name="hiryunoken">
     <description>Hiryuu no Ken: Ougi no Sho (Japan)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>1987</year>
     <manufacturer>Culture Brain</manufacturer>
@@ -15003,7 +15003,7 @@
     <manufacturer>Stardust Crusaders</manufacturer>
   </game>
   <game name="hogansalley">
-    <description>Hogan&#039;s Alley (USA)</description>
+    <description>Hogan's Alley (USA)</description>
     <genre>Shooter</genre>
     <players>1</players>
     <year>1984</year>
@@ -15011,21 +15011,21 @@
   </game>
   <game name="hokutonoken">
     <description>Hokuto no Ken (Japan)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>1986</year>
     <manufacturer>Toei Animation</manufacturer>
   </game>
   <game name="hokutonoken2j" cloneof="hokutonoken2">
     <description>Hokuto no Ken 2 (Japan)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>1987</year>
     <manufacturer>Toei Animation</manufacturer>
   </game>
   <game name="hokutonoken2">
     <description>Hokuto no Ken 2 ~ Fist of the North Star (Hack, English)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>2022</year>
     <manufacturer>Rani Baker</manufacturer>
@@ -15080,28 +15080,28 @@
     <manufacturer>THQ Inc.</manufacturer>
   </game>
   <game name="ddballj" cloneof="ddball">
-    <description>Honoo no Doukyuuji - Dan&#039;s Dodge Ball (Japan)</description>
+    <description>Honoo no Doukyuuji - Dan's Dodge Ball (Japan)</description>
     <genre>ADV</genre>
     <players>1</players>
     <year>1992</year>
     <manufacturer>Sunsoft</manufacturer>
   </game>
   <game name="ddball">
-    <description>Honoo no Doukyuuji - Dan&#039;s Dodge Ball (Hack, English v1.0b)</description>
+    <description>Honoo no Doukyuuji - Dan's Dodge Ball (Hack, English v1.0b)</description>
     <genre>ADV</genre>
     <players>1</players>
     <year>2017</year>
     <manufacturer>TransGen</manufacturer>
   </game>
   <game name="ddball2j" cloneof="ddball2">
-    <description>Honoo no Doukyuuji - Dan&#039;s Dodge Ball 2 (Japan)</description>
+    <description>Honoo no Doukyuuji - Dan's Dodge Ball 2 (Japan)</description>
     <genre>ADV</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Sunsoft</manufacturer>
   </game>
   <game name="ddball2">
-    <description>Honoo no Doukyuuji - Dan&#039;s Dodge Ball 2 (Hack, English v1.0a)</description>
+    <description>Honoo no Doukyuuji - Dan's Dodge Ball 2 (Hack, English v1.0a)</description>
     <genre>ADV</genre>
     <players>1</players>
     <year>2017</year>
@@ -15122,7 +15122,7 @@
     <manufacturer>Jaleco</manufacturer>
   </game>
   <game name="hoppinmad">
-    <description>Hoppin&#039; Mad (Prototype)</description>
+    <description>Hoppin' Mad (Prototype)</description>
     <genre>Action</genre>
     <players>2</players>
     <year>1989</year>
@@ -15182,7 +15182,7 @@
     <genre>RPG</genre>
     <players>1</players>
     <year>1986</year>
-    <manufacturer>T&amp;E Soft</manufacturer>
+    <manufacturer>T&E Soft</manufacturer>
   </game>
   <game name="hydlide3j" cloneof="hydlide3">
     <description>Hydlide 3: Yami kara no Houmonsha (Japan)</description>
@@ -15235,49 +15235,49 @@
   </game>
   <game name="ikari" cloneof="ikariwarriors">
     <description>Ikari (Japan)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>2</players>
     <year>1986</year>
     <manufacturer>SNK</manufacturer>
   </game>
   <game name="ikariwarriors">
     <description>Ikari Warriors (USA, Rev. A)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>2</players>
     <year>1987</year>
     <manufacturer>SNK</manufacturer>
   </game>
   <game name="ikariwarriorse" cloneof="ikariwarriors">
     <description>Ikari Warriors (Euro)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>2</players>
     <year>1989</year>
     <manufacturer>SNK</manufacturer>
   </game>
   <game name="ikariii" cloneof="ikariwarii">
     <description>Ikari II: Dogosoken (Japan)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>2</players>
     <year>1988</year>
     <manufacturer>SNK</manufacturer>
   </game>
   <game name="ikariwarii">
     <description>Ikari Warriors II: Victory Road (USA)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>2</players>
     <year>1988</year>
     <manufacturer>SNK</manufacturer>
   </game>
   <game name="ikariiii" cloneof="ikariwariii">
     <description>Ikari III (Japan)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>2</players>
     <year>1990</year>
     <manufacturer>SNK</manufacturer>
   </game>
   <game name="ikariwariii">
     <description>Ikari Warriors III: The Rescue (USA)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>2</players>
     <year>1991</year>
     <manufacturer>SNK</manufacturer>
@@ -15291,7 +15291,7 @@
   </game>
   <game name="ikki">
     <description>Ikki (Japan)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>2</players>
     <year>1985</year>
     <manufacturer>Sunsoft</manufacturer>
@@ -15389,13 +15389,13 @@
   </game>
   <game name="irontan">
     <description>Iron Tank: The Invasion of Normandy (USA)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1988</year>
     <manufacturer>SNK</manufacturer>
   </game>
   <game name="irons">
-    <description>Ironsword: Wizards &amp; Warriors II (USA)</description>
+    <description>Ironsword: Wizards & Warriors II (USA)</description>
     <genre>ADV</genre>
     <players>1</players>
     <year>1989</year>
@@ -15403,13 +15403,13 @@
   </game>
   <game name="isolatedwarrior">
     <description>Isolated Warrior (USA)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1991</year>
     <manufacturer>NTVIC</manufacturer>
   </game>
   <game name="ivanirostessuoffro">
-    <description>Ivan &#039;Ironman&#039; Stewart&#039;s Super Off Road (USA)</description>
+    <description>Ivan 'Ironman' Stewart's Super Off Road (USA)</description>
     <genre>Racing</genre>
     <players>4</players>
     <year>1990</year>
@@ -15430,7 +15430,7 @@
     <manufacturer>Electronic Arts</manufacturer>
   </game>
   <game name="jacknicgre18homachg">
-    <description>Jack Nicklaus&#039; Greatest 18 Holes of Major Championship Golf (USA)</description>
+    <description>Jack Nicklaus' Greatest 18 Holes of Major Championship Golf (USA)</description>
     <genre>Sports / Misc</genre>
     <players>4</players>
     <year>1990</year>
@@ -15438,7 +15438,7 @@
   </game>
   <game name="jackal">
     <description>Jackal (USA)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>2</players>
     <year>1988</year>
     <manufacturer>Konami</manufacturer>
@@ -15451,7 +15451,7 @@
     <manufacturer>Hudson Soft</manufacturer>
   </game>
   <game name="jackiechan">
-    <description>Jackie Chan&#039;s Action Kung Fu (USA)</description>
+    <description>Jackie Chan's Action Kung Fu (USA)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>1990</year>
@@ -15507,7 +15507,7 @@
     <manufacturer>Jaleco</manufacturer>
   </game>
   <game name="jajamnodai">
-    <description>Ninja JaJaMaru&#039;s Big Adventure (English)</description>
+    <description>Ninja JaJaMaru's Big Adventure (English)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>2023</year>
@@ -15563,14 +15563,14 @@
     <manufacturer>Stardust Crusaders</manufacturer>
   </game>
   <game name="jetsonsj" cloneof="jetsons">
-    <description>Jetsons, The: Cogswell&#039;s Caper! (Japan)</description>
+    <description>Jetsons, The: Cogswell's Caper! (Japan)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Taito Corp.</manufacturer>
   </game>
   <game name="jetsons">
-    <description>Jetsons, The: Cogswell&#039;s Caper! (USA)</description>
+    <description>Jetsons, The: Cogswell's Caper! (USA)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>1992</year>
@@ -15605,14 +15605,14 @@
     <manufacturer>Squaresoft</manufacturer>
   </game>
   <game name="joemac">
-    <description>Joe &amp; Mac (USA)</description>
+    <description>Joe & Mac (USA)</description>
     <genre>Platform</genre>
     <players>2</players>
     <year>1992</year>
     <manufacturer>Data East</manufacturer>
   </game>
   <game name="johnelwsqua">
-    <description>John Elway&#039;s Quarterback (USA)</description>
+    <description>John Elway's Quarterback (USA)</description>
     <genre>Sports / Misc</genre>
     <players>2</players>
     <year>1989</year>
@@ -15633,7 +15633,7 @@
     <manufacturer>Milton Bradley</manufacturer>
   </game>
   <game name="joshubatjer">
-    <description>Joshua &amp; the Battle of Jericho (USA)</description>
+    <description>Joshua & the Battle of Jericho (USA)</description>
     <genre>Action</genre>
     <players>2</players>
     <year>1992</year>
@@ -15696,7 +15696,7 @@
     <manufacturer>HAL Laboratory</manufacturer>
   </game>
   <game name="jumpikid">
-    <description>Jumpin&#039; Kid: Jack to Mame no Ki Monogatari (Japan)</description>
+    <description>Jumpin' Kid: Jack to Mame no Ki Monogatari (Japan)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>1990</year>
@@ -15746,21 +15746,21 @@
   </game>
   <game name="juuoukij" cloneof="juuouki">
     <description>Juuouki (Japan)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>1990</year>
     <manufacturer>Asmik</manufacturer>
   </game>
   <game name="juuouki">
     <description>Juuouki ~ Altered Beast (Hack, English)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>2005</year>
     <manufacturer>aka translations</manufacturer>
   </game>
   <game name="juurysoumetsto">
     <description>Juuryoku Soukou Metal Storm (Japan)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1992</year>
     <manufacturer>Irem Corp.</manufacturer>
@@ -15788,7 +15788,7 @@
   </game>
   <game name="kage" cloneof="shadonin">
     <description>Kage (Japan)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>1990</year>
     <manufacturer>Natsume</manufacturer>
@@ -15865,7 +15865,7 @@
   </game>
   <game name="kamenoong">
     <description>Kame no Ongaeshi - Urashima Densetsu (Japan)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1988</year>
     <manufacturer>Hudson Soft</manufacturer>
@@ -15942,14 +15942,14 @@
   </game>
   <game name="karnov">
     <description>Karnov (USA)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1988</year>
     <manufacturer>Data East</manufacturer>
   </game>
   <game name="karnovj" cloneof="karnov">
     <description>Karnov (Japan)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1987</year>
     <manufacturer>Namcot</manufacturer>
@@ -15962,7 +15962,7 @@
     <manufacturer>Character Soft</manufacturer>
   </game>
   <game name="kerokerkernoda">
-    <description>Kero Kero Keroppi&#039;s  Big Adventure 1 (Hack, English)</description>
+    <description>Kero Kero Keroppi's  Big Adventure 1 (Hack, English)</description>
     <genre>Action</genre>
     <players>2</players>
     <year>2016</year>
@@ -15976,7 +15976,7 @@
     <manufacturer>Character Soft</manufacturer>
   </game>
   <game name="kerokerkernoda2">
-    <description>Kero Kero Keroppi&#039;s Great Big Adventure 2: Trouble in Donut Pond (Hack, English)</description>
+    <description>Kero Kero Keroppi's Great Big Adventure 2: Trouble in Donut Pond (Hack, English)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>2016</year>
@@ -15990,7 +15990,7 @@
     <manufacturer>Character Soft</manufacturer>
   </game>
   <game name="keropkernosplbo">
-    <description>Keroppi &amp; Keroleen&#039;s Splash Bomb! (Hack, English)</description>
+    <description>Keroppi & Keroleen's Splash Bomb! (Hack, English)</description>
     <genre>Action</genre>
     <players>2</players>
     <year>2016</year>
@@ -15998,7 +15998,7 @@
   </game>
   <game name="kickmaster">
     <description>Kick Master (USA)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1992</year>
     <manufacturer>Taito</manufacturer>
@@ -16075,14 +16075,14 @@
   </game>
   <game name="kingkon2j" cloneof="kingkon2">
     <description>King Kong 2 - Ikari no Megaton Punch (Japan)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1986</year>
     <manufacturer>Konami</manufacturer>
   </game>
   <game name="kingkon2">
     <description>King Kong Lives: Megaton Punch of Rage (Hack, English)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>2016</year>
     <manufacturer>DvD Translations</manufacturer>
@@ -16102,21 +16102,21 @@
     <manufacturer>Wisdom Tree</manufacturer>
   </game>
   <game name="kingsknight">
-    <description>King&#039;s Knight (USA)</description>
+    <description>King's Knight (USA)</description>
     <genre>Shooter / Vert</genre>
     <players>1</players>
     <year>1989</year>
     <manufacturer>Squaresoft</manufacturer>
   </game>
   <game name="kingsknightj" cloneof="kingsknight">
-    <description>King&#039;s Knight (Japan)</description>
+    <description>King's Knight (Japan)</description>
     <genre>Shooter / Vert</genre>
     <players>1</players>
     <year>1986</year>
     <manufacturer>Squaresoft</manufacturer>
   </game>
   <game name="kingsquestv">
-    <description>King&#039;s Quest V (USA)</description>
+    <description>King's Quest V (USA)</description>
     <genre>ADV</genre>
     <players>1</players>
     <year>1992</year>
@@ -16130,7 +16130,7 @@
     <manufacturer>Ultra Games</manufacturer>
   </game>
   <game name="kirbysadv">
-    <description>Kirby&#039;s Adventure (USA, Rev. A)</description>
+    <description>Kirby's Adventure (USA, Rev. A)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>1993</year>
@@ -16151,7 +16151,7 @@
     <manufacturer>Epoch Co.</manufacturer>
   </game>
   <game name="kittyscatch">
-    <description>Kitty&#039;s Catch (USA)</description>
+    <description>Kitty's Catch (USA)</description>
     <genre>Action</genre>
     <players>2</players>
     <year>1989</year>
@@ -16221,7 +16221,7 @@
     <manufacturer>Vic Tokai</manufacturer>
   </game>
   <game name="krustsfunhou">
-    <description>Krusty&#039;s Fun House (USA)</description>
+    <description>Krusty's Fun House (USA)</description>
     <genre>Puzzle</genre>
     <players>1</players>
     <year>1992</year>
@@ -16243,7 +16243,7 @@
   </game>
   <game name="kungfu">
     <description>Kung Fu (Japan, USA)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>1985</year>
     <manufacturer>Nintendo - Irem Corp.</manufacturer>
@@ -16320,7 +16320,7 @@
   </game>
   <game name="lastactionhero">
     <description>Last Action Hero (USA)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Sony Imagesoft</manufacturer>
@@ -16382,7 +16382,7 @@
     <manufacturer>Supper</manufacturer>
   </game>
   <game name="leetresfiggo">
-    <description>Lee Trevino&#039;s Fighting Golf (USA)</description>
+    <description>Lee Trevino's Fighting Golf (USA)</description>
     <genre>Sports / Misc</genre>
     <players>4</players>
     <year>1988</year>
@@ -16439,7 +16439,7 @@
   </game>
   <game name="legenfum">
     <description>Legend of Fuma, The (Hack, English)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>2018</year>
     <manufacturer>Nebulous Translations</manufacturer>
@@ -16453,7 +16453,7 @@
   </game>
   <game name="lethalweapon">
     <description>Lethal Weapon (USA)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Ocean</manufacturer>
@@ -16466,7 +16466,7 @@
     <manufacturer>Konami</manufacturer>
   </game>
   <game name="linusspascoscr">
-    <description>Linus Spacehead&#039;s Cosmic Crusade (USA)</description>
+    <description>Linus Spacehead's Cosmic Crusade (USA)</description>
     <genre>ADV</genre>
     <players>1</players>
     <year>1992</year>
@@ -16516,7 +16516,7 @@
   </game>
   <game name="littlninbro">
     <description>Little Ninja Brothers (USA)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>2</players>
     <year>1990</year>
     <manufacturer>Culture Brain</manufacturer>
@@ -16572,7 +16572,7 @@
   </game>
   <game name="lowgman">
     <description>Low G Man - The Low Gravity Man (USA)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1990</year>
     <manufacturer>Taxan</manufacturer>
@@ -16592,7 +16592,7 @@
     <manufacturer>Namcot</manufacturer>
   </game>
   <game name="lupinsan">
-    <description>Lupin III: Pandora&#039;s Legacy (Hack, English)</description>
+    <description>Lupin III: Pandora's Legacy (Hack, English)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>2017</year>
@@ -16635,28 +16635,28 @@
   </game>
   <game name="madcityj" cloneof="advenbaybil">
     <description>Mad City (Japan)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>1988</year>
     <manufacturer>Konami</manufacturer>
   </game>
   <game name="madcity" cloneof="advenbaybil">
     <description>Mad City (Hack, English)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>2010</year>
     <manufacturer>Stardust Crusaders</manufacturer>
   </game>
   <game name="madmax">
     <description>Mad Max (USA)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1990</year>
     <manufacturer>Mindscape</manufacturer>
   </game>
   <game name="mafatcon">
     <description>Mafat Conspiracy - Golgo 13 (USA)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>1990</year>
     <manufacturer>Vic Tokai</manufacturer>
@@ -16705,13 +16705,13 @@
   </game>
   <game name="magicjohn" cloneof="totallyrad">
     <description>Magic John (Japan)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1990</year>
     <manufacturer>Jaleco</manufacturer>
   </game>
   <game name="magicjohsfasbr">
-    <description>Magic Johnson&#039;s Fast Break (USA)</description>
+    <description>Magic Johnson's Fast Break (USA)</description>
     <genre>Sports / Misc</genre>
     <players>4</players>
     <year>1990</year>
@@ -16732,14 +16732,14 @@
     <manufacturer>Culture Brain</manufacturer>
   </game>
   <game name="magickidsdor" cloneof="krioncon">
-    <description>Magical Kid&#039;s Doropie (Japan)</description>
+    <description>Magical Kid's Doropie (Japan)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>1990</year>
     <manufacturer>Vic Tokai</manufacturer>
   </game>
   <game name="magickidsdorp" cloneof="krioncon">
-    <description>Magical Kid&#039;s Doropie (Prototype)</description>
+    <description>Magical Kid's Doropie (Prototype)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>1990</year>
@@ -17090,7 +17090,7 @@
   </game>
   <game name="metalgear">
     <description>Metal Gear (USA)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1988</year>
     <manufacturer>Ultra Games</manufacturer>
@@ -17117,8 +17117,8 @@
     <manufacturer>Aeon Genesis</manufacturer>
   </game>
   <game name="metalmec">
-    <description>Metal Mech - Man &amp; Machine (USA)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <description>Metal Mech - Man & Machine (USA)</description>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1991</year>
     <manufacturer>Jaleco</manufacturer>
@@ -17139,7 +17139,7 @@
   </game>
   <game name="metalstorm">
     <description>Metal Storm (USA)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1991</year>
     <manufacturer>Irem</manufacturer>
@@ -17152,7 +17152,7 @@
     <manufacturer>Namcot</manufacturer>
   </game>
   <game name="michaandsworgrpr">
-    <description>Michael Andretti&#039;s World Grand Prix (USA)</description>
+    <description>Michael Andretti's World Grand Prix (USA)</description>
     <genre>Racing</genre>
     <players>2</players>
     <year>1990</year>
@@ -17202,20 +17202,20 @@
   </game>
   <game name="mightfinfig">
     <description>Mighty Final Fight (USA)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Capcom</manufacturer>
   </game>
   <game name="mightfinfigj" cloneof="mightfinfig">
     <description>Mighty Final Fight (Japan)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Capcom</manufacturer>
   </game>
   <game name="miketysspunout">
-    <description>Mike Tyson&#039;s Punch-Out!! (Japan, USA, Rev. A)</description>
+    <description>Mike Tyson's Punch-Out!! (Japan, USA, Rev. A)</description>
     <genre>Fighting</genre>
     <players>1</players>
     <year>1987</year>
@@ -17236,7 +17236,7 @@
     <manufacturer>HAL Laboratory</manufacturer>
   </game>
   <game name="milonssc">
-    <description>Milon&#039;s Secret Castle (USA)</description>
+    <description>Milon's Secret Castle (USA)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>1987</year>
@@ -17271,14 +17271,14 @@
     <manufacturer>Character Soft</manufacturer>
   </game>
   <game name="minnanotaabou">
-    <description>Minna no Taabou no Nakayoshi Daisakusen ~ Tabo&#039;s Tactics (Hack, English)</description>
+    <description>Minna no Taabou no Nakayoshi Daisakusen ~ Tabo's Tactics (Hack, English)</description>
     <genre>Action</genre>
     <players>2</players>
     <year>2003</year>
     <manufacturer>Suicidal Translations</manufacturer>
   </game>
   <game name="miracrops">
-    <description>Miracle Ropit&#039;s - 2100 Nen no Daibouken (Japan)</description>
+    <description>Miracle Ropit's - 2100 Nen no Daibouken (Japan)</description>
     <genre>Platform</genre>
     <players>2</players>
     <year>1987</year>
@@ -17314,7 +17314,7 @@
   </game>
   <game name="missiimp">
     <description>Mission Impossible (USA)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1990</year>
     <manufacturer>Ultra Games</manufacturer>
@@ -17342,14 +17342,14 @@
   </game>
   <game name="mitsumegatooruj" cloneof="mitsumegatooru">
     <description>Mitsume ga Tooru (Japan)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1992</year>
     <manufacturer>Tomy Corp.</manufacturer>
   </game>
   <game name="mitsumegatooru">
     <description>Mitsume ga Tooru (Hack, English)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>2019</year>
     <manufacturer>Stardust Crusaders</manufacturer>
@@ -17408,7 +17408,7 @@
     <genre>Action</genre>
     <players>1</players>
     <year>2012</year>
-    <manufacturer>KingMike&#039;s Translations</manufacturer>
+    <manufacturer>KingMike's Translations</manufacturer>
   </game>
   <game name="moneygame">
     <description>Money Game, The (Japan)</description>
@@ -17650,7 +17650,7 @@
   </game>
   <game name="narc">
     <description>NARC (USA)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>2</players>
     <year>1990</year>
     <manufacturer>Acclaim Entertainment</manufacturer>
@@ -17678,7 +17678,7 @@
   </game>
   <game name="nekkekoukunkun">
     <description>Nekketsu Kouha Kunio-kun (Japan)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>1987</year>
     <manufacturer>Technos Japan</manufacturer>
@@ -17713,7 +17713,7 @@
   </game>
   <game name="newghoii">
     <description>New Ghostbusters II (Japan)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>2</players>
     <year>1990</year>
     <manufacturer>HAL Laboratory</manufacturer>
@@ -17733,7 +17733,7 @@
     <manufacturer>Ocean</manufacturer>
   </game>
   <game name="nigelmansworchch">
-    <description>Nigel Mansell&#039;s World Championship Challenge (USA)</description>
+    <description>Nigel Mansell's World Championship Challenge (USA)</description>
     <genre>Racing</genre>
     <players>1</players>
     <year>1993</year>
@@ -17762,14 +17762,14 @@
   </game>
   <game name="ninjacrusaders">
     <description>Ninja Crusaders (USA)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>2</players>
     <year>1990</year>
     <manufacturer>Sammy</manufacturer>
   </game>
   <game name="ninjacrusadersj" cloneof="ninjacrusaders">
     <description>Ninja Crusaders: Ryuuga (Japan)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>2</players>
     <year>1990</year>
     <manufacturer>Sammy</manufacturer>
@@ -17915,21 +17915,21 @@
     <manufacturer>Nintendo</manufacturer>
   </game>
   <game name="noahsark">
-    <description>Noah&#039;s Ark (Euro)</description>
+    <description>Noah's Ark (Euro)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>1992</year>
     <manufacturer>Konami</manufacturer>
   </game>
   <game name="northsouth">
-    <description>North &amp; South (USA)</description>
+    <description>North & South (USA)</description>
     <genre>STRATEGY</genre>
     <players>2</players>
     <year>1990</year>
     <manufacturer>Kemco</manufacturer>
   </game>
   <game name="nutsmilk">
-    <description>Nuts &amp; Milk (Japan)</description>
+    <description>Nuts & Milk (Japan)</description>
     <genre>Action</genre>
     <players>2</players>
     <year>1984</year>
@@ -18283,7 +18283,7 @@
     <genre>MINIGAMES</genre>
     <players>1</players>
     <year>2017</year>
-    <manufacturer>KingMike&#039;s Translations, FlashPV</manufacturer>
+    <manufacturer>KingMike's Translations, FlashPV</manufacturer>
   </game>
   <game name="pesterminator">
     <description>Pesterminator (USA)</description>
@@ -18293,7 +18293,7 @@
     <manufacturer>Color Dreams</manufacturer>
   </game>
   <game name="peterpanpir">
-    <description>Peter Pan &amp; The Pirates (USA)</description>
+    <description>Peter Pan & The Pirates (USA)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>1991</year>
@@ -18378,7 +18378,7 @@
   </game>
   <game name="platoon">
     <description>Platoon (USA)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1988</year>
     <manufacturer>Sunsoft</manufacturer>
@@ -18441,35 +18441,35 @@
   </game>
   <game name="pow">
     <description>P.O.W. - Prisoners of War (USA)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>1989</year>
     <manufacturer>SNK</manufacturer>
   </game>
   <game name="powerblade">
     <description>Power Blade (USA)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1991</year>
     <manufacturer>Taito</manufacturer>
   </game>
   <game name="powerblade2">
     <description>Power Blade 2 (USA)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1992</year>
     <manufacturer>Taito</manufacturer>
   </game>
   <game name="powerblazerj" cloneof="powerblazer">
     <description>Power Blazer (Japan)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1990</year>
     <manufacturer>Taito Corp.</manufacturer>
   </game>
   <game name="powerblazer">
     <description>Power Blazer (Hack, English)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>2009</year>
     <manufacturer>Stardust Crusaders</manufacturer>
@@ -18601,7 +18601,7 @@
     <manufacturer>Psyklax</manufacturer>
   </game>
   <game name="pussnboo">
-    <description>Puss &#039;n Boots - Pero&#039;s Great Adventure (USA)</description>
+    <description>Puss 'n Boots - Pero's Great Adventure (USA)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>1990</year>
@@ -18629,7 +18629,7 @@
     <manufacturer>Taito</manufacturer>
   </game>
   <game name="pyokonodai">
-    <description>Pyokotan&#039;s Big Maze (Hack, English)</description>
+    <description>Pyokotan's Big Maze (Hack, English)</description>
     <genre>Action</genre>
     <players>1</players>
     <year>2014</year>
@@ -18699,7 +18699,7 @@
     <manufacturer>Pony Canyon</manufacturer>
   </game>
   <game name="mdfootball" cloneof="qbscramble">
-    <description>Mike Ditka&#039;s Big Play Football (Unl)</description>
+    <description>Mike Ditka's Big Play Football (Unl)</description>
     <genre>Sports / Misc</genre>
     <players>2</players>
     <year>2008</year>
@@ -18790,7 +18790,7 @@
     <manufacturer>Jaleco</manufacturer>
   </game>
   <game name="racketsrivals">
-    <description>Rackets &amp; Rivals (Euro)</description>
+    <description>Rackets & Rivals (Euro)</description>
     <genre>Sports / Misc</genre>
     <players>4</players>
     <year>1989</year>
@@ -18833,7 +18833,7 @@
   </game>
   <game name="raid2020">
     <description>Raid 2020 (USA) (Unl)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1989</year>
     <manufacturer>Color Dreams</manufacturer>
@@ -18875,7 +18875,7 @@
   </game>
   <game name="rambo">
     <description>Rambo (USA, Rev. A)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1988</year>
     <manufacturer>Acclaim Entertainment</manufacturer>
@@ -18909,7 +18909,7 @@
     <manufacturer>Pony Canyon</manufacturer>
   </game>
   <game name="renstisho">
-    <description>Ren &amp; Stimpy Show, The - Buckeroo$! (USA)</description>
+    <description>Ren & Stimpy Show, The - Buckeroo$! (USA)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>1993</year>
@@ -18917,7 +18917,7 @@
   </game>
   <game name="renegade">
     <description>Renegade (USA)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>1988</year>
     <manufacturer>Taito</manufacturer>
@@ -18959,7 +18959,7 @@
   </game>
   <game name="rivercitran">
     <description>River City Ransom (USA)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>1990</year>
     <manufacturer>Technos</manufacturer>
@@ -18986,7 +18986,7 @@
     <manufacturer>Mindscape</manufacturer>
   </game>
   <game name="rpoolchal">
-    <description>Robert Byrne&#039;s Pool Challenge (Prototype)</description>
+    <description>Robert Byrne's Pool Challenge (Prototype)</description>
     <genre>Sports / Misc</genre>
     <players>4</players>
     <year>1996</year>
@@ -19008,42 +19008,42 @@
   </game>
   <game name="roboccowars">
     <description>Robocco Wars (Japan)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1991</year>
     <manufacturer>IGS</manufacturer>
   </game>
   <game name="robocop">
     <description>RoboCop (USA)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1989</year>
     <manufacturer>Data East</manufacturer>
   </game>
   <game name="robocop2h" cloneof="robocop2">
     <description>RoboCop 2 - Responsive Controls v1.1 (Hack)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>2020</year>
     <manufacturer>Nesrocks</manufacturer>
   </game>
   <game name="robocop2">
     <description>RoboCop 2 (USA)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1991</year>
     <manufacturer>Data East</manufacturer>
   </game>
   <game name="robocop3">
     <description>RoboCop 3 (USA)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1992</year>
     <manufacturer>Ocean</manufacturer>
   </game>
   <game name="robocvster">
     <description>RoboCop Vs The Terminator (USA)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Virgin Games</manufacturer>
@@ -19056,7 +19056,7 @@
     <manufacturer>Color Dreams</manufacturer>
   </game>
   <game name="rocknball">
-    <description>Rock &#039;n&#039; Ball (USA)</description>
+    <description>Rock 'n' Ball (USA)</description>
     <genre>PINBALL</genre>
     <players>4</players>
     <year>1990</year>
@@ -19084,7 +19084,7 @@
     <manufacturer>Bandai</manufacturer>
   </game>
   <game name="rockinkats">
-    <description>Rockin&#039; Kats (USA)</description>
+    <description>Rockin' Kats (USA)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>1991</year>
@@ -19162,7 +19162,7 @@
   </game>
   <game name="rollergames">
     <description>Rollergames (USA)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>1990</year>
     <manufacturer>Ultra Games</manufacturer>
@@ -19210,7 +19210,7 @@
     <manufacturer>Takara</manufacturer>
   </game>
   <game name="rushnattack">
-    <description>Rush&#039;n Attack (USA)</description>
+    <description>Rush'n Attack (USA)</description>
     <genre>Platform</genre>
     <players>2</players>
     <year>1987</year>
@@ -19263,7 +19263,7 @@
     <genre>Platform</genre>
     <players>1</players>
     <year>2001</year>
-    <manufacturer>KingMike&#039;s Translations</manufacturer>
+    <manufacturer>KingMike's Translations</manufacturer>
   </game>
   <game name="saintseiougdenkahenj" cloneof="saintseiougdenkahen">
     <description>Saint Seiya: Ougon Densetsu Kanketsu Hen (Japan)</description>
@@ -19295,7 +19295,7 @@
   </game>
   <game name="sakigake" cloneof="chargemen">
     <description>Sakigake!! Otoko Juku: Shippuu Ichi Gou Sei (Japan)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>1988</year>
     <manufacturer>Bandai</manufacturer>
@@ -19484,7 +19484,7 @@
   </game>
   <game name="senjounoookami" cloneof="commando">
     <description>Senjou no Ookami (Japan)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>2</players>
     <year>1986</year>
     <manufacturer>Capcom</manufacturer>
@@ -19609,7 +19609,7 @@
     <manufacturer>Takara</manufacturer>
   </game>
   <game name="shouashibe">
-    <description>Li&#039;l Ashibe and the Great Nepalese Adventure (Hack, English v1.01)</description>
+    <description>Li'l Ashibe and the Great Nepalese Adventure (Hack, English v1.01)</description>
     <genre>ADV</genre>
     <players>1</players>
     <year>2026</year>
@@ -19715,7 +19715,7 @@
   </game>
   <game name="silvereagle">
     <description>Silver Eagle (Taiwan)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1994</year>
     <manufacturer>Sachen</manufacturer>
@@ -19784,7 +19784,7 @@
     <manufacturer>Ultra Games</manufacturer>
   </game>
   <game name="skullcro">
-    <description>Skull &amp; Crossbones (USA)</description>
+    <description>Skull & Crossbones (USA)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>1990</year>
@@ -19820,7 +19820,7 @@
   </game>
   <game name="smashtv">
     <description>Smash T.V. (USA)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>2</players>
     <year>1991</year>
     <manufacturer>Acclaim Entertainment</manufacturer>
@@ -19840,14 +19840,14 @@
     <manufacturer>Nintendo</manufacturer>
   </game>
   <game name="snakesrevenge">
-    <description>Snake&#039;s Revenge (USA)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <description>Snake's Revenge (USA)</description>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1990</year>
     <manufacturer>Ultra Games</manufacturer>
   </game>
   <game name="snoopssilsposp">
-    <description>Snoopy&#039;s Silly Sports Spectacular (USA)</description>
+    <description>Snoopy's Silly Sports Spectacular (USA)</description>
     <genre>Sports / Misc</genre>
     <players>2</players>
     <year>1990</year>
@@ -19875,7 +19875,7 @@
     <manufacturer>Nintendo</manufacturer>
   </game>
   <game name="soccelea">
-    <description>Soccer League - Winner&#039;s Cup (Japan)</description>
+    <description>Soccer League - Winner's Cup (Japan)</description>
     <genre>Sports / Football</genre>
     <players>2</players>
     <year>1988</year>
@@ -19896,7 +19896,7 @@
     <manufacturer>American Video Entertainment</manufacturer>
   </game>
   <game name="solomonskey">
-    <description>Solomon&#039;s Key (USA)</description>
+    <description>Solomon's Key (USA)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>1987</year>
@@ -19960,21 +19960,21 @@
   </game>
   <game name="spartanx">
     <description>Spartan X (Japan)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>1985</year>
     <manufacturer>Nintendo - Irem Corp.</manufacturer>
   </game>
   <game name="spartanx2j" cloneof="spartanx2">
     <description>Spartan X 2 (Japan)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>1991</year>
     <manufacturer>Irem Corp.</manufacturer>
   </game>
   <game name="spartanx2">
     <description>Spartan X 2 ~ Kung-Fu 2 (Hack, English)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>2003</year>
     <manufacturer>Abstract Crouton Productions</manufacturer>
@@ -19994,7 +19994,7 @@
     <manufacturer>Irem Corp.</manufacturer>
   </game>
   <game name="speluii">
-    <description>Spelunker II: A Hero&#039;s Challenge (Hack, English)</description>
+    <description>Spelunker II: A Hero's Challenge (Hack, English)</description>
     <genre>ADV</genre>
     <players>1</players>
     <year>2003</year>
@@ -20099,7 +20099,7 @@
     <manufacturer>Electro Brain</manufacturer>
   </game>
   <game name="lasalishii" cloneof="stardomwar">
-    <description>Lasalle Ishii no Child&#039;s Quest (Japan)</description>
+    <description>Lasalle Ishii no Child's Quest (Japan)</description>
     <genre>RPG</genre>
     <players>1</players>
     <year>1989</year>
@@ -20194,18 +20194,18 @@
     <genre>Platform</genre>
     <players>1</players>
     <year>2005</year>
-    <manufacturer>Mukimuki &amp; Shinta</manufacturer>
+    <manufacturer>Mukimuki & Shinta</manufacturer>
   </game>
   <game name="starwars">
     <description>Star Wars (USA)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1991</year>
     <manufacturer>JVC</manufacturer>
   </game>
   <game name="starwaresb">
     <description>Star Wars - The Empire Strikes Back (USA)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1992</year>
     <manufacturer>JVC</manufacturer>
@@ -20232,7 +20232,7 @@
     <manufacturer>rainwarrior</manufacturer>
   </game>
   <game name="startii">
-    <description>Startropics II: Zoda&#039;s Revenge (USA)</description>
+    <description>Startropics II: Zoda's Revenge (USA)</description>
     <genre>RPG</genre>
     <players>1</players>
     <year>1994</year>
@@ -20317,20 +20317,20 @@
   </game>
   <game name="sukebandeka3j" cloneof="sukebandeka3">
     <description>Sukeban Deka 3 (Japan)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1987</year>
     <manufacturer>Toei Animation</manufacturer>
   </game>
   <game name="sukebandeka3">
     <description>Sukeban Deka 3 (Hack, English)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>2016</year>
     <manufacturer>MrRichard999</manufacturer>
   </game>
   <game name="summecar92">
-    <description>Summer Carnival &#039;92 - Recca (Japan)</description>
+    <description>Summer Carnival '92 - Recca (Japan)</description>
     <genre>Shooter / Vert</genre>
     <players>1</players>
     <year>1992</year>
@@ -20505,7 +20505,7 @@
     <manufacturer>TSS</manufacturer>
   </game>
   <game name="superspivbal">
-    <description>Super Spike V&#039;Ball (USA)</description>
+    <description>Super Spike V'Ball (USA)</description>
     <genre>Sports / Misc</genre>
     <players>4</players>
     <year>1990</year>
@@ -20569,14 +20569,14 @@
   </game>
   <game name="swordmasterh" cloneof="swordmaster">
     <description>Sword Master (USA) (Hack, Sample Fix)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>2020</year>
     <manufacturer>TakuikaNinja</manufacturer>
   </game>
   <game name="swordmaster">
     <description>Sword Master (USA)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>1992</year>
     <manufacturer>Activision</manufacturer>
@@ -20589,14 +20589,14 @@
     <manufacturer>Acclaim Entertainment</manufacturer>
   </game>
   <game name="tc2">
-    <description>T&amp;C 2 - Thrilla&#039;s Surfari (USA)</description>
+    <description>T&C 2 - Thrilla's Surfari (USA)</description>
     <genre>Action</genre>
     <players>1</players>
     <year>1992</year>
     <manufacturer>Ljn</manufacturer>
   </game>
   <game name="tcsurfdesign">
-    <description>T&amp;C Surf Design (USA)</description>
+    <description>T&C Surf Design (USA)</description>
     <genre>Action</genre>
     <players>2</players>
     <year>1988</year>
@@ -20617,7 +20617,7 @@
     <manufacturer>Data East</manufacturer>
   </game>
   <game name="tagindragon">
-    <description>Tagin&#039; Dragon (USA)</description>
+    <description>Tagin' Dragon (USA)</description>
     <genre>Action</genre>
     <players>2</players>
     <year>1990</year>
@@ -20743,11 +20743,11 @@
     <manufacturer>Taito Corp.</manufacturer>
   </game>
   <game name="takesscha">
-    <description>Takeshi&#039;s Challenge (Hack, English)</description>
+    <description>Takeshi's Challenge (Hack, English)</description>
     <genre>ADV</genre>
     <players>1</players>
     <year>2011</year>
-    <manufacturer>KingMike&#039;s Translations</manufacturer>
+    <manufacturer>KingMike's Translations</manufacturer>
   </game>
   <game name="talespin">
     <description>TaleSpin (USA)</description>
@@ -20772,7 +20772,7 @@
   </game>
   <game name="targetrenegade">
     <description>Target Renegade (USA)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>1990</year>
     <manufacturer>Taito</manufacturer>
@@ -20807,7 +20807,7 @@
   </game>
   <game name="tatakainobanka" cloneof="trojan">
     <description>Tatakai no Banka (Japan, Rev. A)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>1986</year>
     <manufacturer>Capcom</manufacturer>
@@ -20870,7 +20870,7 @@
   </game>
   <game name="tmhtiiarcgam" cloneof="tmntiiarcgam">
     <description>Teenage Mutant Hero Turtles II - The Arcade Game (Euro)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>1991</year>
     <manufacturer>Konami</manufacturer>
@@ -20884,28 +20884,28 @@
   </game>
   <game name="tmntiiarcgamj" cloneof="tmntiiarcgam">
     <description>Teenage Mutant Ninja Turtles II - The Arcade Game (Japan)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>1990</year>
     <manufacturer>Konami</manufacturer>
   </game>
   <game name="tmntiiarcgam">
     <description>Teenage Mutant Ninja Turtles II - The Arcade Game (USA)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>1990</year>
     <manufacturer>Ultra Games</manufacturer>
   </game>
   <game name="tmntiimanpro" cloneof="tmntiii">
     <description>Teenage Mutant Ninja Turtles II - The Manhattan Project (Japan)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>1991</year>
     <manufacturer>Konami</manufacturer>
   </game>
   <game name="tmntiii">
     <description>Teenage Mutant Ninja Turtles III - The Manhattan Project (USA)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>1992</year>
     <manufacturer>Konami</manufacturer>
@@ -20940,7 +20940,7 @@
   </game>
   <game name="tenkanogoi">
     <description>Tenka no Goikenban - Mito Koumon (Japan)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1987</year>
     <manufacturer>Sunsoft</manufacturer>
@@ -20961,14 +20961,14 @@
   </game>
   <game name="termi2">
     <description>Terminator 2: Judgment Day (USA)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1992</year>
     <manufacturer>Ljn</manufacturer>
   </game>
   <game name="terminatorthe">
     <description>Terminator, The (USA)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1992</year>
     <manufacturer>Mindscape</manufacturer>
@@ -21038,7 +21038,7 @@
   </game>
   <game name="thexder">
     <description>Thexder (Japan)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1985</year>
     <manufacturer>Squaresoft</manufacturer>
@@ -21051,7 +21051,7 @@
     <manufacturer>Activision</manufacturer>
   </game>
   <game name="thundlig">
-    <description>Thunder &amp; Lightning (USA)</description>
+    <description>Thunder & Lightning (USA)</description>
     <genre>BREAKOUT</genre>
     <players>2</players>
     <year>1990</year>
@@ -21087,14 +21087,14 @@
   </game>
   <game name="timediveonman">
     <description>Time Diver Eon Man (USA)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Taito</manufacturer>
   </game>
   <game name="timelord">
     <description>Time Lord (USA)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>1990</year>
     <manufacturer>Milton Bradley</manufacturer>
@@ -21111,7 +21111,7 @@
     <genre>Platform</genre>
     <players>1</players>
     <year>2014</year>
-    <manufacturer>KingMike&#039;s Translations</manufacturer>
+    <manufacturer>KingMike's Translations</manufacturer>
   </game>
   <game name="tinytooadv">
     <description>Tiny Toon Adventures (USA)</description>
@@ -21156,7 +21156,7 @@
     <manufacturer>Capcom</manufacturer>
   </game>
   <game name="tmbtreasure">
-    <description>Tombs &amp; Treasure (USA)</description>
+    <description>Tombs & Treasure (USA)</description>
     <genre>ADV</genre>
     <players>1</players>
     <year>1989</year>
@@ -21198,21 +21198,21 @@
     <manufacturer>Epic/Sony Records</manufacturer>
   </game>
   <game name="tomjerultgamcatandm">
-    <description>Tom &amp; Jerry: The Ultimate Game of Cat and Mouse! (USA)</description>
+    <description>Tom & Jerry: The Ultimate Game of Cat and Mouse! (USA)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>1991</year>
     <manufacturer>Hi Tech Expressions</manufacturer>
   </game>
   <game name="tomjerntuf" cloneof="tomjerultgamcatandm">
-    <description>Tom &amp; Jerry (and Tuffy) (Japan)</description>
+    <description>Tom & Jerry (and Tuffy) (Japan)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>1991</year>
     <manufacturer>Altron</manufacturer>
   </game>
   <game name="toobin">
-    <description>Toobin&#039; (USA)</description>
+    <description>Toobin' (USA)</description>
     <genre>Action</genre>
     <players>2</players>
     <year>1989</year>
@@ -21248,14 +21248,14 @@
   </game>
   <game name="totalrecall">
     <description>Total Recall (USA)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1990</year>
     <manufacturer>Acclaim Entertainment</manufacturer>
   </game>
   <game name="totallyrad">
     <description>Totally Rad (USA)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1991</year>
     <manufacturer>Jaleco</manufacturer>
@@ -21276,20 +21276,20 @@
   </game>
   <game name="toxiccrusaders">
     <description>Toxic Crusaders (USA)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>1992</year>
     <manufacturer>Bandai</manufacturer>
   </game>
   <game name="trackfield">
-    <description>Track &amp; Field (USA)</description>
+    <description>Track & Field (USA)</description>
     <genre>Sports / Misc</genre>
     <players>2</players>
     <year>1987</year>
     <manufacturer>Konami</manufacturer>
   </game>
   <game name="trackfieldii">
-    <description>Track &amp; Field II (USA, Rev. A)</description>
+    <description>Track & Field II (USA, Rev. A)</description>
     <genre>Sports / Misc</genre>
     <players>2</players>
     <year>1989</year>
@@ -21325,7 +21325,7 @@
   </game>
   <game name="trojan">
     <description>Trojan (USA)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>2</players>
     <year>1987</year>
     <manufacturer>Capcom</manufacturer>
@@ -21380,7 +21380,7 @@
     <manufacturer>Pennywise</manufacturer>
   </game>
   <game name="uschavba">
-    <description>U.S. Championship V&#039;Ball (Japan)</description>
+    <description>U.S. Championship V'Ball (Japan)</description>
     <genre>Sports / Misc</genre>
     <players>4</players>
     <year>1989</year>
@@ -21451,14 +21451,14 @@
   </game>
   <game name="ultraclubgkbj" cloneof="ultraclubgkb">
     <description>Ultraman Club - Kaijuu Daikessen!! (Japan)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1992</year>
     <manufacturer>Angel - Bandai</manufacturer>
   </game>
   <game name="ultraclubgkb">
     <description>Ultraman Club - Great Kaiju Battle (Hack, English)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>2017</year>
     <manufacturer>Eric Engel, cccmar</manufacturer>
@@ -21528,14 +21528,14 @@
   </game>
   <game name="valis">
     <description>Valis - The Fantastic Soldier (Hack, English v1.1)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>2021</year>
     <manufacturer>Sliver X, satsu</manufacturer>
   </game>
   <game name="valisj" cloneof="valis">
     <description>Mugen Senshi Valis (Japan)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1987</year>
     <manufacturer>Tokuma Shoten</manufacturer>
@@ -21548,7 +21548,7 @@
     <manufacturer>Namcot</manufacturer>
   </game>
   <game name="valkynobou">
-    <description>Valkyrie&#039;s Adventure: Legend of the Time Key (Hack, English)</description>
+    <description>Valkyrie's Adventure: Legend of the Time Key (Hack, English)</description>
     <genre>RPG</genre>
     <players>1</players>
     <year>2001</year>
@@ -21570,7 +21570,7 @@
   </game>
   <game name="vindicators">
     <description>Vindicators (USA, Prototype)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>2</players>
     <year>1988</year>
     <manufacturer>Tengen</manufacturer>
@@ -21653,7 +21653,7 @@
     <manufacturer>Sofel</manufacturer>
   </game>
   <game name="warioswoods">
-    <description>Wario&#039;s Woods (USA)</description>
+    <description>Wario's Woods (USA)</description>
     <genre>Puzzle</genre>
     <players>2</players>
     <year>1994</year>
@@ -21674,7 +21674,7 @@
     <manufacturer>Namcot</manufacturer>
   </game>
   <game name="waynesworld">
-    <description>Wayne&#039;s World (USA)</description>
+    <description>Wayne's World (USA)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>1993</year>
@@ -21709,7 +21709,7 @@
     <manufacturer>Konami</manufacturer>
   </game>
   <game name="whereswaldo">
-    <description>Where&#039;s Waldo (USA)</description>
+    <description>Where's Waldo (USA)</description>
     <genre>Puzzle</genre>
     <players>1</players>
     <year>1991</year>
@@ -21737,7 +21737,7 @@
     <manufacturer>Lemmarx163</manufacturer>
   </game>
   <game name="whompem">
-    <description>Whomp &#039;Em (USA)</description>
+    <description>Whomp 'Em (USA)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>1991</year>
@@ -21800,21 +21800,21 @@
     <manufacturer>Sunsoft</manufacturer>
   </game>
   <game name="wits">
-    <description>Wit&#039;s (Japan)</description>
+    <description>Wit's (Japan)</description>
     <genre>Action</genre>
     <players>4</players>
     <year>1990</year>
     <manufacturer>Athena</manufacturer>
   </game>
   <game name="wizarwar">
-    <description>Wizards &amp; Warriors (USA)</description>
+    <description>Wizards & Warriors (USA)</description>
     <genre>Platform</genre>
     <players>1</players>
     <year>1987</year>
     <manufacturer>Acclaim Entertainment</manufacturer>
   </game>
   <game name="wizarwariii">
-    <description>Wizards &amp; Warriors III - Kuros: Visions of Power (USA)</description>
+    <description>Wizards & Warriors III - Kuros: Visions of Power (USA)</description>
     <genre>ADV</genre>
     <players>1</players>
     <year>1992</year>
@@ -21864,7 +21864,7 @@
   </game>
   <game name="xenophobe">
     <description>Xenophobe (USA)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>2</players>
     <year>1988</year>
     <manufacturer>Sunsoft</manufacturer>
@@ -21878,7 +21878,7 @@
   </game>
   <game name="xexyz">
     <description>Xexyz (USA)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1990</year>
     <manufacturer>Hudson Soft</manufacturer>
@@ -21912,7 +21912,7 @@
     <manufacturer>Nintendo</manufacturer>
   </game>
   <game name="yoshiscookie">
-    <description>Yoshi&#039;s Cookie (USA)</description>
+    <description>Yoshi's Cookie (USA)</description>
     <genre>Puzzle</genre>
     <players>2</players>
     <year>1993</year>
@@ -21941,7 +21941,7 @@
   </game>
   <game name="youngindjonchr">
     <description>Young Indiana Jones Chronicles, The (USA)</description>
-    <genre>Beat &#039;em Up</genre>
+    <genre>Beat 'em Up</genre>
     <players>1</players>
     <year>1992</year>
     <manufacturer>Jaleco</manufacturer>
@@ -22018,7 +22018,7 @@
   </game>
   <game name="zen">
     <description>Zen - Intergalactic Ninja (USA)</description>
-    <genre>Run &#039;n&#039; Gun</genre>
+    <genre>Run 'n' Gun</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Konami</manufacturer>
