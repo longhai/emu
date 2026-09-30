@@ -3,56 +3,56 @@
   <header><name>SNES</name></header>
   <game name="st010">
     <description>Seta ST010</description>
-    <genre>BIOS</genre>
+    <genre>BIOS / System</genre>
     <players>1</players>
     <year>x</year>
     <manufacturer>ST010 microcode</manufacturer>
   </game>
   <game name="st011">
     <description>Seta ST011</description>
-    <genre>BIOS</genre>
+    <genre>BIOS / System</genre>
     <players>1</players>
     <year>x</year>
     <manufacturer>ST011 microcode</manufacturer>
   </game>
   <game name="st018">
     <description>Seta ST018</description>
-    <genre>BIOS</genre>
+    <genre>BIOS / System</genre>
     <players>1</players>
     <year>x</year>
     <manufacturer>ST018 microcode</manufacturer>
   </game>
   <game name="dsp1">
     <description>DSP-1</description>
-    <genre>BIOS</genre>
+    <genre>BIOS / System</genre>
     <players>1</players>
     <year>x</year>
     <manufacturer>DSP microcode</manufacturer>
   </game>
   <game name="dsp1b">
     <description>DSP-1B</description>
-    <genre>BIOS</genre>
+    <genre>BIOS / System</genre>
     <players>1</players>
     <year>x</year>
     <manufacturer>DSP microcode</manufacturer>
   </game>
   <game name="dsp2">
     <description>DSP-2</description>
-    <genre>BIOS</genre>
+    <genre>BIOS / System</genre>
     <players>1</players>
     <year>x</year>
     <manufacturer>DSP microcode</manufacturer>
   </game>
   <game name="dsp3">
     <description>DSP-3</description>
-    <genre>BIOS</genre>
+    <genre>BIOS / System</genre>
     <players>1</players>
     <year>x</year>
     <manufacturer>DSP microcode</manufacturer>
   </game>
   <game name="dsp4">
     <description>DSP-4</description>
-    <genre>BIOS</genre>
+    <genre>BIOS / System</genre>
     <players>1</players>
     <year>x</year>
     <manufacturer>DSP microcode</manufacturer>
@@ -255,21 +255,21 @@
   </game>
   <game name="aceneraej" cloneof="aceneraete">
     <description>Ace wo Nerae! (Japan)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>2</players>
     <year>1993</year>
     <manufacturer>Nippon Telenet</manufacturer>
   </game>
   <game name="aceneraete">
     <description>Aim for the Ace! (Hack, English v1.3)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>2</players>
     <year>2017</year>
     <manufacturer>RPGONE</manufacturer>
   </game>
   <game name="aceneraets" cloneof="aceneraete">
     <description>Aim for the Ace! (Hack, Spanish)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>2</players>
     <year>2020</year>
     <manufacturer>Max1323</manufacturer>
@@ -514,14 +514,14 @@
   </game>
   <game name="aerobiz">
     <description>Aerobiz (USA)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>4</players>
     <year>1992</year>
     <manufacturer>Koei</manufacturer>
   </game>
   <game name="aerobiz2">
     <description>Aerobiz Supersonic (USA)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>4</players>
     <year>1994</year>
     <manufacturer>Koei</manufacturer>
@@ -542,14 +542,14 @@
   </game>
   <game name="aerobiz2j" cloneof="aerobiz2">
     <description>Air Management II - Koukuu Ou o Mezase (Japan)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>4</players>
     <year>1993</year>
     <manufacturer>Koei</manufacturer>
   </game>
   <game name="aerobizj" cloneof="aerobiz">
     <description>Air Management - Oozora ni Kakeru (Japan, Rev. 1)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>4</players>
     <year>1992</year>
     <manufacturer>Koei</manufacturer>
@@ -640,14 +640,14 @@
   </game>
   <game name="albertodsj" cloneof="albertodste">
     <description>Albert Odyssey (Japan)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Sunsoft</manufacturer>
   </game>
   <game name="albertodste">
     <description>Albert Odyssey (Hack, English)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>2018</year>
     <manufacturer>Peter Lemon</manufacturer>
@@ -822,7 +822,7 @@
   </game>
   <game name="anotherworld" cloneof="outofthisworld">
     <description>Another World (Euro)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1992</year>
     <manufacturer>Interplay - Delphine Software</manufacturer>
@@ -885,14 +885,14 @@
   </game>
   <game name="arcana">
     <description>Arcana (USA)</description>
-    <genre>MAZE</genre>
+    <genre>Maze</genre>
     <players>1</players>
     <year>1992</year>
     <manufacturer>HAL Laboratory</manufacturer>
   </game>
   <game name="arcanats" cloneof="arcana">
     <description>Arcana (Hack, Spanish v1.2)</description>
-    <genre>MAZE</genre>
+    <genre>Maze</genre>
     <players>1</players>
     <year>2021</year>
     <manufacturer>Andre Mena Calavia</manufacturer>
@@ -983,21 +983,21 @@
   </game>
   <game name="arkanoid2">
     <description>Arkanoid - Doh It Again (USA)</description>
-    <genre>BREAKOUT</genre>
+    <genre>Breakout</genre>
     <players>2</players>
     <year>1997</year>
     <manufacturer>Taito</manufacturer>
   </game>
   <game name="arkanoid2e" cloneof="arkanoid2">
     <description>Arkanoid - Doh It Again (Euro)</description>
-    <genre>BREAKOUT</genre>
+    <genre>Breakout</genre>
     <players>2</players>
     <year>1997</year>
     <manufacturer>Taito</manufacturer>
   </game>
   <game name="arkanoid2j" cloneof="arkanoid2">
     <description>Arkanoid - Doh It Again (Japan)</description>
-    <genre>BREAKOUT</genre>
+    <genre>Breakout</genre>
     <players>2</players>
     <year>1997</year>
     <manufacturer>Taito</manufacturer>
@@ -1022,6 +1022,13 @@
     <players>1</players>
     <year>1992</year>
     <manufacturer>NCS - Masaya</manufacturer>
+  </game>
+  <game name="assaultsvrb" cloneof="cybernator">
+    <description>Assault Suits Valken (USA) (Retro-bit)</description>
+    <genre>Run 'n' Gun</genre>
+    <players>1</players>
+    <year>2024</year>
+    <manufacturer>Retro-bit</manufacturer>
   </game>
   <game name="assaultsvte" cloneof="cybernator">
     <description>Assault Suits Valken (Hack, English)</description>
@@ -1130,14 +1137,14 @@
   </game>
   <game name="barbiesupermodel">
     <description>Barbie - Super Model (USA)</description>
-    <genre>MINIGAMES</genre>
+    <genre>Mini-Games</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Hi Tech Expressions</manufacturer>
   </game>
   <game name="barbievacationadv">
     <description>Barbie - Vacation Adventure (USA, Prototype)</description>
-    <genre>MINIGAMES</genre>
+    <genre>Mini-Games</genre>
     <players>1</players>
     <year>1994</year>
     <manufacturer>Hi Tech Entertainment</manufacturer>
@@ -1193,14 +1200,14 @@
   </game>
   <game name="bastardj" cloneof="bastardte">
     <description>Bastard!!: Ankoku no Hakaishin (Japan)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>2</players>
     <year>1994</year>
     <manufacturer>Cobra Team</manufacturer>
   </game>
   <game name="bastardte">
     <description>Bastard!!: Dark God of Destruction (Hack, English - 'Easy Spells')</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>2</players>
     <year>2017</year>
     <manufacturer>DeJap Translations, Docrow</manufacturer>
@@ -1326,7 +1333,7 @@
   </game>
   <game name="battlepinball">
     <description>Battle Pinball (Japan)</description>
-    <genre>PINBALL</genre>
+    <genre>Pinball</genre>
     <players>1</players>
     <year>1995</year>
     <manufacturer>Banpresto</manufacturer>
@@ -1627,21 +1634,21 @@
   </game>
   <game name="blockuzushi">
     <description>Block Kuzushi (Japan)</description>
-    <genre>BREAKOUT</genre>
+    <genre>Breakout</genre>
     <players>2</players>
     <year>1995</year>
     <manufacturer>POW</manufacturer>
   </game>
   <game name="blucryrodj" cloneof="blucryrodte">
     <description>Blue Crystal Rod, The (Japan)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1994</year>
     <manufacturer>Namcot</manufacturer>
   </game>
   <game name="blucryrodte">
     <description>Blue Crystal Rod, The (Hack, English)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>2025</year>
     <manufacturer>Supper</manufacturer>
@@ -1837,7 +1844,7 @@
   </game>
   <game name="bountysword">
     <description>Bounty Sword (Japan)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1995</year>
     <manufacturer>Pioneer LDC - Head Quarters</manufacturer>
@@ -2026,7 +2033,7 @@
   </game>
   <game name="btlsubmarine">
     <description>Battle Submarine (Japan)</description>
-    <genre>SIM</genre>
+    <genre>Simulation</genre>
     <players>1</players>
     <year>1995</year>
     <manufacturer>Pack-In-Video</manufacturer>
@@ -2327,7 +2334,7 @@
   </game>
   <game name="cardmaster" cloneof="arcana">
     <description>Card Master: Rimusaria no Fuuin (Japan)</description>
-    <genre>MAZE</genre>
+    <genre>Maze</genre>
     <players>1</players>
     <year>1992</year>
     <manufacturer>HAL Laboratory</manufacturer>
@@ -2649,14 +2656,14 @@
   </game>
   <game name="civilization">
     <description>Sid Meier's Civilization (USA)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1995</year>
     <manufacturer>Koei</manufacturer>
   </game>
   <game name="civilizationj" cloneof="civilization">
     <description>Civilization - Sekai Shichi Daibunmei (Japan)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1994</year>
     <manufacturer>Asmik</manufacturer>
@@ -2726,35 +2733,35 @@
   </game>
   <game name="clocktowerj" cloneof="clocktowerte">
     <description>Clock Tower (Japan)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1995</year>
     <manufacturer>Human Entertainment</manufacturer>
   </game>
   <game name="clocktowerte">
     <description>Clock Tower (Hack, English v1.01)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>2001</year>
     <manufacturer>Aeon Genesis</manufacturer>
   </game>
   <game name="clocktowerti" cloneof="clocktowerte">
     <description>Clock Tower (Hack, Italian)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>2004</year>
     <manufacturer>Fray83</manufacturer>
   </game>
   <game name="clocktowertp" cloneof="clocktowerte">
     <description>Clock Tower (Hack, Portuguese)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>2012</year>
     <manufacturer>Denver</manufacturer>
   </game>
   <game name="clocktowerts" cloneof="clocktowerte">
     <description>Clock Tower (Hack, Spanish)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>2018</year>
     <manufacturer>Victor IlDucci</manufacturer>
@@ -2887,21 +2894,21 @@
   </game>
   <game name="coolworld">
     <description>Cool World (USA)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1992</year>
     <manufacturer>Ocean</manufacturer>
   </game>
   <game name="coolworlde" cloneof="coolworld">
     <description>Cool World (Euro)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1992</year>
     <manufacturer>Ocean</manufacturer>
   </game>
   <game name="cornbustproto">
     <description>Corn Buster (Euro, Prototype)</description>
-    <genre>BREAKOUT</genre>
+    <genre>Breakout</genre>
     <players>2</players>
     <year>1995</year>
     <manufacturer>Engine Software</manufacturer>
@@ -3104,14 +3111,14 @@
   </game>
   <game name="dai3jisrt" cloneof="suprobwars3">
     <description>Dai-3-ji Super Robot Taisen (Japan)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Banpresto</manufacturer>
   </game>
   <game name="dai4jisrt" cloneof="suprobwars4">
     <description>Dai-4-ji Super Robot Taisen (Japan, Rev. 1)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1995</year>
     <manufacturer>Banpresto</manufacturer>
@@ -3384,21 +3391,21 @@
   </game>
   <game name="derlangj" cloneof="derlangte">
     <description>Der Langrisser (Japan, Rev. 1)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1995</year>
     <manufacturer>NCS - Masaya</manufacturer>
   </game>
   <game name="derlangte">
     <description>Der Langrisser (Hack, English v1.3.1)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>2022</year>
     <manufacturer>Near, D</manufacturer>
   </game>
   <game name="derlangtsc" cloneof="derlangte">
     <description>Der Langrisser (Hack, Simplified Chinese v1.31)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>2015</year>
     <manufacturer>Hen, Xuejianbingdao</manufacturer>
@@ -3762,14 +3769,14 @@
   </game>
   <game name="doraemon2j">
     <description>Doraemon 2: Nobita no Toys Land Daibouken (Japan)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Epoch Co.</manufacturer>
   </game>
   <game name="doraemon3j">
     <description>Doraemon 3: Nobita to Toki no Hougyoku (Japan)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1994</year>
     <manufacturer>Epoch Co.</manufacturer>
@@ -3790,14 +3797,14 @@
   </game>
   <game name="doraemonj" cloneof="doraemonte">
     <description>Doraemon: Nobita to Yousei no Kuni (Japan, Rev. 1)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Epoch Co.</manufacturer>
   </game>
   <game name="doraemonte">
     <description>Doraemon: Nobita and the Land of Fairies (Hack, English v0.98)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>2026</year>
     <manufacturer>torvusY</manufacturer>
@@ -3818,7 +3825,7 @@
   </game>
   <game name="doremifantasyte">
     <description>DoReMi Fantasy: Milon's Quest (Hack, English v1.3)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>2019</year>
     <manufacturer>Gaijin, RPGONE</manufacturer>
@@ -4077,14 +4084,14 @@
   </game>
   <game name="dreamazej" cloneof="dreamazete">
     <description>Yume Meikyuu - Kigurumi Daibouken (Japan)</description>
-    <genre>MAZE</genre>
+    <genre>Maze</genre>
     <players>1</players>
     <year>1994</year>
     <manufacturer>Hect</manufacturer>
   </game>
   <game name="dreamazete">
     <description>Dream Maze - Kigurumi Daibouken (Hack, English v1.0b)</description>
-    <genre>MAZE</genre>
+    <genre>Maze</genre>
     <players>1</players>
     <year>2004</year>
     <manufacturer>KingMike's Translations</manufacturer>
@@ -4147,21 +4154,21 @@
   </game>
   <game name="dungmaster">
     <description>Dungeon Master (USA)</description>
-    <genre>MAZE</genre>
+    <genre>Maze</genre>
     <players>1</players>
     <year>1992</year>
     <manufacturer>JVC Musical Industries</manufacturer>
   </game>
   <game name="dungmastere" cloneof="dungmaster">
     <description>Dungeon Master (Euro)</description>
-    <genre>MAZE</genre>
+    <genre>Maze</genre>
     <players>1</players>
     <year>1992</year>
     <manufacturer>JVC Musical Industries</manufacturer>
   </game>
   <game name="dungmasterj" cloneof="dungmaster">
     <description>Dungeon Master (Japan, Rev. 1)</description>
-    <genre>MAZE</genre>
+    <genre>Maze</genre>
     <players>1</players>
     <year>1991</year>
     <manufacturer>Victor Musical Industries</manufacturer>
@@ -4182,14 +4189,14 @@
   </game>
   <game name="earthlightj" cloneof="earthlightte">
     <description>Earth Light (Japan)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1992</year>
     <manufacturer>Hudson Soft</manufacturer>
   </game>
   <game name="earthlightte">
     <description>Earth Light (Hack, English)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>2024</year>
     <manufacturer>Nezz</manufacturer>
@@ -4308,14 +4315,14 @@
   </game>
   <game name="energybreakj" cloneof="energybreakte">
     <description>Energy Breaker (Japan)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1996</year>
     <manufacturer>Taito Corp.</manufacturer>
   </game>
   <game name="energybreakte">
     <description>Energy Breaker (Hack, English v1.02)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>2012</year>
     <manufacturer>Disnesquick</manufacturer>
@@ -4441,7 +4448,7 @@
   </game>
   <game name="eyebehold">
     <description>Eye of the Beholder ~ Advanced Dungeons & Dragons (USA)</description>
-    <genre>MAZE</genre>
+    <genre>Maze</genre>
     <players>1</players>
     <year>1994</year>
     <manufacturer>Capcom</manufacturer>
@@ -4532,14 +4539,14 @@
   </game>
   <game name="famtanclub2j" cloneof="famtanclub2te">
     <description>Famicom Tantei Club Part II: Ushiro ni Tatsu Shoujo (Japan)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1998</year>
     <manufacturer>Nintendo</manufacturer>
   </game>
   <game name="famtanclub2te">
     <description>Famicom Detective Club Part II (Hack, English)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>2004</year>
     <manufacturer>Demiforce, Tomato</manufacturer>
@@ -4966,28 +4973,28 @@
   </game>
   <game name="fireemblemj" cloneof="fireemblemte">
     <description>Fire Emblem: Monshou no Nazo (Japan, Rev. 1)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Nintendo</manufacturer>
   </game>
   <game name="fireemblemte">
     <description>Fire Emblem: Mystery of the Emblem (Hack, English v0.22)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>2022</year>
     <manufacturer>RobertTheSable</manufacturer>
   </game>
   <game name="fireemblemtsc" cloneof="fireemblemte">
     <description>Fire Emblem: Monshou no Nazo (Hack, Simplified Chinese v1.03)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>2003</year>
     <manufacturer>Wolf Group</manufacturer>
   </game>
   <game name="fireemblemttc" cloneof="fireemblemte">
     <description>Fire Emblem: Monshou no Nazo (Hack, Traditional Chinese v1.03)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>2003</year>
     <manufacturer>Wolf Group</manufacturer>
@@ -5057,7 +5064,7 @@
   </game>
   <game name="firestriker">
     <description>Fire Striker (USA)</description>
-    <genre>BREAKOUT</genre>
+    <genre>Breakout</genre>
     <players>4</players>
     <year>1994</year>
     <manufacturer>DTMC</manufacturer>
@@ -5085,42 +5092,42 @@
   </game>
   <game name="flashback">
     <description>Flashback: The Quest for Identity (USA)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>U.S. Gold - Delphine Software</manufacturer>
   </game>
   <game name="flashbacke" cloneof="flashback">
     <description>Flashback (Euro)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>U.S. Gold - Delphine Software</manufacturer>
   </game>
   <game name="flashbackj" cloneof="flashback">
     <description>Flashback (Japan)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Sunsoft</manufacturer>
   </game>
   <game name="flashbackti" cloneof="flashback">
     <description>Flashback: The Quest for Identity (Hack, Italian)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>2009</year>
     <manufacturer>Vivi 86</manufacturer>
   </game>
   <game name="flashbacktp" cloneof="flashback">
     <description>Flashback: The Quest for Identity (Hack, Portuguese)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1999</year>
     <manufacturer>CBT</manufacturer>
   </game>
   <game name="plashbackts" cloneof="flashback">
     <description>Plashback (Hack, Spanish)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>2000</year>
     <manufacturer>Charnego Translations</manufacturer>
@@ -5274,14 +5281,14 @@
   </game>
   <game name="frontmissionj" cloneof="frontmissionte">
     <description>Front Mission (Japan)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1995</year>
     <manufacturer>Squaresoft</manufacturer>
   </game>
   <game name="frontmissionte">
     <description>Front Mission (Hack, English v1.02)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>2023</year>
     <manufacturer>mteam, F.H.</manufacturer>
@@ -5358,14 +5365,14 @@
   </game>
   <game name="galaxyroboj" cloneof="galaxyrobote">
     <description>Galaxy Robo (Japan)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>2</players>
     <year>1994</year>
     <manufacturer>Imagineer</manufacturer>
   </game>
   <game name="galaxyrobote">
     <description>Galaxy Robo (Hack, English v1.10)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>2</players>
     <year>2015</year>
     <manufacturer>Dynamic-Designs</manufacturer>
@@ -5533,14 +5540,14 @@
   </game>
   <game name="gemfire">
     <description>Gemfire (USA)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>2</players>
     <year>1992</year>
     <manufacturer>Koei</manufacturer>
   </game>
   <game name="genghiskhanii">
     <description>Genghis Khan II - Clan of the Gray Wolf (USA)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>2</players>
     <year>1993</year>
     <manufacturer>Koei</manufacturer>
@@ -5568,14 +5575,14 @@
   </game>
   <game name="getsumenj">
     <description>Getsumen no Anubis ~ Anubis of the Moon's Surface (Japan)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1995</year>
     <manufacturer>Imagineer</manufacturer>
   </game>
   <game name="getsumentsc" cloneof="getsumenj">
     <description>Getsumen no Anubis ~ Anubis of the Moon's Surface (Hack, Simplified Chinese)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>2025</year>
     <manufacturer>CLARK.H</manufacturer>
@@ -5953,14 +5960,14 @@
   </game>
   <game name="gundamcd0079j" cloneof="gundamcd0079te">
     <description>Kidou Senshi Gundam: Cross Dimension 0079 (Japan)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1995</year>
     <manufacturer>Bandai</manufacturer>
   </game>
   <game name="gundamcd0079te">
     <description>Mobile Suit Gundam: Cross Dimension 0079 (Hack, English)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>2004</year>
     <manufacturer>Aeon Genesis</manufacturer>
@@ -6009,28 +6016,28 @@
   </game>
   <game name="hamelinj" cloneof="hamelinte">
     <description>Hamelin no Violin Hiki (Japan)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1995</year>
     <manufacturer>Enix</manufacturer>
   </game>
   <game name="hamelintde" cloneof="hamelinte">
     <description>Violinist von Hameln, Der (Hack, German)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>2023</year>
     <manufacturer>POE</manufacturer>
   </game>
   <game name="hamelinte">
     <description>Violinist of Hameln, The (Hack, English)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>2001</year>
     <manufacturer>J2e Translations</manufacturer>
   </game>
   <game name="hamelints" cloneof="hamelinte">
     <description>Violinista de Hameln, El (Hack, Spanish v1.1)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>2017</year>
     <manufacturer>semco</manufacturer>
@@ -6065,35 +6072,35 @@
   </game>
   <game name="harvmoon">
     <description>Harvest Moon (USA)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1997</year>
     <manufacturer>Natsume</manufacturer>
   </game>
   <game name="harvmoone" cloneof="harvmoon">
     <description>Harvest Moon (Euro)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1996</year>
     <manufacturer>Pack-In-Video</manufacturer>
   </game>
   <game name="harvmoonj" cloneof="harvmoon">
     <description>Bokujou Monogatari (Japan, Rev. 1)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1996</year>
     <manufacturer>Pack-In-Video</manufacturer>
   </game>
   <game name="harvmoontsc" cloneof="harvmoon">
     <description>Bokujou Monogatari (Hack, Simplified Chinese v2.0)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>2009</year>
     <manufacturer>TGB</manufacturer>
   </game>
   <game name="harvmoonttc" cloneof="harvmoon">
     <description>Bokujou Monogatari (Hack, Traditional Chinese v2.0)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>2009</year>
     <manufacturer>TGB</manufacturer>
@@ -6128,7 +6135,7 @@
   </game>
   <game name="heartmemo">
     <description>Heartthrob Memorial: Under the Tree of Legends (Hack, English v3)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>2022</year>
     <manufacturer>Translated.Games</manufacturer>
@@ -6149,7 +6156,7 @@
   </game>
   <game name="hellopacman" cloneof="pacman2adv">
     <description>Hello! Pac-Man (Japan)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1994</year>
     <manufacturer>Namcot</manufacturer>
@@ -6205,7 +6212,7 @@
   </game>
   <game name="holystriker" cloneof="firestriker">
     <description>Holy Striker (Japan)</description>
-    <genre>BREAKOUT</genre>
+    <genre>Breakout</genre>
     <players>4</players>
     <year>1993</year>
     <manufacturer>Hect</manufacturer>
@@ -6485,21 +6492,21 @@
   </game>
   <game name="ihatovoj" cloneof="ihatovote">
     <description>Ihatovo Monogatari (Japan)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Hect</manufacturer>
   </game>
   <game name="ihatovots" cloneof="ihatovote">
     <description>Historias de Ihatovo, Las (Hack, Spanish v1.3)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>2019</year>
     <manufacturer>semco</manufacturer>
   </game>
   <game name="ihatovote">
     <description>Stories of Ihatovo, The (Hack, English v2.0)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>2018</year>
     <manufacturer>DDSTranslation, FlashPV, Tom</manufacturer>
@@ -6688,7 +6695,7 @@
   </game>
   <game name="jakicrush">
     <description>Naxat Super Pinball - Jaki Crush (Japan)</description>
-    <genre>PINBALL</genre>
+    <genre>Pinball</genre>
     <players>2</players>
     <year>1992</year>
     <manufacturer>Naxat Soft</manufacturer>
@@ -6982,7 +6989,7 @@
   </game>
   <game name="jpark">
     <description>Jurassic Park (USA, Rev. 1)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Ocean</manufacturer>
@@ -7003,42 +7010,42 @@
   </game>
   <game name="jparke" cloneof="jpark">
     <description>Jurassic Park (Euro, English)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Ocean</manufacturer>
   </game>
   <game name="jparkf" cloneof="jpark">
     <description>Jurassic Park (Euro, French)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Ocean</manufacturer>
   </game>
   <game name="jparkg" cloneof="jpark">
     <description>Jurassic Park (Euro, German)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Ocean</manufacturer>
   </game>
   <game name="jparki" cloneof="jpark">
     <description>Jurassic Park (Euro, Italian)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Ocean</manufacturer>
   </game>
   <game name="jparkj" cloneof="jpark">
     <description>Jurassic Park (Japan)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1994</year>
     <manufacturer>Jaleco</manufacturer>
   </game>
   <game name="jparks" cloneof="jpark">
     <description>Jurassic Park (Euro, Spanish)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Ocean</manufacturer>
@@ -7157,14 +7164,14 @@
   </game>
   <game name="kamaitachite">
     <description>Kamaitachi no Yoru (Hack, English)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>2026</year>
     <manufacturer>ButThouMust</manufacturer>
   </game>
   <game name="kamaitachi" cloneof="kamaitachite">
     <description>Kamaitachi no Yoru (Japan)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1994</year>
     <manufacturer>Chun Soft</manufacturer>
@@ -7220,7 +7227,7 @@
   </game>
   <game name="kdztm">
     <description>Kishin Douji Zenki - Tenchi Meidou (Japan)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>4</players>
     <year>1996</year>
     <manufacturer>Hudson Soft</manufacturer>
@@ -7535,7 +7542,7 @@
   </game>
   <game name="kouryuuki" cloneof="risephoenix">
     <description>Kouryuuki (Japan)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>2</players>
     <year>1994</year>
     <manufacturer>Koei</manufacturer>
@@ -7864,7 +7871,7 @@
   </game>
   <game name="libertyordeath">
     <description>Liberty or Death (USA)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>2</players>
     <year>1993</year>
     <manufacturer>Koei</manufacturer>
@@ -8368,21 +8375,21 @@
   </game>
   <game name="majtenseij" cloneof="majtenseite">
     <description>Majin Tensei (Japan)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1994</year>
     <manufacturer>Atlus Co.</manufacturer>
   </game>
   <game name="majtenseite">
     <description>Majin Tensei (Hack, English v4.0)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>2019</year>
     <manufacturer>DDSTranslation</manufacturer>
   </game>
   <game name="majtenseits" cloneof="majtenseite">
     <description>Majin Tensei (Hack, Spanish v1.1)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>2021</year>
     <manufacturer>Max1323</manufacturer>
@@ -8431,7 +8438,7 @@
   </game>
   <game name="marioismissing">
     <description>Mario Is Missing! (USA)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Nintendo</manufacturer>
@@ -8466,7 +8473,7 @@
   </game>
   <game name="mariotimemachine">
     <description>Mario's Time Machine (USA)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Nintendo - Software Toolworks</manufacturer>
@@ -8809,7 +8816,7 @@
   </game>
   <game name="metmarines">
     <description>Metal Marines (USA)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Namco</manufacturer>
@@ -8907,7 +8914,7 @@
   </game>
   <game name="militia" cloneof="metmarines">
     <description>Militia (Japan)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Namcot</manufacturer>
@@ -9166,14 +9173,14 @@
   </game>
   <game name="msglorydcj" cloneof="msglorydcte">
     <description>Metal Slader Glory - Director's Cut (Japan)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>2000</year>
     <manufacturer>HAL Laboratory</manufacturer>
   </game>
   <game name="msglorydcte">
     <description>Metal Slader Glory - Director's Cut (Hack, English v1.1)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>2025</year>
     <manufacturer>FCandChill</manufacturer>
@@ -9698,28 +9705,28 @@
   </game>
   <game name="nobunagalod">
     <description>Nobunaga's Ambition - Lord of Darkness (USA)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>8</players>
     <year>1994</year>
     <manufacturer>Koei</manufacturer>
   </game>
   <game name="nobunagalodj" cloneof="nobunagalod">
     <description>Super Nobunaga no Yabou - Bushou Fuuunroku (Japan, Rev. 1)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>8</players>
     <year>1991</year>
     <manufacturer>Koei</manufacturer>
   </game>
   <game name="nobunagaj" cloneof="nobunagas">
     <description>Super Nobunaga no Yabou - Zenkoku Ban (Japan, Rev. 1)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>8</players>
     <year>1993</year>
     <manufacturer>Koei</manufacturer>
   </game>
   <game name="nobunagas">
     <description>Nobunaga's Ambition (USA)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>8</players>
     <year>1993</year>
     <manufacturer>Koei</manufacturer>
@@ -9754,21 +9761,21 @@
   </game>
   <game name="obitus">
     <description>Obitus (USA)</description>
-    <genre>MAZE</genre>
+    <genre>Maze</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Bullet Proof Software - Psygnosis</manufacturer>
   </game>
   <game name="ogrebattle">
     <description>Ogre Battle: The March of the Black Queen (USA)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1994</year>
     <manufacturer>Enix America</manufacturer>
   </game>
   <game name="ogrebattlete" cloneof="ogrebattle">
     <description>Ogre Battle: The March of the Black Queen (Hack, English v1.2)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>2018</year>
     <manufacturer>FinS</manufacturer>
@@ -9838,7 +9845,7 @@
   </game>
   <game name="opeuro3945">
     <description>Operation Europe - Path to Victory 1939-45 (USA)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>2</players>
     <year>1994</year>
     <manufacturer>Koei</manufacturer>
@@ -9880,14 +9887,14 @@
   </game>
   <game name="otogirisouj" cloneof="otogirisoute">
     <description>Otogirisou (Japan)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1992</year>
     <manufacturer>Chun Soft</manufacturer>
   </game>
   <game name="otogirisoute">
     <description>Otogirisou - Hypericum Perforatum (Hack, English v1.2)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>2025</year>
     <manufacturer>ButThouMust</manufacturer>
@@ -9922,7 +9929,7 @@
   </game>
   <game name="outofthisworld">
     <description>Out of This World (USA)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1992</year>
     <manufacturer>Interplay - Delphine Software</manufacturer>
@@ -9964,42 +9971,42 @@
   </game>
   <game name="pacman2adv">
     <description>Pac-Man 2: The New Adventures (USA)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1994</year>
     <manufacturer>Namco</manufacturer>
   </game>
   <game name="pacman2adve" cloneof="pacman2adv">
     <description>Pac-Man 2: The New Adventures (Euro, English)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1994</year>
     <manufacturer>Namco</manufacturer>
   </game>
   <game name="pacman2advf" cloneof="pacman2adv">
     <description>Pac-Man 2: The New Adventures (Euro, French)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1994</year>
     <manufacturer>Namco</manufacturer>
   </game>
   <game name="pacman2advg" cloneof="pacman2adv">
     <description>Pac-Man 2: The New Adventures (Euro, German)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1994</year>
     <manufacturer>Namco</manufacturer>
   </game>
   <game name="pto">
     <description>P.T.O. - Pacific Theater of Operations (USA)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>2</players>
     <year>1993</year>
     <manufacturer>Koei</manufacturer>
   </game>
   <game name="ptoii">
     <description>P.T.O. II - Pacific Theater of Operations (USA)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>2</players>
     <year>1995</year>
     <manufacturer>Koei</manufacturer>
@@ -10223,35 +10230,35 @@
   </game>
   <game name="pinballdreams">
     <description>Pinball Dreams (USA)</description>
-    <genre>PINBALL</genre>
+    <genre>Pinball</genre>
     <players>8</players>
     <year>1993</year>
     <manufacturer>GameTek</manufacturer>
   </game>
   <game name="pinballdreamse" cloneof="pinballdreams">
     <description>Pinball Dreams (Euro)</description>
-    <genre>PINBALL</genre>
+    <genre>Pinball</genre>
     <players>8</players>
     <year>1993</year>
     <manufacturer>GameTek</manufacturer>
   </game>
   <game name="pinballfanta">
     <description>Pinball Fantasies (USA)</description>
-    <genre>PINBALL</genre>
+    <genre>Pinball</genre>
     <players>8</players>
     <year>1994</year>
     <manufacturer>GameTek</manufacturer>
   </game>
   <game name="pinballfantae" cloneof="pinballfanta">
     <description>Pinball Fantasies (Euro)</description>
-    <genre>PINBALL</genre>
+    <genre>Pinball</genre>
     <players>8</players>
     <year>1994</year>
     <manufacturer>GameTek</manufacturer>
   </game>
   <game name="pinballpinball" cloneof="pinballdreams">
     <description>Pinball Pinball (Japan)</description>
-    <genre>PINBALL</genre>
+    <genre>Pinball</genre>
     <players>8</players>
     <year>1994</year>
     <manufacturer>Coconuts Japan</manufacturer>
@@ -10398,21 +10405,21 @@
   </game>
   <game name="popeyej" cloneof="popeyete">
     <description>Popeye - Ijiwaru Majo Sea Hag no Maki (Japan)</description>
-    <genre>MINIGAMES</genre>
+    <genre>Mini-Games</genre>
     <players>2</players>
     <year>1994</year>
     <manufacturer>Technos Japan</manufacturer>
   </game>
   <game name="popeyete">
     <description>Popeye - Tale of Teasing Witch Sea Hag (Hack, English)</description>
-    <genre>MINIGAMES</genre>
+    <genre>Mini-Games</genre>
     <players>2</players>
     <year>2008</year>
     <manufacturer>KingMike's Translations</manufacturer>
   </game>
   <game name="popeyetp" cloneof="popeyete">
     <description>Popeye - Tale of Teasing Witch Sea Hag (Hack, Portuguese v.Beta 1)</description>
-    <genre>MINIGAMES</genre>
+    <genre>Mini-Games</genre>
     <players>2</players>
     <year>2018</year>
     <manufacturer>Ripman</manufacturer>
@@ -10454,49 +10461,49 @@
   </game>
   <game name="popsmash">
     <description>Heisei Inu Monogatari Bow - Pop'n Smash!! (Japan)</description>
-    <genre>BALLPADDLE</genre>
+    <genre>Ball & Paddle</genre>
     <players>2</players>
     <year>1994</year>
     <manufacturer>Takara Co.</manufacturer>
   </game>
   <game name="populous">
     <description>Populous (USA)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1991</year>
     <manufacturer>Acclaim Entertainment</manufacturer>
   </game>
   <game name="populous2e">
     <description>Populous II - Trials of the Olympian Gods (Euro, English)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Imagineer</manufacturer>
   </game>
   <game name="populous2g" cloneof="populous2e">
     <description>Populous II - Trials of the Olympian Gods (Euro, German)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Imagineer</manufacturer>
   </game>
   <game name="populous2j" cloneof="populous2e">
     <description>Populous II - Trials of the Olympian Gods (Japan)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Imagineer</manufacturer>
   </game>
   <game name="populouse" cloneof="populous">
     <description>Populous (Euro)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1992</year>
     <manufacturer>Imagineer</manufacturer>
   </game>
   <game name="populousj" cloneof="populous">
     <description>Populous (Japan)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1990</year>
     <manufacturer>Imagineer</manufacturer>
@@ -10538,35 +10545,35 @@
   </game>
   <game name="powmongere">
     <description>PowerMonger (Euro)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Imagineer</manufacturer>
   </game>
   <game name="powmongerj" cloneof="powmongere">
     <description>PowerMonger - Mashou no Bouryaku (Japan)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Imagineer</manufacturer>
   </game>
   <game name="powerhir" cloneof="powerhirte">
     <description>Power of the Hired (Japan)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1994</year>
     <manufacturer>NCS</manufacturer>
   </game>
   <game name="powerhirte">
     <description>Power of the Hired (Hack, English v0.75)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>2021</year>
     <manufacturer>Dynamic-Designs</manufacturer>
   </game>
   <game name="powerhirtsc" cloneof="powerhirte">
     <description>Power of the Hired (Hack, Chinese)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>2026</year>
     <manufacturer>XiaoGuihun</manufacturer>
@@ -10643,35 +10650,35 @@
   </game>
   <game name="princepersia">
     <description>Prince of Persia (USA)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1992</year>
     <manufacturer>Konami - NCS Corp.</manufacturer>
   </game>
   <game name="princepersia2">
     <description>Prince of Persia 2 (USA)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1995</year>
     <manufacturer>Titus - Psygnosis</manufacturer>
   </game>
   <game name="princepersia2tp" cloneof="princepersia2">
     <description>Prince of Persia 2 (Hack, Portuguese)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>2001</year>
     <manufacturer>Jumpman</manufacturer>
   </game>
   <game name="princepersiaj" cloneof="princepersia">
     <description>Prince of Persia (Japan)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1992</year>
     <manufacturer>NCS Corp.</manufacturer>
   </game>
   <game name="princepersiatp" cloneof="princepersia">
     <description>Prince of Persia (Hack, Portuguese v1.01)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>2010</year>
     <manufacturer>Mattos</manufacturer>
@@ -10937,14 +10944,14 @@
   </game>
   <game name="ringkakero">
     <description>Ring ni Kakero (Japan)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>2</players>
     <year>1995</year>
     <manufacturer>NCS - Masaya</manufacturer>
   </game>
   <game name="risephoenix">
     <description>Rise of the Phoenix (USA)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>2</players>
     <year>1995</year>
     <manufacturer>Koei</manufacturer>
@@ -11112,21 +11119,21 @@
   </game>
   <game name="romance3k2">
     <description>Romance of the Three Kingdoms II (USA)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1992</year>
     <manufacturer>Koei</manufacturer>
   </game>
   <game name="romance3k3">
     <description>Romance of the Three Kingdoms III - Dragon of Destiny (USA)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Koei</manufacturer>
   </game>
   <game name="romance3k4">
     <description>Romance of the Three Kingdoms IV - Wall of Fire (USA)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1995</year>
     <manufacturer>Koei</manufacturer>
@@ -11427,14 +11434,14 @@
   </game>
   <game name="sanriowsbj" cloneof="sanriowsbte">
     <description>Sanrio World Smash Ball! (Japan)</description>
-    <genre>BALLPADDLE</genre>
+    <genre>Ball & Paddle</genre>
     <players>2</players>
     <year>1993</year>
     <manufacturer>Tomcat System</manufacturer>
   </game>
   <game name="sanriowsbte">
     <description>Sanrio World Smash Ball! (Hack, English)</description>
-    <genre>BALLPADDLE</genre>
+    <genre>Ball & Paddle</genre>
     <players>2</players>
     <year>1999</year>
     <manufacturer>Suicidal Translations</manufacturer>
@@ -11511,7 +11518,7 @@
   </game>
   <game name="sconflict">
     <description>Super Conflict (USA)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>2</players>
     <year>1993</year>
     <manufacturer>Vic Tokai</manufacturer>
@@ -11546,14 +11553,14 @@
   </game>
   <game name="sdgundamgx">
     <description>SD Gundam GX (Japan)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1994</year>
     <manufacturer>Bandai</manufacturer>
   </game>
   <game name="sdgundamgnext">
     <description>SD Gundam G Next (Japan)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1995</year>
     <manufacturer>Bandai</manufacturer>
@@ -11896,14 +11903,14 @@
   </game>
   <game name="sfwarsj" cloneof="sfwarste">
     <description>Super Famicom Wars (Japan)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>4</players>
     <year>1998</year>
     <manufacturer>Nintendo</manufacturer>
   </game>
   <game name="sfwarste">
     <description>Super Famicom Wars (Hack, English v1.1)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>4</players>
     <year>2018</year>
     <manufacturer>Optiroc</manufacturer>
@@ -12057,77 +12064,77 @@
   </game>
   <game name="simant">
     <description>SimAnt - The Electronic Ant Colony (USA)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Imagineer</manufacturer>
   </game>
   <game name="simantj" cloneof="simant">
     <description>SimAnt (Japan)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Imagineer</manufacturer>
   </game>
   <game name="simcity">
     <description>SimCity (USA)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1991</year>
     <manufacturer>Nintendo</manufacturer>
   </game>
   <game name="simcityde" cloneof="simcity">
     <description>SimCity (Euro, German)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1992</year>
     <manufacturer>Nintendo</manufacturer>
   </game>
   <game name="simcitye" cloneof="simcity">
     <description>SimCity (Euro, English)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1991</year>
     <manufacturer>Nintendo</manufacturer>
   </game>
   <game name="simcityfr" cloneof="simcity">
     <description>SimCity (Euro, French)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Nintendo</manufacturer>
   </game>
   <game name="simcityj" cloneof="simcity">
     <description>SimCity (Japan)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1991</year>
     <manufacturer>Nintendo</manufacturer>
   </game>
   <game name="simcity2">
     <description>SimCity 2000 - The Ultimate City Simulator (USA)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1995</year>
     <manufacturer>THQ Inc. - Black Pearl Software</manufacturer>
   </game>
   <game name="simcity2e" cloneof="simcity2">
     <description>SimCity 2000 - The Ultimate City Simulator (Euro)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1995</year>
     <manufacturer>THQ Inc. - Black Pearl Software</manufacturer>
   </game>
   <game name="simcity2j" cloneof="simcity2">
     <description>SimCity 2000 - The Ultimate City Simulator (Japan)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1995</year>
     <manufacturer>Imagineer</manufacturer>
   </game>
   <game name="simearth">
     <description>SimEarth - The Living Planet (USA)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>FCI</manufacturer>
@@ -12561,7 +12568,7 @@
   </game>
   <game name="solitaire">
     <description>Super Solitaire (USA)</description>
-    <genre>CARD</genre>
+    <genre>Card Game</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Beam Software</manufacturer>
@@ -12582,21 +12589,21 @@
   </game>
   <game name="soregoemonj" cloneof="soregoemonte">
     <description>Soreyuke Ebisumaru Karakuri Meiro - Kieta Goemon no Nazo!! (Japan)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>2</players>
     <year>1996</year>
     <manufacturer>Konami</manufacturer>
   </game>
   <game name="soregoemonte">
     <description>Soreyuke Ebisumaru Karakuri Meiro - Kieta Goemon no Nazo!! (Hack, English v2.0)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>2</players>
     <year>2020</year>
     <manufacturer>DDSTranslation</manufacturer>
   </game>
   <game name="sos">
     <description>SOS (USA)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1994</year>
     <manufacturer>Vic Tokai</manufacturer>
@@ -12869,21 +12876,21 @@
   </game>
   <game name="sroyalblood" cloneof="gemfire">
     <description>Super Royal Blood (Japan)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>2</players>
     <year>1992</year>
     <manufacturer>Koei</manufacturer>
   </game>
   <game name="srtglej" cloneof="srwglete">
     <description>Super Robot Taisen Gaiden: The Lord of Elemental (Japan)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1996</year>
     <manufacturer>Banpresto</manufacturer>
   </game>
   <game name="srwglete">
     <description>Super Robot Wars Gaiden: The Elementals Lord (Hack, English v1.05)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>2018</year>
     <manufacturer>Aeon Genesis</manufacturer>
@@ -13037,14 +13044,14 @@
   </game>
   <game name="stcrosstime">
     <description>Star Trek - Deep Space Nine: Crossroads of Time (USA)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1995</year>
     <manufacturer>Playmates Interactive Ent.</manufacturer>
   </game>
   <game name="stcrosstimee" cloneof="stcrosstime">
     <description>Star Trek - Deep Space Nine: Crossroads of Time (Euro)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1995</year>
     <manufacturer>Playmates Interactive Ent.</manufacturer>
@@ -13156,21 +13163,21 @@
   </game>
   <game name="ststarfleet">
     <description>Star Trek - Starfleet Academy: Starship Bridge Simulator (USA)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>2</players>
     <year>1994</year>
     <manufacturer>Interplay</manufacturer>
   </game>
   <game name="ststarfleete" cloneof="ststarfleet">
     <description>Star Trek - Starfleet Academy: Starship Bridge Simulator (Euro, English)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>2</players>
     <year>1994</year>
     <manufacturer>Interplay</manufacturer>
   </game>
   <game name="ststarfleetg" cloneof="ststarfleet">
     <description>Star Trek - Starfleet Academy: Starship Bridge Simulator (Euro, German)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>2</players>
     <year>1994</year>
     <manufacturer>Interplay</manufacturer>
@@ -13226,14 +13233,14 @@
   </game>
   <game name="supapoon">
     <description>Supapoon (Japan)</description>
-    <genre>BREAKOUT</genre>
+    <genre>Breakout</genre>
     <players>1</players>
     <year>1995</year>
     <manufacturer>Yutaka</manufacturer>
   </game>
   <game name="supapoondx">
     <description>Supapoon DX (Japan)</description>
-    <genre>BREAKOUT</genre>
+    <genre>Breakout</genre>
     <players>2</players>
     <year>1996</year>
     <manufacturer>Yutaka</manufacturer>
@@ -13618,49 +13625,49 @@
   </game>
   <game name="superbtank">
     <description>Garry Kitchen's Super Battletank - War in the Gulf (USA, Rev. 1)</description>
-    <genre>SIM</genre>
+    <genre>Simulation</genre>
     <players>1</players>
     <year>1992</year>
     <manufacturer>Absolute Entertainment</manufacturer>
   </game>
   <game name="superbtanke" cloneof="superbtank">
     <description>Garry Kitchen's  Super Battletank (Euro)</description>
-    <genre>SIM</genre>
+    <genre>Simulation</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Absolute Entertainment</manufacturer>
   </game>
   <game name="superbtankj" cloneof="superbtank">
     <description>Garry Kitchen's  Super Battletank (Japan)</description>
-    <genre>SIM</genre>
+    <genre>Simulation</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Pack-In-Video</manufacturer>
   </game>
   <game name="superbtank2">
     <description>Super Battletank 2 (USA)</description>
-    <genre>SIM</genre>
+    <genre>Simulation</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Absolute Entertainment</manufacturer>
   </game>
   <game name="superbtank2e" cloneof="superbtank2">
     <description>Super Battletank 2 (Euro)</description>
-    <genre>SIM</genre>
+    <genre>Simulation</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Absolute Entertainment</manufacturer>
   </game>
   <game name="superbtank2s" cloneof="superbtank2">
     <description>Super Battletank 2 (Euro, Spanish)</description>
-    <genre>SIM</genre>
+    <genre>Simulation</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Absolute Entertainment</manufacturer>
   </game>
   <game name="superbtank2j" cloneof="superbtank2">
     <description>Super Battletank 2 (Japan)</description>
-    <genre>SIM</genre>
+    <genre>Simulation</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Pack-In-Video</manufacturer>
@@ -13947,35 +13954,35 @@
   </game>
   <game name="supermetroid">
     <description>Super Metroid (USA, Japan)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1994</year>
     <manufacturer>Nintendo</manufacturer>
   </game>
   <game name="supermetroide" cloneof="supermetroid">
     <description>Super Metroid (Euro)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1994</year>
     <manufacturer>Nintendo</manufacturer>
   </game>
   <game name="supermetroidtp" cloneof="supermetroid">
     <description>Super Metroide (Hack, Portuguese)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>2013</year>
     <manufacturer>Denim, Spyblack</manufacturer>
   </game>
   <game name="smetroidtsc" cloneof="supermetroid">
     <description>Super Metroid (Hack, Simplified Chinese v1.00)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>2025</year>
     <manufacturer>aGuGu</manufacturer>
   </game>
   <game name="smetroidttc" cloneof="supermetroid">
     <description>Super Metroid (Hack, Traditional Chinese v1.00)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>2025</year>
     <manufacturer>aGuGu</manufacturer>
@@ -14059,21 +14066,21 @@
   </game>
   <game name="spinballbtm">
     <description>Super Pinball - Behind the Mask (USA, Rev. 1)</description>
-    <genre>PINBALL</genre>
+    <genre>Pinball</genre>
     <players>4</players>
     <year>1994</year>
     <manufacturer>Meldac - Kaze</manufacturer>
   </game>
   <game name="spinballbtme" cloneof="spinballbtm">
     <description>Super Pinball - Behind the Mask (Euro)</description>
-    <genre>PINBALL</genre>
+    <genre>Pinball</genre>
     <players>4</players>
     <year>1994</year>
     <manufacturer>Meldac - Kaze</manufacturer>
   </game>
   <game name="spinballbtmj" cloneof="spinballbtm">
     <description>Super Pinball - Behind the Mask (Japan)</description>
-    <genre>PINBALL</genre>
+    <genre>Pinball</genre>
     <players>4</players>
     <year>1994</year>
     <manufacturer>Meldac - Kaze</manufacturer>
@@ -14493,49 +14500,49 @@
   </game>
   <game name="suprobtaisex" cloneof="suprobwarsexte">
     <description>Super Robot Taisen EX (Japan)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1994</year>
     <manufacturer>Banpresto</manufacturer>
   </game>
   <game name="suprobwars3">
     <description>Super Robot Wars 3 (Hack, English v2.00m2)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>2019</year>
     <manufacturer>Aeon Genesis</manufacturer>
   </game>
   <game name="suprobwars3ti" cloneof="suprobwars3">
     <description>Super Robot Wars 3 (Hack, Italian)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>2019</year>
     <manufacturer>Wolfgare</manufacturer>
   </game>
   <game name="suprobwars4">
     <description>Super Robot Wars 4 (Hack, English)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>2026</year>
     <manufacturer>Aeon Genesis</manufacturer>
   </game>
   <game name="suprobwarsexte">
     <description>Super Robot Wars EX (Hack, English)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>2018</year>
     <manufacturer>Aeon Genesis</manufacturer>
   </game>
   <game name="suprobwarsexti" cloneof="suprobwarsexte">
     <description>Super Robot Wars EX (Hack, Italian)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>2022</year>
     <manufacturer>Wolfgare</manufacturer>
   </game>
   <game name="suprobwarsexts" cloneof="suprobwarsexte">
     <description>Super Robot Wars EX (Hack, Spanish)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>2023</year>
     <manufacturer>Max1323</manufacturer>
@@ -14654,14 +14661,14 @@
   </game>
   <game name="syndicate">
     <description>Syndicate (USA)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>2</players>
     <year>1995</year>
     <manufacturer>Ocean - Bullfrog</manufacturer>
   </game>
   <game name="syndicatee" cloneof="syndicate">
     <description>Syndicate (Euro)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>2</players>
     <year>1994</year>
     <manufacturer>Ocean - Bullfrog</manufacturer>
@@ -15116,21 +15123,21 @@
   </game>
   <game name="themeparke">
     <description>Theme Park (Euro)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1995</year>
     <manufacturer>Ocean</manufacturer>
   </game>
   <game name="themeparkj" cloneof="themeparke">
     <description>Theme Park (Japan)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1995</year>
     <manufacturer>Electronic Arts</manufacturer>
   </game>
   <game name="thomastankengine">
     <description>Thomas the Tank Engine & Friends (USA)</description>
-    <genre>MINIGAMES</genre>
+    <genre>Mini-Games</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>THQ</manufacturer>
@@ -15193,7 +15200,7 @@
   </game>
   <game name="timonpumba">
     <description>Timon & Pumbaa's Jungle Games (USA)</description>
-    <genre>MINIGAMES</genre>
+    <genre>Mini-Games</genre>
     <players>1</players>
     <year>1997</year>
     <manufacturer>THQ Inc.</manufacturer>
@@ -15340,7 +15347,7 @@
   </game>
   <game name="tokimemo" cloneof="heartmemo">
     <description>Tokimeki Memorial: Densetsu no Ki no Shita de (Japan, Rev. 1)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1996</year>
     <manufacturer>Konami</manufacturer>
@@ -15592,14 +15599,14 @@
   </game>
   <game name="turnburn">
     <description>Turn and Burn: No-Fly Zone (USA)</description>
-    <genre>SIM</genre>
+    <genre>Simulation</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Absolute Entertainment</manufacturer>
   </game>
   <game name="turnburns" cloneof="turnburn">
     <description>Turn and Burn: No-Fly Zone (Euro, Spanish)</description>
-    <genre>SIM</genre>
+    <genre>Simulation</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Absolute Entertainment</manufacturer>
@@ -15795,21 +15802,21 @@
   </game>
   <game name="utopia">
     <description>Utopia: The Creation of a Nation (USA)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Jaleco</manufacturer>
   </game>
   <game name="utopiae" cloneof="utopia">
     <description>Utopia: The Creation of a Nation (Euro)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Gremlin Graphics</manufacturer>
   </game>
   <game name="utopiaj" cloneof="utopia">
     <description>Utopia (Japan)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Epic/Sony Records</manufacturer>
@@ -15823,14 +15830,14 @@
   </game>
   <game name="vegasdream" cloneof="vegasstakes">
     <description>Las Vegas Dream in Golden Paradise (Japan)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>4</players>
     <year>1993</year>
     <manufacturer>HAL Laboratory</manufacturer>
   </game>
   <game name="vegasstakes">
     <description>Vegas Stakes (USA)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>4</players>
     <year>1993</year>
     <manufacturer>HAL Laboratory</manufacturer>
@@ -15893,14 +15900,14 @@
   </game>
   <game name="war2410">
     <description>War 2410 (USA)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1995</year>
     <manufacturer>Advanced Productions</manufacturer>
   </game>
   <game name="war3010">
     <description>War 3010: The Revolution (USA)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1996</year>
     <manufacturer>Advanced Productions</manufacturer>
@@ -15977,14 +15984,14 @@
   </game>
   <game name="weddpeach">
     <description>Wedding Peach (Hack, English)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>2024</year>
     <manufacturer>Krokodyl</manufacturer>
   </game>
   <game name="weddpeachj" cloneof="weddpeach">
     <description>Wedding Peach (Japan)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1995</year>
     <manufacturer>KSS</manufacturer>
@@ -16005,14 +16012,14 @@
   </game>
   <game name="carmenworld">
     <description>Where in the World Is Carmen Sandiego (USA)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Hi Tech Expressions</manufacturer>
   </game>
   <game name="carmentime">
     <description>Where in Time Is Carmen Sandiego (USA)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1992</year>
     <manufacturer>Hi Tech Expressions</manufacturer>
@@ -16040,42 +16047,42 @@
   </game>
   <game name="wingcmd">
     <description>Wing Commander (USA)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1992</year>
     <manufacturer>Mindscape</manufacturer>
   </game>
   <game name="wingcmde" cloneof="wingcmd">
     <description>Wing Commander (Euro, English)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1992</year>
     <manufacturer>Mindscape</manufacturer>
   </game>
   <game name="wingcmdg" cloneof="wingcmd">
     <description>Wing Commander (Euro, German, Rev. 1)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1992</year>
     <manufacturer>Mindscape</manufacturer>
   </game>
   <game name="wingcmdj" cloneof="wingcmd">
     <description>Wing Commander (Japan)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>ASCII Corp.</manufacturer>
   </game>
   <game name="wingcmdsm">
     <description>Wing Commander - The Secret Missions (USA)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Mindscape</manufacturer>
   </game>
   <game name="wingcmdsme" cloneof="wingcmdsm">
     <description>Wing Commander - The Secret Missions (Euro)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1993</year>
     <manufacturer>Mindscape</manufacturer>
@@ -16299,35 +16306,35 @@
   </game>
   <game name="wprojectjj" cloneof="wprojectjte">
     <description>Wonder Project J: Kikai no Shounen Pino (Japan)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1994</year>
     <manufacturer>Enix</manufacturer>
   </game>
   <game name="wprojectjte">
     <description>Wonder Project J: Kikai no Shounen Pino (Hack, English v1.04)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>2016</year>
     <manufacturer>WakdHacks</manufacturer>
   </game>
   <game name="wprojectjti" cloneof="wprojectjte">
     <description>Wonder Project J: Kikai no Shounen Pino (Hack, Italian v1.0b)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>2002</year>
     <manufacturer>Mog Tom</manufacturer>
   </game>
   <game name="wprojectjtp" cloneof="wprojectjte">
     <description>Wonder Project J: Kikai no Shounen Pino (Hack, Portuguese v0.99)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>2005</year>
     <manufacturer>RaphFS</manufacturer>
   </game>
   <game name="wprojectjts" cloneof="wprojectjte">
     <description>Wonder Project J: Kikai no Shounen Pino (Hack, Spanish v1.2)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>2018</year>
     <manufacturer>Semco</manufacturer>
@@ -16635,7 +16642,7 @@
   </game>
   <game name="yuuyuutoku">
     <description>Yuu Yuu Hakusho: Tokubetsu Hen (Japan)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>2</players>
     <year>1994</year>
     <manufacturer>Namcot</manufacturer>
@@ -16663,7 +16670,7 @@
   </game>
   <game name="zigzagcatj">
     <description>Zig Zag Cat - Dachou Club mo Oosawagi da (Japan)</description>
-    <genre>BREAKOUT</genre>
+    <genre>Breakout</genre>
     <players>1</players>
     <year>1994</year>
     <manufacturer>Den'Z</manufacturer>
@@ -16838,7 +16845,7 @@
   </game>
   <game name="pokemonst">
     <description>Pokemon Stadium (USA) (Unl)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>2</players>
     <year>1999</year>
     <manufacturer>DVS Electronic</manufacturer>
@@ -16880,7 +16887,7 @@
   </game>
   <game name="superbig2">
     <description>Super Big 2 (China) (Unl)</description>
-    <genre>CARD</genre>
+    <genre>Card Game</genre>
     <players>2</players>
     <year>199x</year>
     <manufacturer>&lt;unknown&gt;</manufacturer>
@@ -16971,7 +16978,7 @@
   </game>
   <game name="arcanasor" cloneof="arcana">
     <description>Arcana - Seal of Rimsala (Hack, v3.0)</description>
-    <genre>MAZE</genre>
+    <genre>Maze</genre>
     <players>1</players>
     <year>2024</year>
     <manufacturer>Sarah Shinespark</manufacturer>
@@ -17118,7 +17125,7 @@
   </game>
   <game name="cornbustpiko" cloneof="cornbustproto">
     <description>Corn Buster (Euro) (Piko)</description>
-    <genre>BREAKOUT</genre>
+    <genre>Breakout</genre>
     <players>2</players>
     <year>2015</year>
     <manufacturer>Piko Interactive</manufacturer>
@@ -17188,7 +17195,7 @@
   </game>
   <game name="desolate">
     <description>Desolate (HB, v1.1)</description>
-    <genre>MAZE</genre>
+    <genre>Maze</genre>
     <players>1</players>
     <year>2025</year>
     <manufacturer>Crisp</manufacturer>
@@ -17426,7 +17433,7 @@
   </game>
   <game name="goomba">
     <description>Goomba Break Out (HB, v1.3)</description>
-    <genre>BREAKOUT</genre>
+    <genre>Breakout</genre>
     <players>1</players>
     <year>2024</year>
     <manufacturer>BriG78</manufacturer>
@@ -17461,7 +17468,7 @@
   </game>
   <game name="hilda">
     <description>Hilda (HB)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>2016</year>
     <manufacturer>Orochii and EN.i</manufacturer>
@@ -17475,7 +17482,7 @@
   </game>
   <game name="hypermetroid" cloneof="supermetroid">
     <description>Hyper Metroid (Hack)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>2015</year>
     <manufacturer>RealRed</manufacturer>
@@ -17489,7 +17496,7 @@
   </game>
   <game name="incognity">
     <description>Incognity: A rover story (HB)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>2021</year>
     <manufacturer>cand</manufacturer>
@@ -17746,6 +17753,13 @@
     <year>2020</year>
     <manufacturer>Bosn</manufacturer>
   </game>
+  <game name="megamanxsa1p" cloneof="megamanx">
+    <description>Mega Man X - SA-1 Plus (Hack, v1.0.1)</description>
+    <genre>Platform</genre>
+    <players>1</players>
+    <year>2026</year>
+    <manufacturer>llethas</manufacturer>
+  </game>
   <game name="megastalgia">
     <description>Megastalgia - Megaman Edition (GlobalHack)</description>
     <genre>Platform</genre>
@@ -17769,7 +17783,7 @@
   </game>
   <game name="minicraft3d">
     <description>Minicraft 3D (HB, v0.2)</description>
-    <genre>SIM</genre>
+    <genre>Simulation</genre>
     <players>1</players>
     <year>2026</year>
     <manufacturer>GameOfTobi</manufacturer>
@@ -17787,6 +17801,13 @@
     <players>2</players>
     <year>2016</year>
     <manufacturer>DarkSamus993</manufacturer>
+  </game>
+  <game name="mkma17" cloneof="mk">
+    <description>Mortal Kombat MA-17 (Hack)</description>
+    <genre>Fighting</genre>
+    <players>2</players>
+    <year>2026</year>
+    <manufacturer>Yoshihiro</manufacturer>
   </game>
   <game name="mk3ne" cloneof="mk3">
     <description>Mortal Kombat 3 New Edition (Hack)</description>
@@ -18420,7 +18441,7 @@
   </game>
   <game name="superjunkoid">
     <description>Super Junkoid (GlobalHack, v1.3)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>2023</year>
     <manufacturer>P. Yoshi</manufacturer>
@@ -18441,21 +18462,21 @@
   </game>
   <game name="supermetroidasc" cloneof="supermetroid">
     <description>Super Metroid Ascent (Hack, v1.12)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>2019</year>
     <manufacturer>Benox50</manufacturer>
   </game>
   <game name="supermetroidfcp" cloneof="supermetroid">
     <description>Super Metroid: Fix Collection Patch (Hack, v1.1)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>2026</year>
     <manufacturer>Furo_19</manufacturer>
   </game>
   <game name="supermetroidxf" cloneof="supermetroid">
     <description>Super Metroid X-Fusion (Hack, v1.3)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>2025</year>
     <manufacturer>Metaquarius</manufacturer>
@@ -18567,14 +18588,14 @@
   </game>
   <game name="teenagequeen">
     <description>Teenage Queen (USA) (HB, v1.4)</description>
-    <genre>CARD</genre>
+    <genre>Card Game</genre>
     <players>1</players>
     <year>2018</year>
     <manufacturer>Alekmaul</manufacturer>
   </game>
   <game name="teenagequeene" cloneof="teenagequeen">
     <description>Teenage Queen (Euro) (HB, v1.4)</description>
-    <genre>CARD</genre>
+    <genre>Card Game</genre>
     <players>1</players>
     <year>2018</year>
     <manufacturer>Alekmaul</manufacturer>
@@ -18700,7 +18721,7 @@
   </game>
   <game name="witchnwiz">
     <description>Witch n' Wiz (NES2SNES) (HB)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>2022</year>
     <manufacturer>Matt Hughson</manufacturer>

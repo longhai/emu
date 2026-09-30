@@ -3,7 +3,7 @@
   <header><name>PCE</name></header>
   <game name="scdsys">
     <description>CD System Card</description>
-    <genre>BIOS</genre>
+    <genre>BIOS / System</genre>
     <players>1</players>
     <year>1991</year>
     <manufacturer>NEC - Hudson Soft</manufacturer>
@@ -45,7 +45,7 @@
   </game>
   <game name="acrush">
     <description>Alien Crush (Japan)</description>
-    <genre>PINBALL</genre>
+    <genre>Pinball</genre>
     <players>1</players>
     <year>1988</year>
     <manufacturer>Naxat Soft</manufacturer>
@@ -143,7 +143,7 @@
   </game>
   <game name="beball">
     <description>Be Ball (Japan)</description>
-    <genre>MAZE</genre>
+    <genre>Maze</genre>
     <players>2</players>
     <year>1990</year>
     <manufacturer>Hudson Soft</manufacturer>
@@ -241,14 +241,14 @@
   </game>
   <game name="bubblegm">
     <description>Bubblegum Crash! - Knight Sabers 2034 (Japan)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1991</year>
     <manufacturer>Naxat Soft</manufacturer>
   </game>
   <game name="bubblegme" cloneof="bubblegm">
     <description>Bubblegum Crash! - Knight Sabers 2034 (Hack, English)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>2022</year>
     <manufacturer>Dave Shadoff, filler</manufacturer>
@@ -297,14 +297,14 @@
   </game>
   <game name="chikuden">
     <description>Chikudenya Toubei - Kubikiri Yakata Yori (Japan)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1990</year>
     <manufacturer>Naxat Soft</manufacturer>
   </game>
   <game name="chikuden1" cloneof="chikuden">
     <description>Chikudenya Toubei - Kubikiri Yakata Yori (Japan, Alt)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1990</year>
     <manufacturer>Naxat Soft</manufacturer>
@@ -409,7 +409,7 @@
   </game>
   <game name="cyknight">
     <description>Cyber Knight (Japan)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1990</year>
     <manufacturer>Tonkin House</manufacturer>
@@ -423,14 +423,14 @@
   </game>
   <game name="donaturl">
     <description>Daichi Kun Crisis - Do Natural (Japan)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1989</year>
     <manufacturer>Salio</manufacturer>
   </game>
   <game name="donaturlte" cloneof="donaturl">
     <description>Daichi Kun Crisis - Do Natural (Hack, English)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>2026</year>
     <manufacturer>washbear</manufacturer>
@@ -472,7 +472,7 @@
   </game>
   <game name="devlcrsh">
     <description>Devil Crash: Naxat Pinball (Japan)</description>
-    <genre>PINBALL</genre>
+    <genre>Pinball</genre>
     <players>2</players>
     <year>1990</year>
     <manufacturer>Naxat Soft</manufacturer>
@@ -584,21 +584,21 @@
   </game>
   <game name="droprock">
     <description>Drop Rock Hora Hora (Japan)</description>
-    <genre>BREAKOUT</genre>
+    <genre>Breakout</genre>
     <players>1</players>
     <year>1990</year>
     <manufacturer>Data East</manufacturer>
   </game>
   <game name="droprock1" cloneof="droprock">
     <description>Drop Rock Hora Hora (Japan, Alt)</description>
-    <genre>BREAKOUT</genre>
+    <genre>Breakout</genre>
     <players>1</players>
     <year>1990</year>
     <manufacturer>Data East</manufacturer>
   </game>
   <game name="dungexpl">
     <description>Dungeon Explorer (Japan)</description>
-    <genre>MAZE</genre>
+    <genre>Maze</genre>
     <players>1</players>
     <year>1989</year>
     <manufacturer>Hudson Soft</manufacturer>
@@ -773,7 +773,7 @@
   </game>
   <game name="gaiamons">
     <description>Gaia no Monshou (Japan)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>2</players>
     <year>1988</year>
     <manufacturer>NCS</manufacturer>
@@ -913,7 +913,7 @@
   </game>
   <game name="xserd">
     <description>Hisou Kihei - Xserd (Japan)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1990</year>
     <manufacturer>Masaya</manufacturer>
@@ -934,7 +934,7 @@
   </game>
   <game name="idolhana">
     <description>Idol Hanafuda Fan Club (Japan)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1991</year>
     <manufacturer>Game Express</manufacturer>
@@ -1109,21 +1109,21 @@
   </game>
   <game name="ladyswrd">
     <description>Lady Sword (Japan)</description>
-    <genre>MAZE</genre>
+    <genre>Maze</genre>
     <players>1</players>
     <year>1992</year>
     <manufacturer>Game Express</manufacturer>
   </game>
   <game name="ladyswrd1" cloneof="ladyswrd">
     <description>Lady Sword (Japan, Alt)</description>
-    <genre>MAZE</genre>
+    <genre>Maze</genre>
     <players>1</players>
     <year>1992</year>
     <manufacturer>Game Express</manufacturer>
   </game>
   <game name="ladyswrdeng" cloneof="ladyswrd">
     <description>Lady Sword (Hack, English)</description>
-    <genre>MAZE</genre>
+    <genre>Maze</genre>
     <players>1</players>
     <year>2010</year>
     <manufacturer>EsperKnight, filler, Grant Laughlin, Tomaitheous</manufacturer>
@@ -1193,14 +1193,14 @@
   </game>
   <game name="mikkoku">
     <description>Maison Ikkoku (Japan)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1989</year>
     <manufacturer>Micro Cabin</manufacturer>
   </game>
   <game name="mikkokue" cloneof="mikkoku">
     <description>Maison Ikkoku (Hack, English)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>2008</year>
     <manufacturer>Dave Shadoff, filler</manufacturer>
@@ -1382,7 +1382,7 @@
   </game>
   <game name="nazomasq">
     <description>Nazo no Masquerade (Japan)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1990</year>
     <manufacturer>Masaya</manufacturer>
@@ -1410,7 +1410,7 @@
   </game>
   <game name="nectaris">
     <description>Nectaris (Japan)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>2</players>
     <year>1990</year>
     <manufacturer>Hudson Soft</manufacturer>
@@ -1452,7 +1452,7 @@
   </game>
   <game name="nhktaidr">
     <description>NHK Taiga Drama - Taiheiki (Japan)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1992</year>
     <manufacturer>NHK Enterprise</manufacturer>
@@ -1487,7 +1487,7 @@
   </game>
   <game name="offthewall">
     <description>Off the Wall (Prototype)</description>
-    <genre>BREAKOUT</genre>
+    <genre>Breakout</genre>
     <players>1</players>
     <year>1992</year>
     <manufacturer>Tengen - Atari</manufacturer>
@@ -1550,7 +1550,7 @@
   </game>
   <game name="pachikun">
     <description>Pachio Kun - Juuban Shoubu (Japan)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1992</year>
     <manufacturer>Coconuts Japan</manufacturer>
@@ -1634,14 +1634,14 @@
   </game>
   <game name="populous">
     <description>Populous (Japan)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1991</year>
     <manufacturer>Hudson Soft</manufacturer>
   </game>
   <game name="populous1" cloneof="populous">
     <description>Populous (Japan) (Alt)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1991</year>
     <manufacturer>Hudson Soft</manufacturer>
@@ -1858,7 +1858,7 @@
   </game>
   <game name="sadaki7">
     <description>Sadakichi 7 Series - Hideyoshi no Ougon (Japan)</description>
-    <genre>ADV</genre>
+    <genre>Adventure</genre>
     <players>1</players>
     <year>1988</year>
     <manufacturer>Hudson Soft</manufacturer>
@@ -1886,7 +1886,7 @@
   </game>
   <game name="sekigaha">
     <description>Sekigahara (Japan)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1990</year>
     <manufacturer>Tonkin House</manufacturer>
@@ -1921,14 +1921,14 @@
   </game>
   <game name="shogisi">
     <description>Shougi Shodan Icchokusen (Japan)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1990</year>
     <manufacturer>Home Data</manufacturer>
   </game>
   <game name="shogism">
     <description>Shougi Shoshinsha Muyou (Japan)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1991</year>
     <manufacturer>Home Data</manufacturer>
@@ -1989,6 +1989,13 @@
     <year>1989</year>
     <manufacturer>NEC</manufacturer>
   </game>
+  <game name="sonson2te" cloneof="sonson2">
+    <description>Son Son II (Hack, English)</description>
+    <genre>Platform</genre>
+    <players>1</players>
+    <year>2026</year>
+    <manufacturer>Jackic</manufacturer>
+  </game>
   <game name="sharrier">
     <description>Space Harrier (Japan)</description>
     <genre>Shooter</genre>
@@ -2033,7 +2040,7 @@
   </game>
   <game name="stratego">
     <description>Stratego (Japan)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1992</year>
     <manufacturer>Victor Interactive Software</manufacturer>
@@ -2054,7 +2061,7 @@
   </game>
   <game name="smcrush">
     <description>Super Metal Crusher (Japan)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>2</players>
     <year>1991</year>
     <manufacturer>Pack-In-Video</manufacturer>
@@ -2166,14 +2173,14 @@
   </game>
   <game name="timcrus2">
     <description>Time Cruise II (Japan)</description>
-    <genre>PINBALL</genre>
+    <genre>Pinball</genre>
     <players>1</players>
     <year>1991</year>
     <manufacturer>Face Corp.</manufacturer>
   </game>
   <game name="titan">
     <description>Titan (Japan)</description>
-    <genre>BREAKOUT</genre>
+    <genre>Breakout</genre>
     <players>1</players>
     <year>1991</year>
     <manufacturer>Naxat Soft</manufacturer>
@@ -2334,7 +2341,7 @@
   </game>
   <game name="wallaby">
     <description>Wallaby!! - Usagi no Kuni no Kangaroo Race (Japan)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>1</players>
     <year>1990</year>
     <manufacturer>NCS - Masaya</manufacturer>
@@ -2488,7 +2495,7 @@
   </game>
   <game name="chewman">
     <description>Chew-Man-Fu (USA)</description>
-    <genre>MAZE</genre>
+    <genre>Maze</genre>
     <players>2</players>
     <year>1990</year>
     <manufacturer>NEC</manufacturer>
@@ -2502,7 +2509,7 @@
   </game>
   <game name="cratermz">
     <description>Cratermaze (USA)</description>
-    <genre>MAZE</genre>
+    <genre>Maze</genre>
     <players>1</players>
     <year>1990</year>
     <manufacturer>NEC</manufacturer>
@@ -2530,14 +2537,14 @@
   </game>
   <game name="dropoff">
     <description>Drop Off (USA)</description>
-    <genre>BREAKOUT</genre>
+    <genre>Breakout</genre>
     <players>1</players>
     <year>1990</year>
     <manufacturer>NEC</manufacturer>
   </game>
   <game name="falcon">
     <description>Falcon (USA)</description>
-    <genre>SIM</genre>
+    <genre>Simulation</genre>
     <players>1</players>
     <year>1992</year>
     <manufacturer>TTI</manufacturer>
@@ -2558,7 +2565,7 @@
   </game>
   <game name="gunboat">
     <description>Gunboat (USA)</description>
-    <genre>SIM</genre>
+    <genre>Simulation</genre>
     <players>1</players>
     <year>1992</year>
     <manufacturer>NEC</manufacturer>
@@ -2614,7 +2621,7 @@
   </game>
   <game name="miltrymd">
     <description>Military Madness (USA)</description>
-    <genre>STRATEGY</genre>
+    <genre>Strategy</genre>
     <players>2</players>
     <year>1989</year>
     <manufacturer>NEC</manufacturer>
@@ -2719,7 +2726,7 @@
   </game>
   <game name="timcrus">
     <description>Time Cruise (USA)</description>
-    <genre>PINBALL</genre>
+    <genre>Pinball</genre>
     <players>1</players>
     <year>1992</year>
     <manufacturer>TTI</manufacturer>
